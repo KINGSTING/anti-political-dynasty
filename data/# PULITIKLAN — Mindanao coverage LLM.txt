@@ -1,0 +1,497 @@
+Sulu
+
+Abdusakur Mahail Tan → Abdusakur Abubakar Tan II: Father -> son
+
+Abdusakur Mahail Tan → Samier Abubakar Tan: Father -> son
+
+Abdusakur Mahail Tan → Shihla Tan-Hayudini: Father -> daughter
+
+Abdusakur Mahail Tan → Shernee Tan-Tambut: Father -> daughter
+
+Hadja Nurunisah Abubakar → Abdusakur Abubakar Tan II: Mother -> son
+
+Hadja Nurunisah Abubakar → Samier Abubakar Tan: Mother -> son
+
+Hadja Nurunisah Abubakar → Shihla Tan-Hayudini: Mother -> daughter
+
+Hadja Nurunisah Abubakar → Shernee Tan-Tambut: Mother -> daughter
+
+Abdusakur Mahail Tan → Hadja Nurunisah Abubakar: Husband -> wife
+
+Edsir Que Tan → Khumaidy Alfad Tan: Uncle -> niece
+
+Edsir Que Tan → Edsir Ahmad Tan II: Father -> son
+
+Munir Mundoc Arbison → Al-Makram Napii Arbison: Father -> son
+
+Munir Mundoc Arbison → Al-Nur Napii Arbison: Father -> son
+
+Zamboanga Sibugay
+
+Dr. George Hofer → Dulce Ann: Father -> daughter
+
+Dulce Ann → Anna Marlesa Hofer Tamano-Hasim: Cousin -> cousin
+
+Dr. George Hofer → George Pavlo Saguitan Hofer: Grandfather -> grandson
+
+Zamboanga del Norte
+
+Roberto "Berto" Uy → Darel Dexter Uy: Father -> son
+
+Evelyn "Belen" Tang Uy → Darel Dexter Uy: Mother -> son
+
+Roberto "Berto" Uy → Evelyn "Belen" Tang Uy: Husband -> wife
+
+Roberto "Berto" Uy → Roberto "Pinpin" Uy Jr.: Father -> son
+
+Evelyn "Belen" Tang Uy → Roberto "Pinpin" Uy Jr.: Mother -> son
+
+Darel Dexter Uy → Roberto "Pinpin" Uy Jr.: Brother -> brother
+
+Roberto Lim Uy Jr. → Venus Arancana Uy: Husband -> wife
+
+Rosendo Labadlabad → Irene Gollayan Labadlabad: Father -> daughter
+
+Glona Gollayan Labadlabad → Irene Gollayan Labadlabad: Mother -> daughter
+
+Rosendo Labadlabad → Glona Gollayan Labadlabad: Husband -> wife
+
+Zamboanga del Sur
+
+Victor Jo Yu → Divina Grace Cabardo Yu: Husband -> wife
+
+Divina Grace Cabardo Yu → Joseph Kim Cabardo Yu: Mother -> son
+
+Victor Jo Yu → Joseph Kim Cabardo Yu: Father -> son
+
+Divina Grace Cabardo Yu → Jeyzel Victoria Cabardo Yu: Mother -> daughter
+
+Victor Jo Yu → Jeyzel Victoria Cabardo Yu: Father -> daughter
+
+Divina Grace Cabardo Yu → John Raymon Cabardo Yu: Mother -> son
+
+Victor Jo Yu → John Raymon Cabardo Yu: Father -> son
+
+Bukidnon
+
+Juan Miguel F. Zubiri → Audrey Kay Aquino Tan-Zubiri: Husband -> wife
+
+Jose Ma. Rubin Zubiri, Jr. → Juan Miguel F. Zubiri: Father -> son
+
+Rogelio Neil Pepito Roque → Laarni Roque: Husband -> wife
+
+Rogelio Narvasa Quiño → Clive Dadole Quiño: Older brother -> brother
+
+Clive Dadole Quiño → Rina Edrote Quiño: Husband -> wife
+
+Camiguin
+
+Jurdin Jesus "JJ" Modina Romualdo → Xavier Jesus "XJ" Dela Fuente Romualdo: Father -> son
+
+Jurdin Jesus "JJ" Modina Romualdo → Rodin Modina Romualdo: Brother -> brother
+
+Jurdin Jesus "JJ" Modina Romualdo → Yñigo Jesus: Father -> son
+
+Lanao del Norte
+
+Ali Dimaporo → Abdullah Dimaporo: Father -> son
+
+Arsenio Quibranza → Imelda "Angging" Quibranza: Father -> daughter
+
+Abdullah Dimaporo → Imelda "Angging" Quibranza: Husband -> wife
+
+Abdullah Dimaporo → Mohamad Khalid Quibranza Dimaporo: Father -> son
+
+Imelda Quibranza-Dimaporo → Mohamad Khalid Quibranza Dimaporo: Mother -> son
+
+Abdullah Dimaporo → Sittie Aminah Q. Dimaporo: Father -> daughter
+
+Imelda Quibranza-Dimaporo → Sittie Aminah Q. Dimaporo: Mother -> daughter
+
+Mohamad Khalid Quibranza Dimaporo → Sittie Aminah Q. Dimaporo: Brother -> sister
+
+Sittie Aminah Q. Dimaporo → Ulwan Dimaporo: Wife -> husband
+
+Motalib Dimaporo → Ulwan Dimaporo: Father -> son
+
+Misamis Occidental
+
+Henry Sevilla Oaminal → Sancho Fernando Fuentes Oaminal: Father -> son
+
+Henry Sevilla Oaminal → Henry "Indy" Fuentes Oaminal Jr.: Father -> son
+
+Riza Oaminal Delos Santos → Henry Sevilla Oaminal: Elder sister -> brother
+
+Riza Oaminal Delos Santos → Sancho Sevilla Oaminal Jr.: Elder sister -> brother
+
+Henry Sevilla Oaminal → Sancho Sevilla Oaminal Jr.: Brother -> younger brother
+
+Pearl Grace Fuentes-Oaminal → Henry Sevilla Oaminal: Wife -> husband
+
+Sam Norman Go Fuentes → Pearl Grace Fuentes-Oaminal: Brother -> sister
+
+Rowena Lapinig Gutierrez → Andrea Cherry Pink Lapinig Gutierrez-Cagas: Mother -> daughter
+
+Luisito Bergado Villanueva Jr. → Ezel Tabuelog Villanueva: Husband -> wife
+
+Misamis Oriental
+
+Julio Tadoy Uy → Juliette Tiu Uy: Husband -> wife
+
+Yevgeny Vincente Emano → Nadya Beja Emano: Brother -> sister
+
+Yevgeny Vincente Emano → Yevonna Yacine Beja Emano: Brother -> sister
+
+Vicente Yap Emano → Yevonna Yacine Beja Emano: Father -> daughter
+
+Aloma Beja Emano → Yevonna Yacine Beja Emano: Mother -> daughter
+
+Jennifer Artadi Lagbas → Danilo Artadi Lagbas Jr.: Sister -> brother
+
+Jennifer Artadi Lagbas → Cheezee Salvador Zanoria Lagbas: Cousin -> cousin
+
+Danilo Artadi Lagbas Jr. → Lilibeth Magno Lagbas: Husband -> wife
+
+Jennifer Artadi Lagbas → Benedict Jamero Lagbas Jr.: Cousin -> cousin
+
+Davao Occidental
+
+Benjamin Bautista, Sr. → Franklin Peralta Bautista: Father -> son
+
+Benjamin Bautista, Sr. → Lorna Bautista Bandigan: Father -> daughter
+
+Benjamin Bautista, Sr. → Claude Peralta Bautista: Father -> son
+
+Benjamin Bautista, Sr. → Benjamin Peralta Bautista Jr.: Father -> son
+
+Franklin Peralta Bautista → Lorna Bautista Bandigan: Brother -> sister
+
+Franklin Peralta Bautista → Claude Peralta Bautista: Brother -> brother
+
+Franklin Peralta Bautista → Benjamin Peralta Bautista Jr.: Brother -> brother
+
+Franklin Peralta Bautista → Bradly Llido Bautista: Father -> son
+
+Benjamin Peralta Bautista Jr. → Bradly Llido Bautista: Uncle -> nephew
+
+Benjamin Peralta Bautista Jr. → Benjamin Tan Bautista III: Father -> son
+
+Benjamin Peralta Bautista Jr. → Estefanie Bautista Dumama: Father -> daughter
+
+Claude Peralta Bautista → Claude Benjamin Bautista II: Father -> son
+
+Jason John Arciaga Joyce → James John Arciaga Joyce: Brother -> brother
+
+Jason John Arciaga Joyce → Jardin John Arciaga Joyce: Brother -> brother
+
+Davao Oriental
+
+Nelson Dayanghirang, Sr. → Nelson Restor Dayanghirang Jr.: Father -> son
+
+Ma. Glenda Monette Rabat-Gayta → Tara Marie Rabat Gayta: Mother -> daughter
+
+Mayo Z. Almario → Cheeno Miguel D. Almario: Father -> son
+
+Davao de Oro
+
+Manuel E. Zamora → Maria Carmen Solamillo Zamora-Mabanglo: Father -> daughter
+
+Maria Carmen Solamillo Zamora-Mabanglo → Manuel Jr.: Half sister -> half brother
+
+Maria Carmen Solamillo Zamora-Mabanglo → Raul Gorospe Mabanglo: Wife -> husband
+
+Maria Carmen Solamillo Zamora-Mabanglo → Herve Martelle Zamora Apsay: Mother -> son
+
+Maria Carmen Solamillo Zamora-Mabanglo → Hugh Maxuelle Zamora Apsay: Mother -> son
+
+Ruwel Sambas Gonzaga → Dorothy Montejo: Husband -> wife
+
+Ruwel Sambas Gonzaga → Ruwina: Brother -> sister
+
+Ruwel Sambas Gonzaga → Ruperto III: Brother -> brother
+
+Ruwel Sambas Gonzaga → Runero: Brother -> brother
+
+Davao del Norte
+
+Rey Tao Uy → De Carlo Uy: Father -> son
+
+Rey Tao Uy → Ciara Uy: Father -> daughter
+
+Al David Uy → Carmeglynn Lacson Uy: Husband -> wife
+
+Jose E. Relampagos → Janris Jay Gentiles Relampagos: Father -> son
+
+Jose E. Relampagos → Josie Mary Gentiles: Father -> daughter
+
+Jose E. Relampagos → Josephus Gentiles: Father -> son
+
+Davao del Sur
+
+Vicente Gonzales Duterte → Rodrigo Roa Duterte: Father -> son
+
+Rodrigo Roa Duterte → Sebastian Duterte: Father -> son
+
+Paolo Zimmerman Duterte → Rodrigo "Rigo" Duterte II: Father -> son
+
+Rodrigo Roa Duterte → Rodrigo "Rigo" Duterte II: Grandfather -> grandson
+
+Paolo Zimmerman Duterte → Omar Vincent Sangkola Duterte: Father -> son
+
+Rodrigo "Rigo" Duterte II → Omar Vincent Sangkola Duterte: Brother -> brother
+
+Paolo Zimmerman Duterte → January Duterte: Husband -> wife
+
+Douglas Cagas → Marc Douglas IV Chan: Father -> son
+
+Douglas Cagas → Yvonne Rona: Husband -> wife
+
+Yvonne Rona → Marc Douglas IV Chan: Mother -> son
+
+Douglas Cagas → Gary Cagas: Brother -> brother
+
+Douglas Cagas → Rio Cagas: Brother -> brother
+
+Gary Cagas → John Tracy Cagas: Father -> son
+
+Gary Cagas → Josef Fortich M. Cagas: Father -> son
+
+Gary Cagas → Lisa Mariveles Cagas: Husband -> wife
+
+Rio Cagas → Johari Gomez Bana: Father-in-law -> son-in-law
+
+Cotabato
+
+Rogelio Taliño → Emmylou Taliño Mendoza: Father -> daughter
+
+Emmylou Taliño Mendoza → Ma. Alana Samantha Taliño Santos: Mother -> daughter
+
+Emmylou Taliño Mendoza → Rochella Marie Taliño Taray: Aunt -> niece
+
+Rudy Santos Caoagdan → Ryl John Caoagdan: Father -> son
+
+Rudy Santos Caoagdan → Liezel Mae Corpuz Caoagdan: Father -> daughter
+
+Sarangani
+
+Emmanuel "Manny" Dapidran Pacquiao Sr. → Rogelio Dapidran Pacquiao: Brother -> brother
+
+Emmanuel "Manny" Dapidran Pacquiao Sr. → Zyrex Cantaros Pacquiao: Brother -> brother
+
+Zyrex Cantaros Pacquiao → Ellen Jade Cellona Pacquiao: Husband -> wife
+
+Reynaldo Figueroa Constantino → Maria Theresa Dadivas Constantino: Father -> daughter
+
+Victor James Barrera Yap Sr. → Victor James Perocho Yap Jr.: Father -> son
+
+South Cotabato
+
+Romeo Sanchez Tamayo → Reynaldo Sucayan Tamayo, Jr.: Uncle -> nephew
+
+Arthur Yusay Pingoy, Jr. → Anabelle Garcia Pingoy: Husband -> wife
+
+Shirlyn Legario Bañas-Nograles → Cesar Legario Bañas, Jr.: Eldest sister -> brother
+
+Sultan Kudarat
+
+Pax Mangudadatu → Datu Pax Ali Sangki Mangudadatu: Grandfather -> grandson
+
+Pax Mangudadatu → Prince Raden Mangudadatu Sakaluran: Grandfather -> grandson
+
+Pax Mangudadatu → Ruth Mangudadatu Sakaluran: Father -> daughter
+
+Ruth Mangudadatu Sakaluran → Prince Raden Mangudadatu Sakaluran: Mother -> son
+
+Ruth Mangudadatu Sakaluran → Princess Rihan Mangudadatu Sakaluran: Mother -> daughter
+
+Prince Raden Mangudadatu Sakaluran → Princess Rihan Mangudadatu Sakaluran: Brother -> sister
+
+Agusan del Norte
+
+Dale Bokingo Corvera → Enrico "Rico" Corvera: Brother -> brother
+
+Dale Bokingo Corvera → Leo Dale Ayo Corvera: Father -> son
+
+Edelmiro Amante → Maria Angelica Rosedell "Angel" Amante-Matba: Father -> daughter
+
+Edelmiro Amante → Erlpe John Amante: Father -> son
+
+Erlpe John Amante → Maria Angelica Rosedell "Angel" Amante-Matba: Brother -> sister
+
+Erlpe John Amante → Judy Chin Amante: Husband -> wife
+
+Erlpe John Amante → Inez Rosario Antipuesto-Amante: Father -> daughter
+
+Ramon "Monching" Mendezona Calo → Jovitte Cabrera Calo: Husband -> wife
+
+Avelina Saligumba Rosales → Karen Saligumba Rosales: Mother -> daughter
+
+Franklin Deiparine Lim → Zenaida Corro Lim: Husband -> wife
+
+Franklin Deiparine Lim → Ryan Jade Deparine Lim: Father -> son
+
+Agusan del Sur
+
+Democrito O. Plaza → Adolph Edward Galido Plaza: Father -> son
+
+Valentina Plaza → Adolph Edward Galido Plaza: Mother -> son
+
+Democrito O. Plaza → Valentina Plaza: Husband -> wife
+
+Evelyn Plaza-Mellana → Frederick Mark Plaza Mellana: Mother -> son
+
+Adolph Edward Galido Plaza → Frederick Mark Plaza Mellana: Uncle -> nephew
+
+Adolph Edward Galido Plaza → Patricia Anne Borja Plaza: Uncle -> niece
+
+Patricia Anne Borja Plaza → Randolph Borja Plaza: Sister -> brother
+
+Patricia Anne Borja Plaza → Roscoe Democrito Borja Plaza: Sister -> brother
+
+Salimar Torralba Mondejar → Sahlee Myr Salazar Mondejar: Father -> daughter
+
+Magdalena Aniñon Asis → Kim Lope Asis: Mother -> son
+
+Magdalena Aniñon Asis → Kirk Asis: Mother -> son
+
+Kim Lope Asis → Kirk Asis: Brother -> brother
+
+Gilbert Granada Elorde → Sylvia Barrios Elorde: Husband -> wife
+
+Sylvia Barrios Elorde → Ednard Gil Barrios Elorde: Mother -> son
+
+Gilbert Granada Elorde → Ednard Gil Barrios Elorde: Father -> son
+
+Dinagat Islands
+
+Benglen Ecleo → Geraldine "Jade" Buray Ecleo: Older brother -> sister
+
+Allan I Ecleo → Ozzy Reuben Ecleo: Father -> son
+
+Geraldine "Jade" Buray Ecleo → Ozzy Reuben Ecleo: Aunt -> nephew
+
+Allan I Ecleo → Bruce Allan Ecleo: Uncle -> nephew
+
+Nilo Pepito Demerey Jr. → Nilo Marco Miranda Demerey: Father -> son
+
+Adolfo Edillor Longos → Marc Adelson Dumdumaya Longos: Father -> son
+
+Surigao del Norte
+
+Robert Lyndon Smith Barbers → Robert Ace Smith Barbers: Brother -> brother
+
+Robert Ace Smith Barbers → Bernadette Sison Barbers: Husband -> wife
+
+Chandru "Bobet" Tumulak Bonite → Jennifer "Pem" Barbers Bonite: Husband -> wife
+
+Chandru "Bobet" Tumulak Bonite → Charleston Tumulak Bonite: Brother -> brother
+
+Francisco "Lalo" Tinio Matugas → Elizabeth Tinio Matugas: Brother -> sister
+
+Francisco "Lalo" Tinio Matugas → Alfredo Matugas Coro II: Uncle -> nephew
+
+Elizabeth Tinio Matugas → Alfredo Matugas Coro II: Aunt -> nephew
+
+Francisco "Lalo" Tinio Matugas → Marlon Matugas Coro: Uncle -> nephew
+
+Elizabeth Tinio Matugas → Marlon Matugas Coro: Aunt -> nephew
+
+Surigao del Sur
+
+Johnny Ty Pimentel → Alexander Ty Pimentel: Brother -> brother
+
+Vicente Pimentel Sr. → Johnny Ty Pimentel: Father -> son
+
+Felicidad Ty Pimentel → Johnny Ty Pimentel: Mother -> son
+
+Vicente Pimentel Sr. → Felicidad Ty Pimentel: Husband -> wife
+
+Alexander Ty Pimentel → Roxanne Cabrera Pimentel: Husband -> wife
+
+Johnny Ty Pimentel → John Paul Cruz Pimentel: Father -> son
+
+Johnny Ty Pimentel → Vicente Hotchkiss Pimentel III: Uncle -> nephew
+
+Vicente Hotchkiss Pimentel III → Keith Vincent Pimentel: Brother -> brother
+
+Manuel Osorio Alameda → Nicolas Osorio Alameda: Brother -> brother
+
+Romeo Momo Sr. → Eleanor Darvin Momo: Husband -> wife
+
+Romeo Momo Sr. → Ruel Momo: Father -> son
+
+Eleanor Darvin Momo → Ruel Momo: Mother -> son
+
+Romeo Momo Sr. → Romeo Momo Jr.: Father -> son
+
+Eleanor Darvin Momo → Romeo Momo Jr.: Mother -> son
+
+Basilan
+
+Mujiv Sabbihi Hataman → Jim Salliman Hataman: Brother -> brother
+
+Mujiv Sabbihi Hataman → Gulam "Boy" Hataman: Brother -> brother
+
+Jim Salliman Hataman → Gulam "Boy" Hataman: Brother -> brother
+
+Gulam "Boy" Hataman → Jul-Adnan Hataman: Father -> son
+
+Mujiv Sabbihi Hataman → Sitti Djahlia Turabin-Hataman: Husband -> wife
+
+Mujiv Sabbihi Hataman → Ahmed Djaliv Turabin Hataman: Father -> son
+
+Sitti Djahlia Turabin-Hataman → Ahmed Djaliv Turabin Hataman: Mother -> son
+
+Lanao del Sur
+
+Mamintal A. Adiong Jr. → Mohammad Khalid R. Adiong: Father -> son
+
+Mamintal A. Adiong Jr. → Ziaur-Rahman "Zia" Alonto Adiong: Brother -> brother
+
+Ziaur-Rahman "Zia" Alonto Adiong → Yasser Alonto Balindong: Cousin -> cousin
+
+Ali Pangalian Balindong → Yasser Alonto Balindong: Father -> son
+
+Majul Gandamra → Shariff Zain Gandamra: Father -> son
+
+Majul Gandamra → Muhammad Gandamra: Father -> son
+
+Maguindanao del Norte
+
+Datu Tucao Ong Mastura → Datu Armando Mastura: Brother -> brother
+
+Datu Tucao Ong Mastura → Datu Michael Mastura: Brother -> brother
+
+Shameem Mastura → Bai Dimple Mastura: Husband -> wife
+
+Datu Marshall Sinsuat → Bai Ainee Limbona-Sinsuat: Cousin -> cousin's wife
+
+Maguindanao del Sur
+
+Andal Ampatuan Jr. → Datu Andal Santiago Ampatuan V: Father -> son
+
+Esmael "Toto" Gaguil Mangudadatu → King Jhazzer Tiamson Mangudadatu: Father -> son
+
+Esmael "Toto" Gaguil Mangudadatu → Princess Grace Tiamson Mangudadatu: Father -> daughter
+
+Esmael "Toto" Gaguil Mangudadatu → Ibrahim Gaguil Mangudadatu: Brother -> brother
+
+Esmael "Toto" Gaguil Mangudadatu → Datu Wali Mangudadatu: Uncle -> nephew
+
+Tawi-Tawi
+
+Yshmael Sali → Al-Syed Sali: Father -> son
+
+Yshmael Sali → Dimszar Matba Sali: Uncle -> nephew
+
+Hadzri Halun Matba → Rofaida Alpha Matba: Husband -> wife
+
+Jay Sayang Lonzaga Jamalul → Mohammad Faizal Hajani Jamalul: Spouses
+
+Albert Tan Que → Jasper Shia Que: Father -> son
+
+Albert Tan Que → Jimuel Shia Que: Father -> son
+
+Jasper Shia Que → Jimuel Shia Que: Brother -> brother
+
+Tiblan Canon Ahaja → Serbin Canon Ahaja: Brother -> brother
