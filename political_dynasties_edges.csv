@@ -1,0 +1,1070 @@
+page_num,person_a,person_b,relation_label,kinship_type,civil_degree
+21,Oscar “Oca” Gonzales Malapitan,Dale Gonzalo “Along” Rigor Malapitan,Father -> son,Consanguinity,1st degree
+21,Oscar “Oca” Gonzales Malapitan,Vincent Ryan “Enteng” Malapitan,Father -> son,Consanguinity,1st degree
+21,Dean Asistio,Constalene Carmen Navarro Asistio,Spouses,Affinity,Unknown
+21,Luis “LA” Asistio III,Constalene Carmen Navarro Asistio,Husband -> wife,Affinity,Unknown
+21,Dean Asistio,Aurora ‘Onet’ Henson,Cousin -> cousin,Consanguinity,3rd degree
+22,Vergel ‘Nene’ Aguilar,Imelda Tobias Aguilar,Spouses,Consanguinity,1st degree
+22,Vergel ‘Nene’ Aguilar,April Tobias Aguilar,Father -> daughter,Consanguinity,1st degree
+22,Vergel ‘Nene’ Aguilar,Alelee Tobias Aguilar,Father -> daughter,Consanguinity,1st degree
+22,Vergel ‘Nene’ Aguilar,Lord Linley Rebueno Aguilar,Father -> son,Consanguinity,1st degree
+22,Vergel ‘Nene’ Aguilar,Adelbert San Miguel Aguilar,Father -> son,Consanguinity,1st degree
+22,Cynthia Aguilar Villar,Camille Villar,Mother -> daughter,Consanguinity,1st degree
+22,Cynthia Aguilar Villar,Mark Villar,Mother -> son,Consanguinity,1st degree
+22,Manny Villar,Cynthia Villar,Spouses,Consanguinity,1st degree
+22,Vergel ‘Nene’ Aguilar,Cynthia Aguilar Villar,Uncle -> niece,Affinity,Unknown
+23,Jejomar Binay,Elenita Binay,Spouses,Consanguinity,1st degree
+23,Jejomar Binay,Jejomar Erwin Binay,Father -> son,Consanguinity,1st degree
+23,Jejomar Binay,Mar-Len Abigail Binay,Father -> daughter,Consanguinity,1st degree
+23,Elenita Binay,Jejomar Erwin Binay,Mother -> son,Consanguinity,1st degree
+23,Elenita Binay,Mar-Len Abigail Binay,Mother -> daughter,Consanguinity,1st degree
+23,Jejomar Erwin Binay,Maria Lourdes Nancy Binay,Father -> daughter,Consanguinity,1st degree
+23,Mar-Len Abigail Binay,Luis Jose Angel Campos,Spouses,Affinity,Unknown
+24,Antolin Aquino Oreta III,Paulo Benigno Aguirre Aquino IV,Cousin,Consanguinity,2nd degree
+24,Antolin Aquino Oreta III,Jose Lorenzo Aquino Oreta,Brother,Consanguinity,1st degree
+25,Alexandria Pahati GONZALES,Michael Eric Gonzales Cuejilo,Aunt-in-law,Affinity,Unknown
+25,Carmelita Aguilar ABALOS,Charisse Marie Aguilar Abalos-Vargas,Mother,Consanguinity,1st degree
+25,Carmelita Aguilar ABALOS,"Benjamin Aguilar Abalos, III",Mother,Consanguinity,1st degree
+26,Bienvenido Mirando Abante Jr.,Benny Toledo Abante III,Father -> son,Consanguinity,1st degree
+26,Francisco 'Isko Moreno' DOMAGOSO,Joaquin 'JD' D. Domagoso,Father -> son,Consanguinity,1st degree
+26,Lito Atienza,Angela Lei Ilagan Atienza–Valdepeñas,Father -> daughter,Consanguinity,1st degree
+26,Lito Atienza,Arlene Maile Ilagan Atienza,Father -> daughter,Consanguinity,1st degree
+27,Marcelino Reyes Teodoro,Marjorie Ann Ang Teodoro,Spouses,Consanguinity,1st degree
+27,Marcelino Reyes Teodoro,Marjorie Ann Ang Teodoro,Father -> Mayor,Consanguinity,1st degree
+27,Marjorie Ann Ang Teodoro,Marjorie Ann Ang Teodoro,Mayor -> Mayor,Consanguinity,1st degree
+27,Del Reyes De Guzman,Romina Kate Navarro De Guzman,Spouses,Affinity,Unknown
+28,Rodolfo Gaspar Biazon,Rozzano Rufino Bunoan Biazon,Father -> son,Consanguinity,1st degree
+28,Rozzano Rufino Bunoan Biazon,Jaime Dela Rosa Fresnedi,Strategic alliance,Affinity,Unknown
+29,John Reynald Mercelo Tiangco,Tobias Reynald Marcelo Tiangco,Brother,Consanguinity,1st degree
+29,Tito Morales Sanchez,Mylene Refil Sanchez,Spouses,Affinity,Unknown
+29,Arvie John Sangalang Vicencio,Rochelle Cruz Vicencio,Spouses,Affinity,Unknown
+29,Edgardo Dela Cruz Maño,Analiza Dela Cruz Lupisan,Spouses,Affinity,Unknown
+30,Dr. Pablo Olivarez,Eric de Leon Olivarez,Father -> son,Consanguinity,1st degree
+30,Dr. Pablo Olivarez,Edwin de Leon Olivarez,Father -> son,Consanguinity,1st degree
+30,Eric de Leon Olivarez,Aileen Claire Olivarez,Spouses,Affinity,Unknown
+30,Eric de Leon Olivarez,Edwin de Leon Olivarez,Brothers,Consanguinity,1st degree
+30,Raquel Gabriel Velasco,Carina Santos GABRIEL,Shared Surname,Unknown,Unknown
+31,Eduardo Calixto,Antonino Calixto,Brother,Consanguinity,1st degree
+31,Antonino Calixto,Imelda Calixto-RUBIANO,Spouses,Affinity,Unknown
+31,Antonino Calixto,Imelda Calixto-RUBIANO,Father,Consanguinity,1st degree
+31,Antonino Calixto,Mark Anthony Calixto,Father,Consanguinity,1st degree
+31,Imelda Calixto-RUBIANO,Luigi Calixto Rubiano,Mother,Consanguinity,1st degree
+31,Imelda Calixto-RUBIANO,Luigi Calixto Rubiano,Spouses,Affinity,Unknown
+32,Roman Tecson Romulo,Simon Romulo Tantoco,Uncle -> Nephew,Consanguinity,3rd degree
+32,Alberto G. Romulo,Roman Tecson Romulo,Father -> Son,Consanguinity,1st degree
+32,Carlos P. Romulo,Roman Tecson Romulo,Grand-Uncle -> Nephew,Consanguinity,3rd degree
+32,Bernadette Romulo-Puyat,Roman Tecson Romulo,Sister -> Brother,Consanguinity,1st degree
+32,Vicente “Tito” Sotto III,Vico Sotto,Uncle -> Nephew,Consanguinity,2nd degree
+32,Gian Sotto,Vico Sotto,Cousin -> Nephew,Consanguinity,4th degree
+32,Ramon Revilla Sr.,Robert “Dodot” Jaworski Jr.,Maternal Grandfather -> Grandson,Consanguinity,3rd degree
+34,Feliciano Belmonte Jr.,Maria Josefina ‘Joy’ Belmonte,Father -> daughter,Consanguinity,1st degree
+34,Feliciano Belmonte Jr.,Vicente Eric ‘Vincent’ De Guzman Belmonte Jr.,Father -> first cousin,Consanguinity,2nd degree
+34,Feliciano Belmonte Jr.,Irene Belmonte,Father -> daughter-in-law,Affinity,1st degree
+34,Feliciano Belmonte Jr.,Fernando Miguel ‘Mikey’ Francia Belmonte,Father -> nephew,Consanguinity,2nd degree
+34,Feliciano Belmonte Jr.,Ricardo Belmonte Jr.,Father -> son,Consanguinity,1st degree
+34,Feliciano Belmonte Jr.,Jose Christopher ‘Kit’ Yuvienco Belmonte,Father -> cousin,Consanguinity,2nd degree
+34,Vicente ‘Tito’ Sotto III,Gian Carlo Jose ‘Gian’ Gamboa Sotto,Father -> son,Consanguinity,1st degree
+34,Vicente ‘Tito’ Sotto III,Diorella Maria ‘Lala’ Sotto,Father -> daughter,Consanguinity,1st degree
+34,Vicente ‘Tito’ Sotto III,Victorio Manuel ‘Vito’ Sotto Generoso,Father -> nephew,Consanguinity,2nd degree
+34,Vicente ‘Tito’ Sotto III,Victor Maria Regis ‘Vico’ Sotto,Father -> cousin,Consanguinity,2nd degree
+34,Edgar “Egay” Go Yap,Ma. Ganda Yap,Spouses,Affinity,Unknown
+34,Edgar “Egay” Go Yap,Edvic Go Yap,Father -> son,Consanguinity,1st degree
+34,Edgar “Egay” Go Yap,Eric Go Yap,Father -> brother,Consanguinity,1st degree
+34,Rafael “Raffy” Teshiba Tulfo,Ralph Wendel Pua Tulfo,Father -> son,Consanguinity,1st degree
+34,Jocelyn Pua Tulfo,Ralph Wendel Pua Tulfo,Spouses,Affinity,Unknown
+34,Rafael “Raffy” Teshiba Tulfo,Senator Erwin Teshiba Tulfo,Father -> brother,Consanguinity,1st degree
+34,Rafael “Raffy” Teshiba Tulfo,Adrian Leandro Pua Tio,Father -> cousin,Consanguinity,2nd degree
+34,Franz Santos Pumaren,Franz Luis Benjamin ‘Luigi’ De Guzman Pumaren,Father -> son,Consanguinity,1st degree
+34,Jesus Manuel Angel ‘Bong’ Cabochan Suntay,Jesus Miguel ‘Atty. Migs’ Cabochan Suntay,Father -> son,Consanguinity,1st degree
+34,Patrick Michael ‘PM’ Dumlao Vargas,Alfredo Paolo ‘Alfred’ Dumlao Vargas III,Brothers,Consanguinity,1st degree
+35,Ronaldo Zamora,Francisco Javier Manlapit Zamora,Father -> son,Consanguinity,1st degree
+35,Ronaldo Zamora,Ysabel Maria Jorge Zamora,Father -> daughter,Consanguinity,1st degree
+35,Francisco Javier Manlapit Zamora,Ysabel Maria Jorge Zamora,Brother -> sister,Consanguinity,1st degree
+35,Amparo Maria Jorge Zamora,Francisco Javier Manlapit Zamora,Sister -> brother,Consanguinity,1st degree
+35,Amparo Maria Jorge Zamora,Ysabel Maria Jorge Zamora,Sister -> sister,Consanguinity,1st degree
+36,Ricardo Samonte Cruz Jr.,Allan Paul Carlos Cruz,Distant relatives,Consanguinity,Unknown
+36,Ricardo Samonte Cruz Jr.,Arnold Jaramiel Cruz,Distant relatives,Consanguinity,Unknown
+36,Ricardo Samonte Cruz Jr.,Fanella Joy Bote Panga-Cruz,Not related,Consanguinity,Unknown
+36,Rodil Carlos Marcelino,Allan Paul Carlos Cruz,Not related,Consanguinity,Unknown
+36,Pilar Juliana Schramm Cayetano,Alan Peter Schramm Cayetano,Spouses,Affinity,Unknown
+36,Pilar Juliana Schramm Cayetano,Maria Laarni Clarino Lopez Cayetano,Spouses,Affinity,Unknown
+36,Rene Cayetano,Alan Peter Schramm Cayetano,Father -> son,Consanguinity,1st degree
+36,Rene Cayetano,Pilar Juliana Schramm Cayetano,Father -> daughter,Consanguinity,1st degree
+36,Rene Cayetano,Maria Laarni Clarino Lopez Cayetano,Father -> daughter-in-law,Affinity,2nd degree
+36,Alan Peter Schramm Cayetano,Maria Laarni Clarino Lopez Cayetano,Spouses,Affinity,Unknown
+36,Alan Peter Schramm Cayetano,Pilar Juliana Schramm Cayetano,Brother -> sister,Consanguinity,1st degree
+36,Rene Cayetano,Alan Peter Schramm Cayetano,Father -> son,Consanguinity,1st degree
+36,Rene Cayetano,Pilar Juliana Schramm Cayetano,Father -> daughter,Consanguinity,1st degree
+36,Rene Cayetano,Maria Laarni Clarino Lopez Cayetano,Father -> daughter-in-law,Affinity,2nd degree
+36,Alan Peter Schramm Cayetano,Maria Laarni Clarino Lopez Cayetano,Spouses,Affinity,Unknown
+37,William Gatchalian,Sherwin Gatchalian,Father -> son,Consanguinity,1st degree
+37,William Gatchalian,Kenneth Gatchalian,Father -> son,Consanguinity,1st degree
+37,William Gatchalian,Rexlon Gatchalian,Father -> son,Consanguinity,1st degree
+37,William Gatchalian,Weslie Gatchalian,Father -> son,Consanguinity,1st degree
+37,Dee Hua Ting,Sherwin Gatchalian,Mother -> son,Consanguinity,1st degree
+37,Dee Hua Ting,Kenneth Gatchalian,Mother -> son,Consanguinity,1st degree
+37,Dee Hua Ting,Rexlon Gatchalian,Mother -> son,Consanguinity,1st degree
+37,Dee Hua Ting,Weslie Gatchalian,Mother -> son,Consanguinity,1st degree
+37,Sherwin Gatchalian,Rex Gatchalian,Brother -> brother,Consanguinity,1st degree
+37,Sherwin Gatchalian,Kenneth Gatchalian,Brother -> brother,Consanguinity,1st degree
+37,Sherwin Gatchalian,Weslie Gatchalian,Brother -> brother,Consanguinity,1st degree
+37,Rex Gatchalian,Kenneth Gatchalian,Brother -> brother,Consanguinity,1st degree
+37,Rex Gatchalian,Weslie Gatchalian,Brother -> brother,Consanguinity,1st degree
+37,Kenneth Gatchalian,Weslie Gatchalian,Brother -> brother,Consanguinity,1st degree
+41,Eustaquio Purugganan Bersamin,Ana Marie Afable Bersamin,Uncle -> niece,Consanguinity,1st degree
+41,Eustaquio Purugganan Bersamin,Lucas Purugganan Bersamin,Brother,Consanguinity,1st degree
+41,Luis Jorobots Bernardez Bersamin IV,Patrocinio Bersamin Abaya Jr.,Spouses,Affinity,Unknown
+41,Emmanuel Eleazar Bersamin Eduarte,Dangwa Bag-ayan Bersamin,Spouses,Affinity,Unknown
+41,Joseph Sto. Niño Blando Bernos,Andrea Ma. Francheska Beronilla Bernos,Spouses,Affinity,Unknown
+41,Joseph Sto. Niño Blando Bernos,Esther Blando Bernos,Spouses,Affinity,Unknown
+41,Joseph Sto. Niño Blando Bernos,Danielle Belynne Beronilla Bernos,Spouses,Affinity,Unknown
+41,Lino Abella Bernos II,Danielle Belynne Beronilla Bernos,Father -> daughter,Consanguinity,2nd degree
+42,Elias K. Bulut Sr.,Elias Cayaba Bulut Jr.,Father -> Son,Consanguinity,1st degree
+42,Elias K. Bulut Sr.,Kyle Mariah Chelsea Sipsip Bulut-Cunan,Father -> Daughter,Consanguinity,1st degree
+42,Elias K. Bulut Sr.,Eleanor Bulut-Begtang,Father -> Sister,Consanguinity,1st degree
+42,Elias K. Bulut Sr.,Shamir Marrero Bulut,Father -> Son,Consanguinity,1st degree
+43,Marie Rose FONGWAN Kepes,Nestor Tirso Fongwan Jr.,Brother,Consanguinity,2nd degree
+43,Melchor Daguines DICLAS,Maribelle Inlubang Diclas,Possible distant relatives,Unknown,Unknown
+44,Martin Luglug Habawel Jr.,Karen Joy Beyer Luglug,Relative,Consanguinity,2nd degree
+44,Martin Luglug Habawel Jr.,Jan Gulf Bumolo Luglug,Relative,Consanguinity,2nd degree
+44,Martin Luglug Habawel Jr.,Habawel,Father,Consanguinity,1st degree
+44,Habawel,Martin Luglug Habawel Jr.,Son,Consanguinity,1st degree
+44,Luglug,Martin Luglug Habawel Jr.,Maternal Grandfather,Consanguinity,2nd degree
+44,Luglug,Karen Joy Beyer Luglug,Mother,Consanguinity,1st degree
+44,Luglug,Jan Gulf Bumolo Luglug,Mother,Consanguinity,1st degree
+45,Jimmy Balagso DASAYON,Shirlynne Balagso Dasayon-Alunday,Father -> daughter,Consanguinity,1st degree
+46,Victor Sicado Dominguez,Josephine De Castro-Dominguez,Spouses,Consanguinity,Unknown
+46,Jose Oyaoy Dominguez,Joseph Alejandro Coto-ong Dominguez,Brothers,Consanguinity,Unknown
+49,Cecilia Araneta Marcos,Ferdinand Bongbong Marcos Jr.,First cousin,Consanguinity,1st degree
+49,Angelo Marcos Barba,Ferdinand Bongbong Marcos Jr.,First cousin,Consanguinity,1st degree
+49,Alexander Arvida Marcos,Ferdinand Bongbong Marcos Jr.,Distant nephew,Consanguinity,2nd degree
+49,Matthew Marcos Manotoc,Alexander Arvida Marcos,First cousin,Consanguinity,1st degree
+49,Aldrin Ragonjan Arvida,Caroline Arzadon Garvida,Spouses,Affinity,Unknown
+49,Aldrin Ragonjan Arvida,Fraincess Kwyn Garvida Espiritu,First cousin,Consanguinity,1st degree
+49,Aldrin Ragonjan Arvida,Justine Francis King Garvida Espiritu,First cousin,Consanguinity,1st degree
+49,Denton Lawrence Go Garvida,Aldrin Ragonjan Arvida,First cousin,Consanguinity,1st degree
+49,Denton Lawrence Go Garvida,Caroline Arzadon Garvida,First cousin,Consanguinity,1st degree
+49,Myrna Cascayan Garvida,Aldrin Ragonjan Arvida,First cousin,Consanguinity,1st degree
+49,Anna Marie Garvida Fabi,Aldrin Ragonjan Arvida,First cousin,Consanguinity,1st degree
+50,Luis 'Chavit' Singson,Jeremias Crisologo Singson,Brother,Consanguinity,1st degree
+50,Luis 'Chavit' Singson,Ryan Luis Versoza Singson,Father,Consanguinity,1st degree
+50,Luis 'Chavit' Singson,Ronald Versoza Singson,Father,Consanguinity,1st degree
+50,Eric Dario Singson,Grace Kristine Singson Meehan,Father,Consanguinity,1st degree
+50,Eric Dario Singson,Ericson Singson,Father,Consanguinity,1st degree
+50,Germelina Singson Goulart,Luis Charles Pintor Singson,Uncle -> Niece,Consanguinity,3rd degree
+50,Eric Dario Singson,Kristelle Gocho Singson,Uncle -> Niece,Consanguinity,3rd degree
+50,Eric Dario Singson,Jaime Maglanoc Singson,Uncle -> Nephew,Consanguinity,3rd degree
+50,Eric Dario Singson,"Eric Owen Gacula Singson, Jr.",Uncle -> Nephew,Consanguinity,3rd degree
+50,Randolf Versoza Singson,"Evarista Ancheta Singson, III",Uncle -> Niece,Consanguinity,3rd degree
+50,Joseph Simon Basingil,Kennette Basingil Valdez,Uncle -> Niece,Consanguinity,3rd degree
+50,Grazielle Gironella Itchon,Louie Festejo Gironella,Spouses,Affinity,Unknown
+51,Mario Eduardo Campos Ortega,Francisco Paolo Padua Ortega,Uncle -> Nephew,Consanguinity,1st degree
+51,Pablo Campos Ortega,Francisco Paolo Padua Ortega,Father -> Son,Consanguinity,1st degree
+51,Mariquita Padua Ortega,Francisco Paolo Padua Ortega,Mother -> Son,Consanguinity,1st degree
+51,Danielle Bianca Gaerlan Ortega,Mario Eduardo Campos Ortega,Daughter -> Father,Consanguinity,2nd degree
+51,Eric Ong Sibuma,Agoo Mayor Frank Ong Sibuma,Brother -> Brother,Consanguinity,2nd degree
+51,Eric Ong Sibuma,Aringay Mayor Benjamin Ong Sibuma,Brother -> Brother,Consanguinity,2nd degree
+51,Charito Sibuma Yu,Eric Ong Sibuma,Spouse -> Spouse,Affinity,Unknown
+51,Alyssa Kristine Bernal Sibuma,Eric Ong Sibuma,Daughter -> Father,Consanguinity,2nd degree
+51,Dante Sotelo Garcia,Genefer Garcia Bulao-Madriaga,Spouse -> Spouse,Affinity,Unknown
+51,Dante Sotelo Garcia,Geralyn Garcia Bulao,Spouse -> Spouse,Affinity,Unknown
+51,Dante Sotelo Garcia,Jonalyn Garcia Fontanilla-Piayas,Spouse -> Spouse,Affinity,Unknown
+51,Gary Napeñas Pinzon,Luna Mayor,Occupation -> Occupation,Unknown,Unknown
+51,Kyle Hannah Relucion Pinzon,Gary Napeñas Pinzon,Council Member -> Mayor,Unknown,Unknown
+52,"Ramon Velicaria GUICO, III","Ramon Naval Guico, Jr.",Son,Consanguinity,1st degree
+52,"Ramon Velicaria GUICO, III","Ramon Ronald Velicaria Guico, IV",Brother,Consanguinity,1st degree
+52,Mark Ronald DE GUZMAN Lambino,Marinor Baltazar De Guzman,Unknown,Unknown,Unknown
+52,Mark Ronald DE GUZMAN Lambino,Philipp De Guzman,Unknown,Unknown,Unknown
+52,Mark Ronald DE GUZMAN Lambino,Amorsolo Baysic De Guzman,Unknown,Unknown,Unknown
+52,Mark Ronald DE GUZMAN Lambino,Jon Edmund Augustus De Guzman Amador,Unknown,Unknown,Unknown
+52,Mark Ronald DE GUZMAN Lambino,Betha Fe Rafael De Guzman,Unknown,Unknown,Unknown
+52,Mark Ronald DE GUZMAN Lambino,Ariel Justo Reyes De Guzman,Unknown,Unknown,Unknown
+52,Mark Ronald DE GUZMAN Lambino,Chrisanto Asenafe De Guzman,Unknown,Unknown,Unknown
+52,Maria Georgina PEREZ DE VENECIA,"Jose De Venecia, Jr.",Wife,Affinity,Unknown
+52,Maria Georgina PEREZ DE VENECIA,Kenneth Marco Sison Perez,Uncle -> Nephew,Consanguinity,2nd degree
+52,Maria Georgina PEREZ DE VENECIA,Alain Jerico Sison Perez,Uncle -> Nephew,Consanguinity,2nd degree
+52,Maria Georgina PEREZ DE VENECIA,Jose Antonio Miguel Yatco Perez,Uncle -> Nephew,Consanguinity,2nd degree
+52,Arthur Del Fierro CELESTE,Arth Bryan Caasi Celeste,Father -> Son,Consanguinity,1st degree
+52,Arthur Del Fierro CELESTE,John Natividad Celeste,Cousin,Consanguinity,2nd degree
+52,Arthur Del Fierro CELESTE,Jesus Salvador Del Fierro Celeste,Brother,Consanguinity,1st degree
+52,Arthur Del Fierro CELESTE,Arnold Del Fierro Celeste,Brother,Consanguinity,1st degree
+52,Tyrone Damasen Agabas,Marlyn Primicias-AGABAS,Uncle -> Niece,Consanguinity,2nd degree
+52,Ronnie Cruz Palisoc,Jonathan Barte Cruz,Uncle -> Nephew,Consanguinity,2nd degree
+52,Ronnie Cruz Palisoc,Teresa Gianna Sales Cruz,Uncle -> Niece,Consanguinity,2nd degree
+55,Simon Gato,Vicente Gato,uncle -> cousin,Consanguinity,1st degree
+55,Medardo Abad Jr.,Florentino Abad,son -> father,Consanguinity,1st degree
+55,Ciriaco Gato Jr.,Medardo Abad Jr.,rival,Affinity,Unknown
+55,Jonathan Enrique Valiente Nanud Jr.,Joel Valiente Velayo,uncle -> nephew,Consanguinity,1st degree
+55,Joseph Cultura,Teresita Cultura Neyala,uncle -> niece,Consanguinity,1st degree
+55,Joseph Cultura,Clemente Cultura Ladreza Jr.,uncle -> nephew,Consanguinity,1st degree
+56,Katrina Ponce Enrile,Juan Ponce Enrile,Daughter -> Father,Consanguinity,1st degree
+56,Michael Edgar Aglipay,Edgar Aglipay,Son -> Father,Consanguinity,1st degree
+56,Emmeline Aglipay-Villar,Mark Villar,Spouses,Affinity,Unknown
+56,Ramon Nolasco Jr.,Ramon Nolasco Sr.,Son -> Father,Consanguinity,1st degree
+56,Matthew Nolasco,Ramon Nolasco Sr.,Son -> Father,Consanguinity,1st degree
+56,Baby Aline Vargas-Alfonso,Jeff Vargas -> Aunt,Consanguinity,2nd degree
+56,Juicy Carodan-Alfonso,Baby Aline Vargas-Alfonso,Husband -> Spouse,Affinity,Unknown
+56,Juditas Lasam Trinidad,Joseph Lasam Lara,Spouses,Affinity,Unknown
+56,Leonido Noveno Fausto Sr.,Manuel Noveno Mamba,Cousin -> Cousin,Consanguinity,2nd degree
+56,Fausto Jr.,Leonido Noveno Fausto Sr.,Son -> Father,Consanguinity,1st degree
+56,Fausto Jr.,Manuel Noveno Mamba,Son -> Cousin,Consanguinity,2nd degree
+57,Faustino 'Bojie' Dy III,Faustino Michael 'Mike' Dy III,Nephew -> Uncle,Consanguinity,1st degree
+57,Faustino 'Bojie' Dy III,Ian Paul Dy,Nephew -> Uncle,Consanguinity,1st degree
+57,Antonio 'Tonypet' Albano,Rodolfo Albano Jr.,Son -> Father,Consanguinity,1st degree
+57,Rodolfo 'Rodito' Albano III,Antonio 'Tonypet' Albano,Brother -> Brother,Consanguinity,1st degree
+57,Francis Faustino 'Kiko' Dy,Faustino 'Bojie' Dy III,Son -> Uncle,Consanguinity,1st degree
+57,Manuel Faustino 'King' Dy,Faustino 'Bojie' Dy III,Nephew -> Uncle,Consanguinity,1st degree
+57,Faustino 'Inno' Dy,Faustino 'Bojie' Dy III,Son -> Uncle,Consanguinity,1st degree
+57,Faustino 'Dondon' Dy IV,Faustino 'Bojie' Dy III,Brother -> Uncle,Consanguinity,1st degree
+57,Caesar 'Jaycee' Dy Jr.,Faustino 'Bojie' Dy III,Nephew -> Uncle,Consanguinity,1st degree
+57,Benjamin Dy III,Faustino 'Bojie' Dy III,Nephew -> Uncle,Consanguinity,1st degree
+57,Mila Albano-Mamauag,Rodolfo 'Rodito' Albano III,Sister -> Brother,Consanguinity,1st degree
+57,Mila Albano-Mamauag,Antonio 'Tonypet' Albano,Sister -> Brother,Consanguinity,1st degree
+57,Joseph Salvador Tan,Alyssa Sheena Pua Tan,Father -> Daughter,Consanguinity,1st degree
+57,Joseph Salvador Tan,Mayor Inno Dy,Father -> Son-in-law,Affinity,Unknown
+58,Governor Jose Jing Gambito,Governor Carlos M. Padilla,Successor,Consanguinity,1st degree
+58,Luisa Banti Lloren Cuaresma,Governor Jose Jing Gambito,Defeated in Election,Affinity,Unknown
+58,Luisa Corazon LC Lloren Cuaresma,Luisa Banti Lloren Cuaresma,Daughter,Consanguinity,1st degree
+58,Benjamin Lloren Cuaresma III,Luisa Banti Lloren Cuaresma,Son,Consanguinity,1st degree
+58,Benjamin Lloren Cuaresma Jr.,Luisa Banti Lloren Cuaresma,Late Husband,Consanguinity,1st degree
+58,Solano Mayor Philip Dacayo,Vice Governor Eufemia DACAYO,Spouse,Affinity,Unknown
+58,Timothy Joseph Estonilo Cayton,Juan Paolo Estonilo Cayton,Brother,Consanguinity,1st degree
+58,Juan Paolo Estonilo Cayton,Timothy Joseph Estonilo Cayton,Brother,Consanguinity,1st degree
+59,Junie E. Cua,Dakila Carlo 'Dax' Cua,Father -> Son,Consanguinity,1st degree
+59,Junie E. Cua,Maria Angela 'Angie' Enriquez-Cua,Spouses,Affinity,Unknown
+59,Dakila Carlo 'Dax' Cua,Midy Nacague-Cua,Spouses,Affinity,Unknown
+59,Diffun Mayor May Garnace Calaunan,Marlito Garnace Corpuz,Spouses,Affinity,Unknown
+63,Juan Calderon Angara,Edgardo Angara,Father -> son,Consanguinity,1st degree
+63,Juan Calderon Angara,Bella Angara,Father -> daughter,Consanguinity,1st degree
+63,Juan Calderon Angara,Arturo Javier Angara,Father -> son,Consanguinity,1st degree
+63,Juan Calderon Angara,Joselito Angara,Father -> son,Consanguinity,1st degree
+63,Edgardo Angara,Rommel Rico Teh Angara,Father -> son,Consanguinity,2nd degree
+63,Edgardo Angara,Denise Alyanna De Jesus Angara,Father -> daughter,Consanguinity,2nd degree
+63,Edgardo Angara,Rhett Ronan Teh Angara,Father -> son,Consanguinity,2nd degree
+63,Bella Angara,Ryan Austin Kuan Tolentino,Spouses,Affinity,Unknown
+63,Bella Angara,Menard Macanas Amansec,Spouses,Affinity,Unknown
+63,Narciso Amansec,Danilo Amansec Tolentino,Father -> son,Consanguinity,1st degree
+63,Narciso Amansec,Alan Forbes Tolentino,Father -> son,Consanguinity,1st degree
+63,Reynante Amansec Tolentino,Danilo Amansec Tolentino,Father -> son,Consanguinity,1st degree
+64,Enrique Tuason Garcia Jr.,Jose Enrique Sandejas Garcia III,Father -> son,Consanguinity,1st degree
+64,Enrique Tuason Garcia Jr.,Albert Raymond Sandejas Garcia,Father -> son,Consanguinity,1st degree
+64,Jose Enrique Sandejas Garcia III,"German Santos, Jr.",Spouses,Affinity,Unknown
+64,Jose Enrique Sandejas Garcia III,Maria Angela Sandejas Garcia,Brother -> sister,Consanguinity,1st degree
+64,Francis Anthony Sandejas,Raquel Francis Domingo Garcia,Spouses,Affinity,Unknown
+64,Maria Cristina Mangubat Garcia,Enrique Tuason Garcia Jr.,First cousin,Consanguinity,2nd degree
+64,Maria Chermaine Blossom Garcia-Sibug,David,Spouses,Affinity,Unknown
+64,Cecilia Ruiz Garcia,Concepcion,Spouses,Affinity,Unknown
+65,Linabelle Ruth Ramos Villarica,Henry Resurreccion Villarica,Spouses,Affinity,Unknown
+65,Henry Resurreccion Villarica,Henry Lester Ramos Villarica,Father -> son,Consanguinity,1st degree
+65,Henry Resurreccion Villarica,William Resurreccion Villarica,Brother -> brother,Consanguinity,1st degree
+66,Aurelio Matias Umali,Czarina Umali,Spouses,Affinity,Unknown
+66,Aurelio Matias Umali,Emmanuel Antonio Umali,Brother,Consanguinity,2nd degree
+66,Aurelio Matias Umali,Gil Raymond Umali,Brother,Consanguinity,2nd degree
+66,Rosanna Vergara,Julius Cesar Vergara,Spouses,Affinity,Unknown
+66,Julius Cesar Vergara,Myca Elizabeth Vergara,Father -> Daughter,Consanguinity,2nd degree
+66,Emerson David Pascual,Emary Joy Pascual,Brother -> Sister,Consanguinity,2nd degree
+66,Emerson David Pascual,Rep. Emerson David Pascual,Self,Unknown,Unknown
+66,Estrellita Suansing,Mikaela Angela Suansing,Mother -> Daughter,Consanguinity,2nd degree
+66,Horacio Suansing Jr.,Mikaela Angela Suansing,Father -> Daughter,Consanguinity,2nd degree
+66,Estrellita Suansing,Bella Vanessa Suansing,Mother -> Daughter,Consanguinity,2nd degree
+66,Horacio Suansing Jr.,Bella Vanessa Suansing,Father -> Daughter,Consanguinity,2nd degree
+67,Lilia Garcia Pineda,Dennis Pineda,Mother -> Son,Consanguinity,1st degree
+67,Lilia Garcia Pineda,Mylyn Pineda-Cayabyab,Mother -> Daughter,Consanguinity,1st degree
+67,Lilia Garcia Pineda,Esmeralda Pineda,Mother -> Daughter,Consanguinity,1st degree
+67,Dennis Pineda,Jayson Pineda Victorino,Father -> Grandson,Consanguinity,3rd degree
+67,Yolanda Miranda Pineda,Dennis Pineda,Spouse -> Husband,Affinity,Unknown
+67,Yolanda Miranda Pineda,Mylyn Pineda-Cayabyab,Spouse -> Sister,Affinity,1st degree
+67,Yolanda Miranda Pineda,Esmeralda Pineda,Spouse -> Sister,Affinity,1st degree
+67,Carmelo Lazatin Sr.,Carmelo Lazatin II,Father -> Son,Consanguinity,1st degree
+67,Carmelo Lazatin Sr.,Carmelo Lazatin Jr.,Father -> Son,Consanguinity,1st degree
+67,Carmelo Lazatin Sr.,Mayor of Angeles City,Father -> Position,Affinity,Unknown
+67,Carmelo Lazatin Jr.,Mayor of Angeles City,Son -> Position,Consanguinity,1st degree
+67,Carmelo Lazatin Jr.,Carmelo Lazatin II,Brother -> Brother,Consanguinity,1st degree
+67,Gloria Macapagal Arroyo,Juan Miguel Macapagal Arroyo,Mother -> Son,Consanguinity,1st degree
+67,Juan Miguel Macapagal Arroyo,Alyssa Michaela GONZALES,Spouse -> Spouse,Affinity,Unknown
+67,Juan Miguel Macapagal Arroyo,Diosdado Ignacio Jose Maria Macapagal Arroyo,Brother -> Brother,Consanguinity,1st degree
+67,Aurelio Gonzales,Alyssa Michaela GONZALES,Father -> Daughter,Consanguinity,1st degree
+67,Aurelio Gonzales,Aurelio Brenz Gonzales,Father -> Son,Consanguinity,1st degree
+67,Aurelio Gonzales,Michaeline de Guzman Mercado,Father -> Spouse,Consanguinity,1st degree
+67,Emigdio Bondoc,Rep. Juan Pablo Bondoc,Father -> Son,Consanguinity,1st degree
+67,Emigdio Bondoc,Anna York Bondoc,Father -> Daughter,Consanguinity,1st degree
+67,Emigdio Bondoc,Jayson Sagum,Father -> Potential Dynastic Mayor,Consanguinity,1st degree
+68,Jose Yap Sr.,Victor Yap,Father -> Son,Consanguinity,1st degree
+68,Jose Yap Sr.,Susan Yap-Sulit,Father -> Spouse,Consanguinity,1st degree
+68,Victor Yap,Christian Tell Areno Yap,Uncle -> Nephew,Consanguinity,2nd degree
+68,Susan Yap,Christian Tell Areno Yap,Mother -> Son,Consanguinity,1st degree
+68,Emilio Yap Macasaet,Rolando Ledesma Macasaet,Father -> Son,Consanguinity,1st degree
+68,Jose Yap Sr.,Jose Yap Jr.,Father -> Son,Consanguinity,1st degree
+68,Maria Cristina Angeles,Katrina Theresa Angeles,Mother -> Daughter,Consanguinity,1st degree
+68,Estelita Montano Aquino,Ramon Benito Montano Aquino,Mother -> Adopted Son,Affinity,Unknown
+68,Estelita Montano Aquino,Jesse Espejo Aquino,Mother -> Brother-in-law,Affinity,Unknown
+68,Benito Espejo Aquino,Estelita Montano Aquino,Spouse,Affinity,Unknown
+68,Jaime Cojuangco,Charlie Oppen,Son -> Father,Consanguinity,1st degree
+68,Jaime Cojuangco,Eduardo Jr.,Son -> Grandfather,Consanguinity,2nd degree
+68,Jaime Cojuangco,Enrique Cojuangco,Son -> Uncle,Consanguinity,2nd degree
+68,Jaime Cojuangco,Jose Jr. Cojuangco,Son -> Uncle,Consanguinity,2nd degree
+68,Jaime Cojuangco,Jose Chichioco Cojuangco Sr.,Son -> Great-grandfather,Consanguinity,3rd degree
+68,Jaime Cojuangco,Melecio Cojuangco,Son -> Great-great-grandfather,Consanguinity,4th degree
+69,Jeffrey Domingo Khonghun,Jefferson Ferrer Khonghun,Father -> son,Consanguinity,1st degree
+69,Jeffrey Domingo Khonghun,Jonathan John Ferrer Khonghun,Father -> son,Consanguinity,1st degree
+69,Jeffrey Domingo Khonghun,Jacqueline Rose Ferrer Khonghun,Father -> sister,Consanguinity,1st degree
+69,Jeffrey Domingo Khonghun,Jamiel Jules Khonghun Escalona,Father -> son-in-law,Affinity,Unknown
+69,Hermogenes Edejer Ebdane Jr.,Jun Rundstedt Cabanayan Ebdane,Father -> son,Consanguinity,1st degree
+69,Hermogenes Edejer Ebdane Jr.,Jun Omar Cabanayan Ebdane,Father -> brother,Consanguinity,1st degree
+73,Vilma Santos Recto,Ralph Gonzalez Recto,Spouses,Consanguinity,1st degree
+73,Vilma Santos Recto,Ryan Christian Santos Recto,Mother -> Son,Consanguinity,1st degree
+73,Gerville Reyes-Luistro,Noel Basit Luistro,Spouses,Consanguinity,1st degree
+73,Beverley Rose Abaya Dimacuha,Eduardo Dimacuha,Daughter -> Father,Consanguinity,1st degree
+73,Beverley Rose Abaya Dimacuha,Vilma Dimacuha,Daughter -> Mother,Consanguinity,1st degree
+73,Beverley Rose Abaya Dimacuha,Marvey Vittorio Mariño,Spouses,Consanguinity,1st degree
+73,Marvey Vittorio Mariño,Alyssa Renee Abaya Cruz,Spouses,Consanguinity,1st degree
+73,King George Valencia COLLANTES,Maria Theresa “Maitet” COLLANTES,Father -> Son,Consanguinity,1st degree
+73,King George Valencia COLLANTES,Nelson Perez Collantes,Uncle -> Nephew,Consanguinity,2nd degree
+73,Artemio Manalo ABU,Kurt Patrick Vergara ABU,Father -> Son,Consanguinity,1st degree
+73,Lester Dinglasan DE SAGUN,Ruelito Matienzo DE SAGUN,Father -> Son,Consanguinity,1st degree
+73,Wilson VILLAPANDO MARALIT,Ronald Villapando MARALIT,Brother -> Brother,Consanguinity,1st degree
+74,Francisco Gabriel Diaz Remulla,Juanito Victor ‘Jonvic’ Remulla Jr.,Uncle -> Nephew,Consanguinity,1st degree
+74,Juanito Victor ‘Jonvic’ Remulla Jr.,Jesus Crispin Remulla,Brother -> Brother,Consanguinity,1st degree
+74,Jesus Crispin Remulla,Crispin Diego Diaz Remulla,Brother -> Son,Consanguinity,1st degree
+74,Jesus Crispin Remulla,Jacinta Maria Remulla Diaz,Brother -> Daughter,Consanguinity,1st degree
+74,Jesus Crispin Remulla,Jesse Raphael Grepo Remulla,Brother -> Nephew,Consanguinity,2nd degree
+74,Jesus Crispin Remulla,Darwin Martir Remulla,Brother -> Nephew,Consanguinity,2nd degree
+74,Lani Mercado Revilla,Ramon ‘Jolo’ Revilla,Mother -> Son,Consanguinity,1st degree
+74,Lani Mercado Revilla,Leonard Bryan Revilla,Mother -> Son,Consanguinity,1st degree
+74,Ramon ‘Bong’ Revilla Jr.,Lani Mercado Revilla,Spouses,Affinity,Unknown
+74,Abraham Tolentino,Agnes Delgado Tolentino,Spouses,Affinity,Unknown
+74,Abraham Tolentino,Aniela Bianca Delgado Tolentino,Father -> Daughter,Consanguinity,1st degree
+74,Abraham Tolentino,Aizack Brent Delgado Tolentino,Father -> Son,Consanguinity,1st degree
+74,Francis Tolentino,Michael Francis Tolentino,Father -> Son,Consanguinity,1st degree
+74,Francis Tolentino,Allan Amon Tolentino,Father -> Son,Consanguinity,1st degree
+74,Luis S. Ferrer III,Antonio Alandy Ferrer,Father -> Son,Consanguinity,1st degree
+74,Luis Y. Ferrer Jr.,Antonio Alandy Ferrer,Father -> Son,Consanguinity,1st degree
+74,Luis O. Ferrer Sr.,Antonio Alandy Ferrer,Father -> Son,Consanguinity,1st degree
+74,Luis S. Ferrer III,Luis Alandy Ferrer IV,Father -> Son,Consanguinity,1st degree
+74,Antonio Alandy Ferrer,Martin Nicholo Ferrer,Father -> Son,Consanguinity,1st degree
+74,Roy Maulanin Loyola,Dahlia Ambayec Loyola,Spouses,Affinity,Unknown
+74,Roy Maulanin Loyola,Roy Ambayec Loyola III,Father -> Son,Consanguinity,1st degree
+74,Roy Maulanin Loyola,Cesar Loyola Ines Jr.,Father -> Son,Consanguinity,1st degree
+74,Roy Maulanin Loyola,Rebecca Loyola-Reyes,Father -> Daughter,Consanguinity,1st degree
+74,Alex Advincula,Adrian Jay Caguicla Advincula,Father -> Son,Consanguinity,1st degree
+74,Alex Advincula,Alex Lacson Advincula,Father -> Son,Consanguinity,1st degree
+74,Alex Advincula,Roberto Lacson Advincula,Father -> Son,Consanguinity,1st degree
+74,Francisco A. Barzaga,Jennifer Austria Barzaga,Father -> Mother,Consanguinity,1st degree
+74,Francisco A. Barzaga,Elpidio ‘Pidi’ Barzaga III,Father -> Son,Consanguinity,1st degree
+74,Cynthia Gutierrez Aguinaldo,Angelo Emilio Aguinaldo,Mother -> Son,Consanguinity,1st degree
+74,Davey Christian Reyes Chua,Dhino Carlo Reyes Chua,Brother -> Brother,Consanguinity,1st degree
+74,Davey Christian Reyes Chua,Dennver Christopher Reyes Chua,Brother -> Brother,Consanguinity,1st degree
+74,Archangelo Bacolod Matro,Raymundo Arca Del Rosario,Spouses,Affinity,Unknown
+74,Nino Federico Bacolod Matro,Antonio Del Rosario Jr.,Father -> Son,Consanguinity,1st degree
+75,Walfredo Reyes Dimaguila Jr.,Jonalina Reyes Dimaguila,Spouses,Consanguinity,1st degree
+75,Walfredo Reyes Dimaguila Jr.,Arthur Reyes Dimaguila,Father -> son,Consanguinity,1st degree
+75,Benjamin Cueto Agarao Jr.,Maria Jamina Katherine Agarao,Father -> daughter,Consanguinity,1st degree
+75,Benjamin Cueto Agarao Jr.,Joseph Kris Benjamin Agarao,Father -> son,Consanguinity,1st degree
+75,Emilio Ramon ‘E.R.’ Ejercito III,Jinggoy Ejercito Estrada,Uncle -> cousin,Affinity,3rd degree
+75,Emilio Ramon ‘E.R.’ Ejercito III,Joseph Estrada,Uncle -> cousin,Affinity,3rd degree
+75,Emilio Ramon ‘E.R.’ Ejercito III,John Paul Javier Ejercito,Father -> son,Consanguinity,1st degree
+76,Anacleto Alcala Sr.,Anacleto “Third” Almendras Alcala III,Father -> son,Consanguinity,1st degree
+76,Anacleto Alcala Sr.,Vincente Rudolph Estrella Alcala,Father -> son,Consanguinity,1st degree
+76,Anacleto Alcala Sr.,Vinnette Estrella Alcala,Father -> daughter,Consanguinity,1st degree
+76,Vinnette Estrella Alcala,Daveilyn Arienda Alcala,Sister -> sibling,Consanguinity,2nd degree
+76,Anacleto “Third” Almendras Alcala III,Mark Don Victor Benitez Alcala,Father -> son,Consanguinity,1st degree
+76,Anacleto “Third” Almendras Alcala III,Roderick Alcantara Alcala,Father -> son,Consanguinity,1st degree
+76,Anacleto “Third” Almendras Alcala III,Ryan Caezar Edaño Alcala,Father -> son,Consanguinity,1st degree
+76,Danilo E. Suarez,David “Jay-Jay” Suarez,Father -> son,Consanguinity,1st degree
+76,Aleta Suarez,David “Jay-Jay” Suarez,Mother -> son,Consanguinity,1st degree
+76,Danilo E. Suarez,Donaldo “Don” Suarez,Father -> son,Consanguinity,1st degree
+76,Danilo E. Suarez,Danilo Jr. Suarez,Father -> son,Consanguinity,1st degree
+76,Angelina “Helen” Beredo De Luna-Tan,Keith Micah “Mike” Tan,Mother -> son,Consanguinity,1st degree
+76,Anthony Lim,Mayor Anthony Lim,Self -> self,Unknown,Unknown
+76,Ralph Edward Lim,Mayor Ralph Edward Lim,Self -> self,Unknown,Unknown
+76,Luis Oscar Tolentino ELEAZAR,Sanggunian Bayan Member Rachel Abraham Eleazar,Spouses,Affinity,Unknown
+76,Cesar Juarez ISAAC III,Sanggunian Bayan Member Christopher Marco Isaac,Brother -> brother,Consanguinity,2nd degree
+76,Erwin Bautista PASTRANA,Sanggunian Bayan Member Juan Lorenzo Jacobo Pastrana,Father -> son,Consanguinity,1st degree
+76,Jose Stevenson SANGALANG,Sanggunian Bayan Member Mark Lloyd Escara Sangalang,Father -> son,Consanguinity,1st degree
+76,Isaias Bitoin UBANA II,Rachel Acaylar Ubana,Father -> wife,Consanguinity,1st degree
+76,Isaias Bitoin UBANA II,Ira Beatrice Acaylar Ubana,Father -> daughter,Consanguinity,1st degree
+76,Joselito Rocas ALEGA,Jean Chriscelene Alega Floresta,Father -> daughter,Consanguinity,1st degree
+76,Joselito Rocas ALEGA,Jazzy dela Rosa Alega,Father -> daughter,Consanguinity,1st degree
+77,Casimiro ‘Ito’ Ynares Jr.,Rebecca ‘Nini’ Alcantara Ynares,Spouses,Consanguinity,1st degree
+77,Casimiro ‘Ito’ Ynares Jr.,Casimiro ‘Jun’ Ynares III,Father -> Son,Consanguinity,1st degree
+77,Casimiro ‘Ito’ Ynares Jr.,Andrea Bautista-Ynares,Father -> Spouse,Consanguinity,1st degree
+77,Rebecca ‘Nini’ Alcantara Ynares,Andrea Bautista-Ynares,Mother -> Spouse,Consanguinity,1st degree
+77,Casimiro ‘Jun’ Ynares III,Andrea Bautista-Ynares,Son -> Spouse,Consanguinity,1st degree
+77,Rebecca ‘Nini’ Alcantara Ynares,Nina Ricci Alcantara Ynares,Mother -> Daughter,Consanguinity,1st degree
+77,Rebecca ‘Nini’ Alcantara Ynares,Rebecca Maria Alcantara Ynares,Mother -> Daughter,Consanguinity,1st degree
+77,Angelito Cabaron Gatlabayan,Josefina Galang Gatlabayan,Spouses,Consanguinity,1st degree
+77,Angelito Cabaron Gatlabayan,James Galang Gatlabayan,Father -> Son,Consanguinity,1st degree
+77,Ronaldo Villanueva PUNO,Roberto Villanueva Puno,Brother -> Brother,Consanguinity,1st degree
+77,Ronaldo Villanueva PUNO,Cristina ‘Chiqui’ Roa-Puno,Brother -> Spouse,Consanguinity,1st degree
+77,Wilfredo Caisip Robles,Kathrine Bulaong Robles,Spouses,Consanguinity,1st degree
+77,Gerardo Villamarin Calderon,Jeri Mae Esguerra Calderon,Father -> Daughter,Consanguinity,1st degree
+81,Eduardo Baltazar Gadiano,Ryan Gadiano Sioson,Father -> son,Consanguinity,1st degree
+81,Leody Flores Tarriela,Ma. Dolores Flores Calabio,Spouses,Affinity,Unknown
+81,Jasmin Tria Fernandez,Jonell Gutierrez Tria,Siblings,Consanguinity,2nd degree
+81,Maria Gloria Montenegro Constantino,Arleen Atienza Montenegro,Siblings,Consanguinity,2nd degree
+81,Eric Credo Labrador,Jay Duff Zausa Labrador,Siblings,Consanguinity,2nd degree
+81,Marlon Viaña Dela Torre,Nick Bryan Rodriguez Viaña,Siblings,Consanguinity,2nd degree
+81,Raul Villar Masangkay,Rey Cajayon Ladaga,Family members,Unknown,Unknown
+81,Charles Zubiri Villas,Erwin Villas Anzaldo,Family members,Unknown,Unknown
+81,Orlando Torreliza Zubiri,Ernesto Paglicawan Torreliza,Family members,Unknown,Unknown
+82,Humerlito Atienza Dolor,Aristeo Villamor Rosales Atienza II,Father -> son,Consanguinity,1st degree
+82,Humerlito Atienza Dolor,Aristotle Von Rosales Atienza,Father -> son,Consanguinity,1st degree
+82,Humerlito Atienza Dolor,Manny Ang Atienza,Father -> son,Consanguinity,1st degree
+82,Humerlito Atienza Dolor,Niña Fernandez Atienza,Father -> daughter,Consanguinity,1st degree
+82,Humerlito Atienza Dolor,Princess Patricia Reduta Dolor,Father -> daughter,Consanguinity,1st degree
+82,Ferdinand Maulion Maliwanag,Jose Ildefonso Maulion Maliwanag,Brothers,Consanguinity,2nd degree
+82,Ferdinand Maulion Maliwanag,Noel Maliwanag Trajic,Uncle -> niece,Consanguinity,2nd degree
+82,Lorybelle Maulion Tanyag-Panaligan,Ferdinand Maulion Maliwanag,Niece -> uncle,Consanguinity,2nd degree
+83,Melecio Jinang Go,Mark Angelo Loto Jinang,Father -> son,Consanguinity,1st degree
+83,Reynaldo Padilla Salvacion,Luzviminda Gatchalian Salvacion,Spouses,Affinity,Unknown
+83,Reynaldo Padilla Salvacion,Robert Salvacion Latorre,Spouses,Affinity,Unknown
+83,"Senen Monteagudo Livelo, Jr.",Augusto Leo Monteagudo Livelo,Brothers,Consanguinity,1st degree
+83,James Marty Lao Lim,Victoria Lao Lim,Father -> son,Consanguinity,1st degree
+83,Ishmael Del Prado Lim,James Marty Lao Lim,Father -> son,Consanguinity,1st degree
+83,Armi Dela Cruz Carrion,Francis Dela Cruz Jacinto,Brothers,Consanguinity,1st degree
+83,Armi Dela Cruz Carrion,Gelacio Raphael Dela Cruz Mascareñas,Brothers,Consanguinity,1st degree
+83,Marisa Romasanta Red-Martinez,Revo Joshua Ramirez Red,Spouses,Affinity,Unknown
+83,Marisa Romasanta Red-Martinez,Harold Yu Red,Spouses,Affinity,Unknown
+83,Mike Velasco,Presbitero Velasco,Father -> son,Consanguinity,1st degree
+83,Lord Allan Jay Velasco,Presbitero Velasco,Father -> son,Consanguinity,1st degree
+84,Eduardo Firmalo,Trina Alejandra Que Firmalo-Fabic,Father -> daughter,Consanguinity,1st degree
+84,Emmanuel Fabic Madrona,Eleandro Jesus Fabic Madrona,Brother -> brother,Consanguinity,1st degree
+84,Esteban Santiago Fabic Madrona Jr.,Aaron James Stephen Corbin Madrona,Father -> son,Consanguinity,1st degree
+84,Norman Manal Fatalla,Armando Manal Gutierrez,Spouses,Affinity,Unknown
+84,Abraham Coching Visca,Asher Coching Visca,Brother -> brother,Consanguinity,1st degree
+84,Melsie De Jesus Coching,Abraham Coching Visca,Spouses,Affinity,Unknown
+84,Jenalin Fatallo Faderanga,Milagros Fadri Faderanga,Daughter -> mother,Consanguinity,1st degree
+84,Elizabeth Fabella Fatallo,Milagros Fadri Faderanga,Daughter -> mother,Consanguinity,1st degree
+84,Fernando Uy Marin,Dante Macato Marin,Father -> son,Consanguinity,1st degree
+84,Gerard Sy Montojo,Miguel Gabriel Morales Montojo,Father -> son,Consanguinity,1st degree
+84,Elmer Mallorca Fruelda,Ronald Fruelda Falogme,Father -> son,Consanguinity,1st degree
+84,Riza Galicia Pamorada,Valentin Galit Galicia,Spouses,Affinity,Unknown
+85,Amy Roa Alvarez,Jose Chaves Alvarez,Daughter -> Father,Consanguinity,1st degree
+85,Juan Antonio Espina Alvarez,Jose Chaves Alvarez,Son -> Father,Consanguinity,1st degree
+85,Dindo Alvarez Sebido,Jose Chaves Alvarez,Son -> Father,Consanguinity,1st degree
+85,Cesar Mendoza De Vera Jr.,Cesar Mendoza De Vera,Son -> Father,Consanguinity,1st degree
+85,Ma. Virginia Nacachi De Vera,Cesar Mendoza De Vera,Spouse -> Husband,Affinity,Unknown
+85,Shuaib Juaini Astami,Juaini Astami,Son -> Father,Consanguinity,1st degree
+85,Al-Hazni Abubakar Astami,Juaini Astami,Son -> Father,Consanguinity,1st degree
+85,Hadja Salamia Astami Asli,Juaini Astami,Daughter -> Father,Consanguinity,1st degree
+85,Abdul Aziz Sarael Astami,Juaini Astami,Son -> Father,Consanguinity,1st degree
+85,Gerandy Blanco Danao,Blanco Danao,Son -> Father,Consanguinity,1st degree
+85,Dante Blanco Danao,Blanco Danao,Son -> Father,Consanguinity,1st degree
+85,Ricky Catubay Rodriguez,Catubay Rodriguez,Son -> Father,Consanguinity,1st degree
+85,Rafael Catubay Rodriguez Jr.,Catubay Rodriguez,Son -> Father,Consanguinity,1st degree
+85,Lucilo Rodriguez Bayron,Rodriguez,Son -> Father,Consanguinity,1st degree
+85,Modesto Valencia Rodriguez II,Rodriguez,Son -> Father,Consanguinity,1st degree
+89,Edcel Lagman,Cielo Krisel Burce Lagman,Father -> daughter,Consanguinity,1st degree
+89,Edcel Lagman,Edcel Greco Alexandre Burce Lagman,Father -> brother,Consanguinity,1st degree
+89,Joey S. Salceda,Raymond Adrian Enriquez Salceda,Uncle -> nephew,Consanguinity,2nd degree
+89,Joey S. Salceda,Juan Miguel Ricardo Sarte Salceda,Uncle -> nephew,Consanguinity,2nd degree
+89,Joey S. Salceda,Ray Noel Tolarba Salceda,Uncle -> nephew,Consanguinity,2nd degree
+89,Joey S. Salceda,Jesciel Richard Gongon Salceda,Uncle -> nephew,Consanguinity,2nd degree
+90,Casimero Base Padilla,Ricarte Robledo Padilla, Half-brother,Consanguinity,1st degree
+90,Casimero Base Padilla,Robinhood Ferdinand Cariño Padilla, Half-brother,Consanguinity,1st degree
+90,Robinhood Ferdinand Cariño Padilla,Ricarte Robledo Padilla,Half-brother,Consanguinity,1st degree
+90,Robinhood Ferdinand Cariño Padilla,Casimero Base Padilla,Half-brother,Consanguinity,1st degree
+90,Ricarte Robledo Padilla,Robinhood Ferdinand Cariño Padilla,Half-brother,Consanguinity,1st degree
+90,Ricarte Robledo Padilla,Casimero Base Padilla,Half-brother,Consanguinity,1st degree
+90,Arnulfo Manalo Balane,Marsha Esturas Balane,Spouses,Affinity,Unknown
+90,Arnulfo Manalo Balane,Princess Balane Torralba,Father -> Daughter,Consanguinity,1st degree
+90,Arnulfo Manalo Balane,Mary Joy Mago Balane,Father -> Daughter,Consanguinity,1st degree
+90,Jhonny Asis Enova Jr.,Zaldy Enova Moya,Brother -> Sister,Consanguinity,1st degree
+90,Jhonny Asis Enova Jr.,Mario Cesar Enova Carino,Brother -> Brother,Consanguinity,1st degree
+90,Severino Herico Francisco Jr.,Karlo George Francisco Palmero,Uncle -> Niece,Consanguinity,2nd degree
+90,Severino Herico Francisco Jr.,Randy De Vela Franciso,Uncle -> Nephew,Consanguinity,2nd degree
+90,Severino Herico Francisco Jr.,Karla May Francisco,Uncle -> Niece,Consanguinity,2nd degree
+91,Mariano Enciso Villafuerte,Luis Robredo Villafuerte Sr.,Father -> Son,Consanguinity,1st degree
+91,Luis Robredo Villafuerte Sr.,Luis Raymond (LRay) Favis Villafuerte Jr.,Father -> Son,Consanguinity,1st degree
+91,Luis Raymond (LRay) Favis Villafuerte Jr.,Miguel Luis Reyes Villafuerte,Father -> Son,Consanguinity,1st degree
+91,Luis Raymond (LRay) Favis Villafuerte Jr.,Vicenzo Renato Luigi Reyes Villafuerte,Father -> Son,Consanguinity,1st degree
+91,Mariano Fuentebella,Jose Fuentebella,Father -> Son,Consanguinity,1st degree
+91,Jose Fuentebella,Felix Fuentebella V,Father -> Son,Consanguinity,1st degree
+91,Jose Fuentebella,Arnulf Bryan Buquid Fuentebella,Father -> Son,Consanguinity,1st degree
+91,Jose Fuentebella,John Vincent Buquid Fuentebella,Father -> Brother,Consanguinity,2nd degree
+91,Jose Fuentebella,Eugene Adrian Buquid Fuentebella,Father -> Brother,Consanguinity,2nd degree
+91,Jose Fuentebella,Emmanuel Fuentebella Llaguno,Father -> Son-in-law,Affinity,Unknown
+91,Benjamin Glinoga,Benchie Glinoga Horibata,Father -> Spouse,Affinity,Unknown
+91,Benchie Glinoga Horibata,Tsuyoshi Anthony Glinoga Hirobata,Mother -> Son,Consanguinity,1st degree
+93,Ricardo Tingcungco Kho,Antonio Tero Kho,Father -> son,Consanguinity,1st degree
+93,Ricardo Tingcungco Kho,Elisa Tingcungco Kho,Mother -> daughter,Consanguinity,1st degree
+93,Wilton Tan Kho,Ricardo Tingcungco Kho,Uncle -> nephew,Consanguinity,2nd degree
+93,Olga Tingcungco Kho,Ricardo Tingcungco Kho,Aunt -> nephew,Consanguinity,2nd degree
+93,Kristine Salve Hao Kho,Emily Estipona Hao,Mother -> daughter-in-law,Affinity,Unknown
+93,Philip Sonny Kho Cabataña,Ricardo Tingcungco Kho,Uncle -> nephew,Consanguinity,2nd degree
+93,Wilson Leo Kho,Ricardo Tingcungco Kho,Uncle -> nephew,Consanguinity,2nd degree
+93,Ralph Kho Cabataña,Ricardo Tingcungco Kho,Uncle -> nephew,Consanguinity,2nd degree
+93,Jeffrey Justin Tagnipez Talisic,Fernando Pastrana Talisic,Son -> father,Consanguinity,1st degree
+93,Rafael Job Tagnipez Talisic,Fernando Pastrana Talisic,Son -> father,Consanguinity,1st degree
+93,Gresilda Pastrana Talisic,Fernando Pastrana Talisic,Sister -> brother,Consanguinity,1st degree
+94,Jose Edwin Brondial Hamor,Ma. Ester Escasa Hamor,Spouses,Consanguinity,1st degree
+94,Jose Edwin Brondial Hamor,Maria Minez Rabia Hamor,Father -> daughter,Consanguinity,1st degree
+94,Jose Edwin Brondial Hamor,Catalina Grace Brondial Yu Hamor,Father -> daughter,Consanguinity,1st degree
+94,Salvador C. Escudero Sr.,Antonio Escudero,Father -> son,Consanguinity,1st degree
+94,Antonio Escudero,Salvador Escudero III,Father -> son,Consanguinity,1st degree
+94,Antonio Escudero,Evelina B. Escudero,Father -> wife,Consanguinity,1st degree
+94,Salvador Escudero III,Francis Joseph Guevara Escudero,Father -> son,Consanguinity,1st degree
+94,Salvador Escudero III,Marie Bernadette Guevara Escudero,Father -> daughter,Consanguinity,1st degree
+94,Salvador Escudero III,Krunimar Antonio Daen II,Father -> cousin,Consanguinity,2nd degree
+94,Salvador Escudero III,Dennis Alfonso Lazaro Escudero,Father -> distant relative,Consanguinity,3rd degree
+94,Salvador Escudero III,Ramon Bañares Escudero,Father -> paternal uncle,Consanguinity,1st degree
+94,Manuel Laurio Fortes Jr.,Cynthia Gacosta Falcotelo-Fortes,Spouses,Consanguinity,1st degree
+94,Manuel Laurio Fortes Jr.,Irvin Karl Serrano Fortes,Father -> son,Consanguinity,1st degree
+97,Florencio 'Joeben' Tumbocon Miraflores,Jose Enrique Miraflores,Father -> son,Consanguinity,1st degree
+97,Florencio 'Joeben' Tumbocon Miraflores,Jose Miguel Miraflores,Father -> son,Consanguinity,1st degree
+97,Jose Enrique Miraflores,Teodorico Haresco Jr.,Uncle -> niece,Consanguinity,2nd degree
+97,Jose Haresco,Florencio 'Joeben' Tumbocon Miraflores,Son -> father,Consanguinity,1st degree
+97,William Lachica Sr.,William Tibar Lachica Jr.,Father -> son,Consanguinity,1st degree
+97,William Lachica Sr.,Emerson Sucgang Lachica,Father -> son,Consanguinity,1st degree
+97,William Lachica Sr.,Ronald Lachica Marte,Father -> son,Consanguinity,1st degree
+97,William Lachica Sr.,Mark Ace Lachica Bautista,Father -> son,Consanguinity,1st degree
+97,William Lachica Sr.,Patrick Felipe Lachica,Father -> son,Consanguinity,1st degree
+97,Meekia Fernandez Icasas,Mary Lenette Rescate Fernandez,Mother -> daughter,Consanguinity,1st degree
+97,Bob Augusto Fernandez Legaspi,Joselito Besana Fernandez,Uncle -> nephew,Consanguinity,2nd degree
+97,Bob Augusto Fernandez Legaspi,Lowell Seville Fernandez,Uncle -> nephew,Consanguinity,2nd degree
+97,Bob Augusto Fernandez Legaspi,Diosilio Fernandez Malonosan,Uncle -> nephew,Consanguinity,2nd degree
+97,Bob Augusto Fernandez Legaspi,Willie Fernandez Eimar,Uncle -> nephew,Consanguinity,2nd degree
+97,Gary Torre Fuentes,Gene Torre Fuentes,Brother -> brother,Consanguinity,1st degree
+97,Gary Torre Fuentes,Glenn Fuentes Tigson,Brother -> cousin,Consanguinity,2nd degree
+97,Gene Torre Fuentes,Venice Sharra Fuentes Roldan,Brother -> cousin,Consanguinity,2nd degree
+98,Genevive Lim-Reyes,Rigil Kent Gumban Lim,Siblings,Consanguinity,1st degree
+98,Genevive Lim-Reyes,Walden Mandolado Lim,Uncle,Consanguinity,3rd degree
+98,Maribeth Nicopior Laserna,Mary Jean Nicopior Te,Siblings,Consanguinity,1st degree
+98,Maribeth Nicopior Laserna,Cezmar Nicopior Tonogan,Siblings,Consanguinity,1st degree
+98,Maribeth Nicopior Laserna,Joseph Nicopior Untaran,Cousin,Consanguinity,2nd degree
+98,Ernesto III Tajanlangit,Cezar Tajanlangit,Brothers,Consanguinity,1st degree
+98,Roberto Necor,Gerry Necor,Brothers,Consanguinity,1st degree
+98,Joel Lomugdang,Jose Jeffrey Lomugdang,Father-Son,Consanguinity,1st degree
+98,Joel Lomugdang,Pete Joseph Lomugdang Rivera,Uncle-Nephew,Consanguinity,2nd degree
+98,Julius Ronald Pacificador,Julius Pacificador,Father-Son,Consanguinity,1st degree
+98,Reynaldo Pollicar,Maxfil Pollicar,Father-Son,Consanguinity,1st degree
+98,Reynaldo Pollicar,Deniesse Sto. Domingo-Pollicar,Father-Daughter,Consanguinity,1st degree
+98,Reynaldo Pollicar,Rollyza Nueva Haban Pollicar,Father-Daughter,Consanguinity,1st degree
+98,Antonio Agapito 'AA' Legarda,Loren Legarda,Half-Brother,Affinity,Unknown
+98,Loren Legarda,Leandro Legarda Leviste,Son,Consanguinity,1st degree
+99,Fredenil Hernaez Castro,Jane Tan Castro,Spouses,Consanguinity,1st degree
+99,Fredenil Hernaez Castro,Maria Concepcion,Parent -> Child,Consanguinity,1st degree
+99,Fredenil Hernaez Castro,Fredenil Tan Castro II,Parent -> Child,Consanguinity,1st degree
+99,Fredenil Hernaez Castro,Rainjo Deysolong Castro,Parent -> Nephew,Consanguinity,2nd degree
+99,Jane Tan Castro,Rainjo Deysolong Castro,Spouses,Consanguinity,1st degree
+99,Rex Dante Lavado Palomar,Roberto ‘Nonong’ Palomar,Brothers,Consanguinity,1st degree
+99,Rex Dante Lavado Palomar,Milagros Roa Palomar,Spouses,Consanguinity,1st degree
+99,Roberto ‘Nonong’ Palomar,Milagros Roa Palomar,Spouses,Consanguinity,1st degree
+99,Roberto ‘Nonong’ Palomar,Karen Artuz Palomar,Brothers -> Cousin,Consanguinity,2nd degree
+99,Mateo Concepcion Hachuela,Gleah Rose Bulaquiña Hachuela,Father -> Daughter,Consanguinity,1st degree
+99,Arnold Alba Perez,Blesilda Perez Almalbis,Brothers -> Siblings,Consanguinity,1st degree
+99,Arnold Alba Perez,Ian Alba Perez,Brothers -> Siblings,Consanguinity,1st degree
+99,Felipe Neri Navarra Yap,Amelia Yap,Son -> Mother,Consanguinity,1st degree
+99,Felipe Neri Navarra Yap,Jose Noel Yap,Brothers,Consanguinity,1st degree
+99,Felipe Neri Navarra Yap,Jose Romeo U. Yap,Uncle -> Nephew,Consanguinity,2nd degree
+99,"Cesar Salon Yap, Jr.",Felipe Neri Navarra Yap,Family Name,Unknown,Unknown
+100,Joaquin Carlos ‘JC’ Rahman Araño Nava,Ma. Lucille Ledesma-Nava,Spouses,Affinity,Unknown
+100,Joaquin Carlos ‘JC’ Rahman Araño Nava,Felipe Hilan Araño Nava,Brother,Consanguinity,Unknown
+100,Felipe Hilan Araño Nava,Anna Philippa Golez Nava,Daughter,Consanguinity,Unknown
+100,Cecile Cabangal Gumarin,Samuel Tayo Gumarin,Spouses,Affinity,Unknown
+100,Samuel Tayo Gumarin,Feonabelle Gumarin Davis,Cousin,Consanguinity,Unknown
+100,Reynaldo Gamarcha Segovia,Sibunag vice mayor,Holds Position,Unknown,Unknown
+100,Christian Gamarcha Infante,Sangguniang Bayan member,Holds Position,Unknown,Unknown
+100,Jimmy Gamarcha Gallego,Sangguniang Bayan member,Holds Position,Unknown,Unknown
+100,Rolly Florendo Gamarcha,Sangguniang Bayan member,Holds Position,Unknown,Unknown
+100,Emmanuel Dela Cruz Galila,Mayor of Buenavista,Holds Position,Unknown,Unknown
+100,Jun Cesar Echavez Galila,Sangguniang Bayan member,Holds Position,Unknown,Unknown
+100,John Edward Ganancial Gando,Mayor of Buenavista,Holds Position,Unknown,Unknown
+100,Joel Ganancial Maestral,Sangguniang Bayan member,Holds Position,Unknown,Unknown
+101,Oscar Garin Sr.,Oscar “Richard” Serag Garin Jr.,Father -> son,Consanguinity,1st degree
+101,Nimfa Serag Garin,Oscar “Richard” Serag Garin Jr.,Mother -> son,Consanguinity,1st degree
+101,Oscar Garin Sr.,Rica Jane Loreto Garin,Father -> daughter,Consanguinity,1st degree
+101,Oscar Garin Sr.,Jennifer Garin-Colada,Father -> daughter,Consanguinity,1st degree
+101,Nimfa Serag Garin,Jennifer Garin-Colada,Mother -> daughter,Consanguinity,1st degree
+101,Oscar Garin Sr.,Lex Anthony Colada,Father -> son-in-law,Affinity,Unknown
+101,Janette “Doc Nanay” Loreto-Garin,Rica Jane Loreto Garin,Spouses,Affinity,Unknown
+101,Michael Gorriceta,Kathryn Joyce Fermin Gorriceta,Spouses,Affinity,Unknown
+101,Arcadio Gorriceta,Laurence Anthony Gorriceta,Father -> son,Consanguinity,1st degree
+101,Michael Gorriceta,Laurence Anthony Gorriceta,Uncle -> nephew,Consanguinity,2nd degree
+101,Arcadio Gorriceta,Jason Gonzalez,Uncle -> cousin,Consanguinity,2nd degree
+101,Reynor Roncesvalles Gonzalez,Jason Gonzalez,Father -> son,Consanguinity,1st degree
+101,Cesar Legarda Gonzales,Jason Gonzalez,Uncle -> cousin,Consanguinity,2nd degree
+101,Arvin Losaria,Jason Gonzalez,Cousin -> cousin,Consanguinity,2nd degree
+101,Hernan Biron Sr.,Ferjenel Biron,Father -> son,Consanguinity,1st degree
+101,Hernan Biron Sr.,Bryant Paul Biron,Father -> son,Consanguinity,1st degree
+101,Hernan Biron Sr.,Braeden John Biron,Father -> son,Consanguinity,1st degree
+101,Raul Tupas,Binky April Montecarlos Tupas,Spouses,Affinity,Unknown
+101,Roel Tupas Belleza,Peter Paul Tupas Gonzales,First cousin -> cousin,Consanguinity,2nd degree
+101,Roel Tupas Belleza,Roberto Tupas Belleza Jr.,First cousin -> cousin,Consanguinity,2nd degree
+105,Jose Maria Alvarez Alonso,Patricia Paula Alonso Valderrama,Daughter -> Daughter,Consanguinity,4th degree
+105,Jose Benito Alvarez Alonso,Giacomo Magno Alonso,Father -> Son,Consanguinity,1st degree
+105,Mercedes Kho Alvarez,John Paul Kho Alvarez,Mother -> Son,Consanguinity,1st degree
+105,Mercedes Kho Alvarez,John Paulo Alvarez,Mother -> Son,Consanguinity,1st degree
+105,Mercedes Kho Alvarez,Angelica Alvarez,Mother -> Niece,Consanguinity,2nd degree
+105,Mercedes Kho Alvarez,Genaro “Ralph” Alvarez IV,Mother -> Nephew,Consanguinity,2nd degree
+105,Victor Michael Alvarez Javellana,Ma. Femmy Alvarez Martir,Father -> Spouse,Affinity,Unknown
+105,Emilio Bernardino Yulo III,Nicholas Yulo,Father -> Son,Consanguinity,1st degree
+105,Andrew Martin Yulo Torres,Jake Patrick Torres Yulo,Brother -> Brother,Consanguinity,1st degree
+105,Jake Patrick Torres Yulo,Ma. Josefa Matti Yulo,Brother -> Spouse,Affinity,Unknown
+105,Emilio Yulo,Miguel Angelo Gatuslao Yulo,Father -> Son,Consanguinity,1st degree
+105,Ella Celestina Garcia Yulo,Felix Mathias Segundo Yulo III,Spouse -> Spouse,Affinity,Unknown
+105,Emilio Yulo,Paul Christopher Lagtapon Yulo,Father -> Son,Consanguinity,1st degree
+105,Emilio Yulo,Jerry Soliguen Yulo,Father -> Son,Consanguinity,1st degree
+105,Alfredo Marañon Jr.,Alfredo Dalisay Marañon III,Father -> Son,Consanguinity,1st degree
+105,Alfredo Marañon Jr.,Arthur Christopher Dalisay Marañon,Father -> Son,Consanguinity,1st degree
+105,Leo Rafael Marañon Cueva,Perfecto Besañez Marañon,Father -> Son,Consanguinity,1st degree
+105,Leo Rafael Marañon Cueva,Exequiel Jumawan Marañon,Father -> Son,Consanguinity,1st degree
+105,Maria Gina Montilla Lizares,"Oscar Chua Montilla, Jr.",Mother -> Brother,Consanguinity,1st degree
+105,Federico Oppen Montilla,Victor Gerardo Montilla Rojas,Uncle -> Nephew,Consanguinity,2nd degree
+105,Roberto Antonio Montilla Rojas Sr.,Victor Gerardo Montilla Rojas,Uncle -> Nephew,Consanguinity,2nd degree
+105,Roberto Antonio Montilla Rojas Sr.,James Anthony Montilla Garrucho,Uncle -> Nephew,Consanguinity,2nd degree
+106,Manuel 'Chaco' Longa Sagarbarria,Manuel 'Chiquiting' Teves Sagarbarria,Son,Consanguinity,1st degree
+106,Manuel 'Chaco' Longa Sagarbarria,Ma. Isabel 'Maisa' Longa-Sagarbarria,Son,Consanguinity,1st degree
+106,Melissa 'Chessa' Sagarbarria,Manuel 'Chiquiting' Teves Sagarbarria,Sister,Consanguinity,1st degree
+106,Emilio Manuel Sagarbarria Yoldi,Manuel 'Chiquiting' Teves Sagarbarria,Nephew,Consanguinity,2nd degree
+106,Emmanuel Limkaichong Iway,Jocelyn Sy-Limkaichong,Nephew,Affinity,2nd degree
+106,Emmanuel Limkaichong Iway,Lawrence Limkaichong Jr.,Nephew,Affinity,2nd degree
+106,Emmanuel Limkaichong Iway,Roel Degamo,Uncle,Affinity,2nd degree
+106,Janice Mira Vallega-Degamo,Roel Degamo,Widow,Affinity,Unknown
+106,Nyrth Christian Degamo,Janice Mira Vallega-Degamo,Son,Consanguinity,1st degree
+106,Carlo Remontal,Janice Mira Vallega-Degamo,Son,Consanguinity,1st degree
+106,Shari Torres Vallega,Janice Mira Vallega-Degamo,Maiden Name,Consanguinity,Unknown
+106,Aloma Monica Bernus Serion,Marianne Serion Gustilo,Sister,Consanguinity,1st degree
+106,Rusty Bernus Serion,Aloma Monica Bernus Serion,Brother,Consanguinity,1st degree
+106,Rusty Bernus Serion,Marianne Serion Gustilo,Brother,Consanguinity,1st degree
+106,Janeth Serion Caingcoy,Aloma Monica Bernus Serion,Sister,Consanguinity,1st degree
+106,Tita Ramos Serion,Aloma Monica Bernus Serion,Sister,Consanguinity,1st degree
+106,Monika Gustilo Serion,Marianne Serion Gustilo,Sister,Consanguinity,1st degree
+106,Clark Celso Endrina Serion,Aloma Monica Bernus Serion,Nephew,Consanguinity,2nd degree
+106,Oliver Serion Bongoyan,Aloma Monica Bernus Serion,Nephew,Consanguinity,2nd degree
+106,Luigi Marcel Teves Goñi,Mercedes Teves Goñi,Son,Consanguinity,1st degree
+106,John Teves Raymond Jr.,Edgar Teves Jr.,Cousin,Consanguinity,2nd degree
+106,Juna May Teves,Edgar Teves Jr.,Daughter,Consanguinity,2nd degree
+107,Zaldy Villa,Jake Vincent Villa,Father -> son,Consanguinity,1st degree
+107,Zaldy Villa,Jan Dean Ocao Villa,Uncle -> niece,Consanguinity,2nd degree
+107,Jake Vincent Villa,Jan Dean Ocao Villa,Cousin,Consanguinity,2nd degree
+107,Zaldy Villa,Honey Grace Macion Samson,Uncle -> niece,Consanguinity,2nd degree
+107,Zaldy Villa,Chuser Camacho Samson,Uncle -> niece,Consanguinity,2nd degree
+107,Dindo Anghag Tumala,Jake Vincent Villa,Running mate,Affinity,Unknown
+107,Roselyn Tancio Asok,Meynard ‘Dondon’ Real Asok,Spouses,Consanguinity,Unknown
+107,Irving Roy Vios Asok,Roselyn Tancio Asok,Son -> mother,Consanguinity,2nd degree
+107,Irving Roy Vios Asok,Meynard ‘Dondon’ Real Asok,Son -> father,Consanguinity,2nd degree
+107,Adam Duhaylungsod,Phil Moore Duhaylungsod Largo,Uncle -> nephew,Consanguinity,2nd degree
+107,Rubilyn Maata Ragay,Jacinto Verano Maata,Spouses,Consanguinity,Unknown
+111,Nicanor 'Nick' Sarabia Besas,Kristine Alexie Besas-Tutor,Father -> daughter,Consanguinity,1st degree
+111,Nicanor 'Nick' Sarabia Besas,Christopher Bernados Tutor,Father -> son-in-law,Affinity,Unknown
+111,Nicanor 'Nick' Sarabia Besas,Gian Carlo Tocmo Besas,Father -> son,Consanguinity,1st degree
+111,Isidore Gaviola Besas,Kristine Alexie Besas-Tutor,Uncle -> niece,Consanguinity,2nd degree
+111,Erico Aristotle 'Aris' Aumentado,Peregrina Cabagnot-Aumentado,Son -> mother,Consanguinity,1st degree
+111,Erico Aristotle 'Aris' Aumentado,Maria Vanessa Cadorna-Aumentado,Son -> wife,Affinity,Unknown
+111,Peregrina Cabagnot-Aumentado,Emmanuel 'Junin' Cabagnot Caberte,Mother -> son-in-law,Consanguinity,2nd degree
+111,John Geesnell 'Baba' Yap II,Jane Censoria Cajes-Yap,Father -> wife,Consanguinity,1st degree
+111,John Geesnell 'Baba' Yap II,Lucille Yap Lagunay,Father -> daughter,Consanguinity,1st degree
+111,John Geesnell 'Baba' Yap II,Juan Manuel Yap Lim,Father -> son,Consanguinity,1st degree
+111,Eladio Manligues Jala,Adam Relson Limbago Jala,Father -> son,Consanguinity,1st degree
+111,Eladio Manligues Jala,Raymond Gallardo Jala,Father -> son,Consanguinity,1st degree
+111,Eladio Manligues Jala,Greg Crispinito Lapura Jala,Father -> son,Consanguinity,1st degree
+111,Babie Garcia,John Felix Lao Garcia,Mother -> son,Consanguinity,1st degree
+111,Babie Garcia,Felicito Garcia Sr.,Mother -> brother,Consanguinity,1st degree
+111,Babie Garcia,Janette Aurestila Garcia,Mother -> daughter,Consanguinity,1st degree
+111,Babie Garcia,Maximo Gucor Garcia,Mother -> brother,Consanguinity,1st degree
+112,Pamela Baricuatro,Glenn Baricuatro,Spouses,Consanguinity,Unknown
+112,Ana Jessica Baricuatro,Glenn Baricuatro,Wife,Consanguinity,Unknown
+112,Cesar Baricuatro,Glenn Baricuatro,Son,Consanguinity,Unknown
+112,Eduardo Roa Rama Jr.,Michael Rama,Father,Consanguinity,1st degree
+112,Mikel Francisco Rama,Eduardo Roa Rama Jr.,Son,Consanguinity,2nd degree
+112,Mikel Francisco Rama,Michael Rama,Son,Consanguinity,2nd degree
+112,Eduardo Roa Rama Jr.,Pablo John Garcia,Uncle,Consanguinity,2nd degree
+112,Karen Hope Flores-Garcia,Pablo John Garcia,Spouses,Consanguinity,Unknown
+112,Christina Garcia-Frasco,Gwendolyn Garcia,Daughter,Consanguinity,2nd degree
+112,Vincent “Duke” Frasco,Gwendolyn Garcia,Nephew,Consanguinity,2nd degree
+112,Pablo John Garcia IV,Gwendolyn Garcia,Nephew,Consanguinity,2nd degree
+112,Aljew Frasco,Vincent “Duke” Frasco,Cousin,Consanguinity,3rd degree
+112,Mark Eric Garcia Espinosa,Gwendolyn Garcia,Nephew,Consanguinity,2nd degree
+112,Patricia Cinco Calderon,Peter John Calderon,Spouses,Consanguinity,Unknown
+112,Emerito Emmanuel Durano Calderon,Peter John Calderon,Brother,Consanguinity,2nd degree
+112,Raymond Joseph Durano Calderon,Peter John Calderon,Brother,Consanguinity,2nd degree
+112,Marissa Jude Calderon Alazas,Peter John Calderon,Sister,Consanguinity,2nd degree
+112,Ramon “Nito” Duterte Durano III,Ramon “Mano Amon” Durano,Son,Consanguinity,1st degree
+112,Carmen Remedios Hotchkiss Durano,Ramon “Nito” Duterte Durano III,Daughter,Consanguinity,1st degree
+112,Moonyeen Durano-Streegan,Ramon “Nito” Duterte Durano III,First Cousin,Consanguinity,2nd degree
+112,Joseph Thaddeus Streegan Durano,Moonyeen Durano-Streegan,Son,Consanguinity,1st degree
+115,Rogelio Espina,Gerardo Jr. Espina,Brother,Consanguinity,1st degree
+115,Rogelio Espina,Roselyn Espina,Sister,Consanguinity,1st degree
+115,Rodolfo Sr. Espina,Jake Espina,Father -> Son,Consanguinity,1st degree
+115,Rogelio Espina,Rodolfo Sr. Espina,Brother,Consanguinity,1st degree
+115,Rogelio Espina,Gerardo Jr. Espina,Twin Brother,Consanguinity,1st degree
+115,Rogelio Espina,Jose Antonio Espina,Cousin,Consanguinity,2nd degree
+115,Rogelio Espina,Ofelia Espina,Cousin,Consanguinity,2nd degree
+115,Rogelio Espina,Gretchen Stephanie Espina,Daughter,Consanguinity,1st degree
+116,Ralph Vincent Evardone,Philip Jr. Evardone,First cousin,Consanguinity,1st degree
+116,Ralph Vincent Evardone,Pearl Evardone,Cousin,Consanguinity,1st degree
+116,Susana Mejica,Roland Boie,Mother-in-law -> Son-in-law,Affinity,Unknown
+116,Javier Evardone Zacate,Dionisio Evardone III,Brothers,Consanguinity,Unknown
+116,Javier Evardone Zacate,Councilor Lourdes Evardone,Father -> Daughter,Consanguinity,1st degree
+116,Javier Evardone Zacate,Paul Zacate Sumbilla,Father -> Son,Consanguinity,1st degree
+116,Javier Evardone Zacate,Sofia Isabelle Zacate,Father -> Daughter,Consanguinity,1st degree
+116,Virginia Zacate,Councilor Lourdes Evardone,Mother -> Daughter,Consanguinity,1st degree
+116,Benjamin Evardone Ver,Ralph Vincent Evardone,Distant uncle -> Nephew,Consanguinity,2nd degree
+116,Conrado Uy Nicart III,Thelma Uy Nicart,Mother -> Son,Consanguinity,1st degree
+116,Conrado Uy Nicart III,Bonifacio Nicart,Father -> Son,Consanguinity,1st degree
+116,Conrado Uy Nicart III,Bernadette Nicart Aseo,Father -> Daughter,Consanguinity,1st degree
+116,Fernando Carlo Libanan Batica,Carlo A. Libanan,Brothers,Consanguinity,Unknown
+116,Carlo A. Libanan,Congressman Marcelino Libanan,Son -> Father-in-law,Affinity,Unknown
+116,Congressman Cristopher Sheen Gonzales,Annaliza Gonzales-Kwan,Father -> Daughter-in-law,Affinity,Unknown
+116,Congressman Cristopher Sheen Gonzales,Mark Pol Gonzales,Father -> Son,Consanguinity,1st degree
+116,Congressman Cristopher Sheen Gonzales,Kinna Mae Gonzales-Kwan,Father -> Daughter,Consanguinity,1st degree
+116,Congressman Marcelino Libanan,Congressman Cristopher Sheen Gonzales,Father-in-law -> Son-in-law,Affinity,Unknown
+116,Fernando Carlo Libanan Batica,Congressman Marcelino Libanan,Son -> Father-in-law,Affinity,Unknown
+116,Carlo A. Libanan,Congressman Marcelino Libanan,Son -> Father-in-law,Affinity,Unknown
+117,Ferdinand Martin Romualdez,Yedda Marie Romualdez,Spouses,Affinity,1st degree
+117,Ferdinand Martin Romualdez,Andrew Julian Romualdez,Son,Consanguinity,1st degree
+117,Ferdinand Martin Romualdez,Ferdinand Martin Romualdez Jr.,Son,Consanguinity,1st degree
+117,Ferdinand Martin Romualdez,Alfred Romualdez,Father and son tandem,Consanguinity,1st degree
+117,Alfred Romualdez,Raymund Vincent Romualdez,Father and son tandem,Consanguinity,1st degree
+117,Carmen Veloso Loreto-Cari,Jose Carlos Loreto-Cari,Mother and son,Consanguinity,1st degree
+117,Carmen Veloso Loreto-Cari,Michael Loreto-Cari,Mother and son,Consanguinity,1st degree
+117,Carmen Veloso Loreto-Cari,Carl Nicolas C. Cari,Mother and son,Consanguinity,1st degree
+117,Remedios Veloso Loreto-Petilla,Carlos Jericho Loreto-Petilla,Mother and son,Consanguinity,1st degree
+117,Remedios Veloso Loreto-Petilla,Alvin D. Petilla,Mother and son,Consanguinity,1st degree
+117,Jose Veloso-Loreto,Asuncion Petilla-Loreto,Spouses,Affinity,1st degree
+117,Jose Veloso-Loreto,Carmen Veloso Loreto-Cari,Brother and sister,Consanguinity,2nd degree
+117,Remedios Veloso Loreto-Petilla,Carmen Veloso Loreto-Cari,Sister,Consanguinity,2nd degree
+117,Remedios Veloso Loreto-Petilla,Jose Veloso-Loreto,Sister,Consanguinity,2nd degree
+117,Anna Victoria Veloso Tuazon,Marie Kathryn Veloso-Kabigting,Sisters,Consanguinity,2nd degree
+117,Remedio B. Veloso,Carlos G. Veloso,Siblings,Consanguinity,2nd degree
+117,Remedio B. Veloso,Edgar T. Veloso,Siblings,Consanguinity,2nd degree
+117,Remedio B. Veloso,Richard R. Veloso,Siblings,Consanguinity,2nd degree
+117,Lolita Tañala Javier,"Leonardo M. Javier, Jr.",Spouses,Affinity,1st degree
+117,Lolita Tañala Javier,Jassie Lou Tañala,Mother and son,Consanguinity,1st degree
+117,Lolita Tañala Javier,Michael Dragon Javier,Mother and son,Consanguinity,1st degree
+117,Lolita Tañala Javier,Mark Christopher Javier,Mother and son,Consanguinity,1st degree
+118,Harris Christopher M. Ongchuan,Charlene L. Ongchuan,Spouses,Consanguinity,1st degree
+118,Harris Christopher M. Ongchuan,Edwin Marino C. Ongchuan,Brother,Consanguinity,1st degree
+118,Harris Christopher M. Ongchuan,Emil Nicholas B. Ongchuan II,Father,Consanguinity,1st degree
+118,Edwin Marino C. Ongchuan,Emil Nicholas B. Ongchuan II,Brother,Consanguinity,1st degree
+119,Sharee Ann Tee Tan,Arnold V. Vasquez,Niece-uncle,Consanguinity,1st degree
+119,Stephen James Tan,Reynolds Michael Tan,Brothers,Consanguinity,1st degree
+119,Dexter Madriaga Uy,Coefredo Tan Uy,Father-son,Consanguinity,1st degree
+119,Stephany Madriaga Uy Tan,Stephen James Tan,Sister-husband,Affinity,1st degree
+119,Edward Madriaga Uy,Dexter Madriaga Uy,Brother,Consanguinity,1st degree
+120,Damian Gaviola Mercado,Rosa Emilia Gaviola Mercado,Spouses,Consanguinity,1st degree
+120,Damian Gaviola Mercado,Roger Gaviola Mercado,Brother,Consanguinity,1st degree
+120,Rosa Emilia Gaviola Mercado,Roger Gaviola Mercado,Spouses,Consanguinity,1st degree
+120,Roger Gaviola Mercado,Luz Verano Mercado,Spouses,Consanguinity,1st degree
+120,Roger Gaviola Mercado,Mikhael Verano Mercado,Father -> son,Consanguinity,1st degree
+120,Isagani M. Mercado,Damian Gaviola Mercado,Uncle -> nephew,Consanguinity,2nd degree
+120,"Valdemar L. Mercado, Jr.",Damian Gaviola Mercado,Uncle -> nephew,Consanguinity,2nd degree
+123,Abdusakur Mahail Tan,Hadja Nurunisah Abubakar,Spouses,Affinity,Unknown
+123,Abdusakur Mahail Tan,Abdusakur Abubakar Tan II,Father -> Son,Consanguinity,1st degree
+123,Abdusakur Mahail Tan,Samier Abubakar Tan,Father -> Son,Consanguinity,1st degree
+123,Abdusakur Mahail Tan,Shihla Tan-Hayudini,Father -> Daughter,Consanguinity,1st degree
+123,Abdusakur Mahail Tan,Shernee Tan-Tambut,Father -> Daughter,Consanguinity,1st degree
+123,Edsir Que Tan,Edsir Ahmad Tan II,Father -> Son,Consanguinity,1st degree
+123,Edsir Que Tan,Khumaidy Alfad Tan,Uncle -> Niece,Consanguinity,2nd degree
+123,Munir Mundoc Arbison,Al-Makram Napii Arbison,Father -> Son,Consanguinity,1st degree
+123,Munir Mundoc Arbison,Al-Nur Napii Arbison,Father -> Son,Consanguinity,1st degree
+123,Munir Mundoc Arbison,Marijhun Gonzales Arbison,Father -> Daughter,Consanguinity,1st degree
+123,Munir Mundoc Arbison,Nadia Arbison Alih,Father -> Daughter,Consanguinity,1st degree
+123,Munir Mundoc Arbison,Alhamar Samla Arbison,Father -> Daughter,Consanguinity,1st degree
+123,Munir Mundoc Arbison,Arvin Arbison Hamsani,Father -> Son,Consanguinity,1st degree
+123,Munir Mundoc Arbison,Dalma Alay Arbison,Father -> Daughter,Consanguinity,1st degree
+124,Dr. George Hofer,Dulce Ann Hofer,Father -> daughter,Consanguinity,1st degree
+124,Dr. George Hofer,Anna Marlesa Hofer Tamano-Hasim,Father -> cousin,Consanguinity,2nd degree
+124,Anna Marlesa Hofer Tamano-Hasim,Sharif Mazin Alih Hasim,Spouses,Affinity,Unknown
+124,Dr. George Hofer,George Pavlo Saguitan Hofer,Father -> grandson,Consanguinity,2nd degree
+124,Andres P. Olegario,Rey Andre Camacho Olegario,Father -> son,Consanguinity,1st degree
+124,Andres P. Olegario,Anamel Camacho Olegario,Father -> daughter,Consanguinity,1st degree
+124,Rey Andre Camacho Olegario,Anamel Camacho Olegario,Spouses,Affinity,Unknown
+124,Rey Andre Camacho Olegario,Ramses Troy “Rambo” Dy Olegario,Father -> son,Consanguinity,1st degree
+125,Darel Dexter Uy,Roberto ‘Berto’ Uy,Son,Consanguinity,1st degree
+125,Darel Dexter Uy,Evelyn ‘Belen’ Tang Uy,Mother,Consanguinity,1st degree
+125,Roberto ‘Pinpin’ Uy Jr.,Roberto ‘Berto’ Uy,Son,Consanguinity,1st degree
+125,Roberto ‘Pinpin’ Uy Jr.,Darel Dexter Uy,Brother,Consanguinity,1st degree
+125,Roberto Lim Uy Jr.,Roberto ‘Berto’ Uy,Son,Consanguinity,1st degree
+125,Roberto Lim Uy Jr.,Venus Arancana Uy,Spouses,Affinity,Unknown
+125,Irene Labadlabad,Rosendo Labadlabad,Daughter,Consanguinity,1st degree
+125,Glona Gollayan Labadlabad,Rosendo Labadlabad,Spouses,Consanguinity,1st degree
+125,Glona Gollayan Labadlabad,Irene Labadlabad,Mother,Consanguinity,1st degree
+125,Glona Gollayan Labadlabad,Mayor of Sindangan,Current Mayor,Consanguinity,1st degree
+125,Glona Gollayan Labadlabad,2nd district representative for three terms,Former 2nd district representative,Consanguinity,1st degree
+126,Divina Grace Cabardo Yu,Joseph Kim Cabardo Yu,Mother -> Son,Consanguinity,1st degree
+126,Divina Grace Cabardo Yu,Jeyzel Victoria Cabardo Yu,Mother -> Daughter,Consanguinity,1st degree
+126,Victor Jo Yu,Divina Grace Cabardo Yu,Spouses,Affinity,Unknown
+126,Victor Jo Yu,Joseph Kim Cabardo Yu,Father -> Son,Consanguinity,1st degree
+126,Victor Jo Yu,Jeyzel Victoria Cabardo Yu,Father -> Daughter,Consanguinity,1st degree
+126,John Raymon Cabardo Yu,Mayor of Labangan,Incumbent,Unknown,Unknown
+126,Monique Shaira Yu To,Vice Mayor of Pagadian,Incumbent,Unknown,Unknown
+126,Ruel Ormar Cabardo,Mayor of Tambulig,Incumbent,Unknown,Unknown
+126,Ocapan,Cabardo,Family,Consanguinity,Unknown
+126,Glepa,Cabardo,Family,Consanguinity,Unknown
+126,Matias,Cabardo,Family,Consanguinity,Unknown
+126,Molina,Cabardo,Family,Consanguinity,Unknown
+126,Soronio,Cabardo,Family,Consanguinity,Unknown
+126,Sulong,Cabardo,Family,Consanguinity,Unknown
+126,Tingson,Cabardo,Family,Consanguinity,Unknown
+126,Yecyec,Cabardo,Family,Consanguinity,Unknown
+129,Juan Miguel F. Zubiri,Audrey Kay Aquino Tan-Zubiri,Spouses,Affinity,1st degree
+129,Juan Miguel F. Zubiri,"Jose Ma. Rubin Zubiri, Jr.",Father -> son,Consanguinity,1st degree
+129,Rogelio Neil Pepito ROQUE,Laarni Roque,Spouses,Affinity,1st degree
+129,Rogelio Narvasa Quiño,Clive Dadole Quiño,Brother -> older brother,Consanguinity,1st degree
+129,Rogelio Narvasa Quiño,Rina Edrote Quiño,Brother -> brother-in-law,Affinity,1st degree
+129,Jerry Obial Canoy,Jerry Canoy Jr.,Namesake -> namesake,Unknown,Unknown
+129,Analisa Agustin Canoy,Jerry Canoy Jr.,Namesake -> namesake,Unknown,Unknown
+129,"Susano Mercado Canoy, Jr.",Jerry Canoy Jr.,Namesake -> namesake,Unknown,Unknown
+130,Pedro P. Romualdo,JJ Modina Romualdo,Father -> son,Consanguinity,1st degree
+130,Pedro P. Romualdo,Xavier Jesus ‘XJ’ Dela Fuente Romualdo,Brother -> brother,Consanguinity,1st degree
+130,Pedro P. Romualdo,Rodin Modina Romualdo,Brother -> brother,Consanguinity,1st degree
+130,JJ Modina Romualdo,Xavier Jesus ‘XJ’ Dela Fuente Romualdo,Father -> son,Consanguinity,2nd degree
+130,JJ Modina Romualdo,Yñigo Jesus Romualdo,Father -> son,Consanguinity,2nd degree
+131,Maranao leader Ali Dimaporo,Abdullah Dimaporo,Father -> son,Consanguinity,1st degree
+131,Governor Arsenio Quibranza,Imelda “Angging” Quibranza,Father -> daughter,Consanguinity,1st degree
+131,Imelda “Angging” Quibranza,Abdullah Dimaporo,Spouses,Affinity,Unknown
+131,Abdullah Dimaporo,Mohamad Khalid Quibranza Dimaporo,Father -> son,Consanguinity,1st degree
+131,Imelda Quibranza-Dimaporo,Mohamad Khalid Quibranza Dimaporo,Mother -> son,Consanguinity,1st degree
+131,Abdullah Dimaporo,Imelda Quibranza-Dimaporo,Spouses,Affinity,Unknown
+131,Imelda Quibranza-Dimaporo,Sittie Aminah Q. Dimaporo,Mother -> sister,Consanguinity,1st degree.
+131,Imelda Quibranza-Dimaporo,Motalib Macabato Dimaporoo,cousin-in-law,Affinity,4th-degree
+131,Abdullah Dimaporo,Sittie Aminah Q. Dimaporo,Father -> sister,Consanguinity,1st degree
+131,Ulwan Dimaporo,Sittie Aminah Q. Dimaporo,Spouses,Affinity,Unknown
+131,Motalib Dimaporo,Ulwan Dimaporo,Father -> son,Consanguinity,1st degree
+132,Henry Sevilla Oaminal,Sancho Fernando Fuentes Oaminal,Father -> son,Consanguinity,1st degree
+132,Henry Sevilla Oaminal,Henry 'Indy' Fuentes Oaminal Jr.,Father -> son,Consanguinity,1st degree
+132,Henry Sevilla Oaminal,Riza Oaminal Delos Santos,Father -> sister,Consanguinity,1st degree
+132,Sancho Sevilla Oaminal Jr.,Henry Sevilla Oaminal,Son -> father,Consanguinity,1st degree
+132,Riza Oaminal Delos Santos,Henry Sevilla Oaminal,Sister -> father,Consanguinity,1st degree
+132,Pearl Grace Fuentes-Oaminal,Henry Sevilla Oaminal,Wife -> husband,Affinity,Unknown
+132,Sam Norman Go Fuentes,Henry Sevilla Oaminal,Brother -> father,Consanguinity,1st degree
+132,Rowena Lapinig GUTIERREZ,Andrea Cherry Pink Lapinig Gutierrez-Cagas,Mother -> daughter,Consanguinity,1st degree
+132,Andrea Cherry Pink Lapinig Gutierrez-Cagas,Rowena Lapinig GUTIERREZ,Daughter -> mother,Consanguinity,1st degree
+132,Aurora Virginia Mag-usara Almonte,Jason Paredes Almonte,Spouses,Affinity,Unknown
+132,Aurora Virginia Mag-usara Almonte,Don Ian George Mag-usara Almonte,Spouses,Affinity,Unknown
+132,Calamba Mayor Luisito Bergado Villanueva Jr.,Ezel Tabuelog Villanueva,Husband -> wife,Affinity,Unknown
+133,Juliette Tiu UY,Julio Tadoy Uy,Spouses,Affinity,Unknown
+133,Yevgeny Vincente Emano,Nadya Beja Emano,Brother -> Sister,Consanguinity,2nd degree
+133,Yevgeny Vincente Emano,Rolando Emano Seno,Brother -> Cousin,Consanguinity,3rd degree
+133,Yevgeny Vincente Emano,Jeric Gayloa Emano,Brother -> Cousin,Consanguinity,3rd degree
+133,Yevgeny Vincente Emano,Syremae Neri Emano,Brother -> Sister,Consanguinity,2nd degree
+133,Yevgeny Vincente Emano,Princess Nacional Emano,Brother -> Sister,Consanguinity,2nd degree
+133,Yevgeny Vincente Emano,Honey Analou Emano Doña,Brother -> Sister,Consanguinity,2nd degree
+133,Yevgeny Vincente Emano,Yevonna Yacine Beja Emano,Brother -> Sister,Consanguinity,2nd degree
+133,Jennifer Artadi Lagbas,Danilo Artadi Lagbas Jr.,Sister -> Brother,Consanguinity,2nd degree
+133,Jennifer Artadi Lagbas,Cheezee Salvador Zanoria Lagbas,Sister -> First Cousin,Consanguinity,3rd degree
+133,Jennifer Artadi Lagbas,Ivan Chester Enghog Lagbas,Sister -> First Cousin,Consanguinity,3rd degree
+133,Jennifer Artadi Lagbas,Lilibeth Magno Lagbas,Sister -> Sister-in-law,Affinity,Unknown
+133,Jennifer Artadi Lagbas,Benedict Jamero Lagbas Jr.,Sister -> First Cousin,Consanguinity,3rd degree
+137,"Benjamin Bautista, Sr.",Franklin Peralta Bautista,Father -> son,Consanguinity,1st degree
+137,"Benjamin Bautista, Sr.",Lorna Bautista Bandigan,Father -> sister,Consanguinity,1st degree
+137,"Benjamin Bautista, Sr.",Claude Peralta Bautista,Father -> brother,Consanguinity,1st degree
+137,Franklin Peralta Bautista,Lorna Bautista Bandigan,Siblings,Consanguinity,1st degree
+137,Franklin Peralta Bautista,Benjamin Peralta Bautista Jr.,Brother -> brother,Consanguinity,1st degree
+137,Franklin Peralta Bautista,Bradly Llido Bautista,Brother -> nephew,Consanguinity,2nd degree
+137,Benjamin Peralta Bautista Jr.,Benjamin Tan Bautista III,Father -> son,Consanguinity,1st degree
+137,Benjamin Peralta Bautista Jr.,Estefanie Bautista Dumama,Father -> daughter,Consanguinity,1st degree
+137,Claude Peralta Bautista,Claude Benjamin Bautista II,Brother -> son,Consanguinity,1st degree
+137,Jason John Arciaga Joyce,James John Arciaga Joyce,Siblings,Consanguinity,1st degree
+137,Jason John Arciaga Joyce,Jardin John Arciaga Joyce,Brother -> brother,Consanguinity,1st degree
+137,Adelan B. De Arce,Andres Vicente Narvaiza De Arce,Unknown,Unknown,Unknown
+137,Josephine B. Mariscal,Maribel Mariscal Aplacador,Unknown,Unknown,Unknown
+138,"Nelson Dayanghirang, Sr.",Nelson Restor Dayanghirang Jr.,Father -> son,Consanguinity,1st degree
+138,Mayo Z. Almario,Cheeno Miguel D. Almario,Father -> son,Consanguinity,1st degree
+139,Manuel E. Zamora,Maria Carmen Solamillo Zamora-Mabanglo,Father -> daughter,Consanguinity,1st degree
+139,Manuel E. Zamora,Manuel Jr.,Father -> half brother,Consanguinity,1st degree
+139,Maria Carmen Solamillo Zamora-Mabanglo,Raul Gorospe Mabanglo,Spouses,Affinity,Unknown
+139,Maria Carmen Solamillo Zamora-Mabanglo,Herve Martelle Zamora Apsay,Mother -> son,Consanguinity,1st degree
+139,Maria Carmen Solamillo Zamora-Mabanglo,Hugh Maxuelle Zamora Apsay,Mother -> son,Consanguinity,1st degree
+139,Ruwel Sambas Gonzaga,Ruwin Gonzaga,Brother -> sibling,Consanguinity,2nd degree
+139,Ruwel Sambas Gonzaga,Rupert III Gonzaga,Brother -> sibling,Consanguinity,2nd degree
+139,Ruwel Sambas Gonzaga,Rune Gonzaga,Brother -> sibling,Consanguinity,2nd degree
+139,Ruwel Sambas Gonzaga,Dorothy Montejo,Spouses,Affinity,Unknown
+140,Rey Tao Uy,De Carlo Uy,Father -> son,Consanguinity,1st degree
+140,Rey Tao Uy,Ciara Uy,Father -> daughter,Consanguinity,1st degree
+140,Jose E. Relampagos,Janris Jay Gentiles Relampagos,Father -> son,Consanguinity,1st degree
+140,Jose E. Relampagos,Josie Mary Gentiles,Father -> daughter,Consanguinity,1st degree
+140,Jose E. Relampagos,Josephus Gentiles,Father -> son,Consanguinity,1st degree
+141,Vicente Gonzales Duterte,Rodrigo Roa Duterte,Father -> son,Consanguinity,1st degree
+141,Rodrigo Roa Duterte,Sebastian Duterte,Father -> son,Consanguinity,1st degree
+141,Rodrigo Roa Duterte,Rigo Duterte II,Father -> son,Consanguinity,1st degree
+141,Rodrigo Roa Duterte,Paolo Zimmerman Duterte,Father -> son,Consanguinity,1st degree
+141,Rodrigo Roa Duterte,Omar Vincent Sangkola Duterte,Father -> brother,Consanguinity,1st degree
+141,Douglas Cagas,Marc Douglas IV Chan,Father -> son,Consanguinity,1st degree
+141,Douglas Cagas,Yvonne Rona,Spouses,Affinity,Unknown
+141,Gary Cagas,John Tracy,Brother -> son,Consanguinity,1st degree
+141,Gary Cagas,Josef Fortich M.,Brother -> son,Consanguinity,1st degree
+141,Gary Cagas,Lisa Mariveles,Brother -> wife,Affinity,Unknown
+141,Douglas Cagas,Rio Cagas,Brother -> son-in-law,Affinity,Unknown
+141,Rio Cagas,Johari Gomez Bana,Son-in-law -> son,Affinity,Unknown
+145,Emmylou TALIÑO Mendoza,Ma. Alana Samantha Taliño Santos,Mother -> daughter,Consanguinity,3rd degree
+145,Emmylou TALIÑO Mendoza,Rochella Marie Taliño Taray,Mother -> niece,Consanguinity,3rd degree
+145,Carmen Mayor Rogelio Taliño,Emmylou TALIÑO Mendoza,Mother -> daughter,Consanguinity,1st degree
+145,Rudy SANTOS CAOAGDAN,Ryl John Caoagdan,Father -> son,Consanguinity,1st degree
+145,Rudy SANTOS CAOAGDAN,Liezel Mae Corpuz Caoagdan,Father -> daughter,Consanguinity,1st degree
+145,Eduardo Cantomayor CABAYA,Jason Neil Clyde Callado Cabaya,Uncle -> nephew,Consanguinity,3rd degree
+145,Eduardo Cantomayor CABAYA,Brodly John Calugas Cabaya,Uncle -> nephew,Consanguinity,3rd degree
+145,Eduardo Cantomayor CABAYA,Arnel Nupalo Cabaya,Uncle -> nephew,Consanguinity,3rd degree
+145,Rosalie CABAYA,Eduardo Cantomayor CABAYA,Mother -> son,Consanguinity,1st degree
+145,Cristobal Doloroso CADUNGON,Antipas Mayor,Father -> position,Affinity,Unknown
+145,Fedis Madeleine Bohol CADUNGON,Antipas Mayor,Daughter -> position,Affinity,Unknown
+145,"Egidio Omega CADUNGON, III",Antipas Mayor,Son -> position,Affinity,Unknown
+145,Veronica CADUNGON Peñaloza,Antipas Mayor,Daughter -> position,Affinity,Unknown
+146,Emmanuel “Manny” Dapidran Pacquiao Sr.,Rogelio Dapidran Pacquiao,Brother,Consanguinity,1st degree
+146,Emmanuel “Manny” Dapidran Pacquiao Sr.,Zyrex Cantaros Pacquiao,Brother,Consanguinity,1st degree
+146,Zyrex Cantaros Pacquiao,Ellen Jade Cellona Pacquiao,Spouse,Affinity,Unknown
+146,Zyrex Cantaros Pacquiao,Bonifacio Medel Pacquiao,Brother,Consanguinity,1st degree
+146,Reynaldo Figueroa Constantino,Maria Theresa Dadivas Constantino,Father -> Daughter,Consanguinity,1st degree
+146,Victor James Barrera Yap Sr.,Victor James Perocho Yap Jr.,Father -> Son,Consanguinity,1st degree
+146,Danny Acompañado Martinez,Marie Jess Martinez Ancheta,Spouse,Affinity,Unknown
+146,Cornelio Callueng Martinez Jr.,Marie Jess Martinez Ancheta,Spouse,Affinity,Unknown
+146,James Mark Basquiñez Reganit,Jessiemel Bryan Glang Reganit,Father -> Daughter,Consanguinity,1st degree
+146,Salway Dante Sumbo Jr.,Ruben Asino Sumbo Jr.,Brother,Consanguinity,1st degree
+146,Edwin Dante Pacaldo,Ruben Asino Sumbo Jr.,Uncle -> Niece,Consanguinity,2nd degree
+146,Freddie Fernandez Balazon,Tito Tazal Balazon,Brother,Consanguinity,1st degree
+147,"Reynaldo Sucayan TAMAYO, Jr.",Romeo Sanchez Tamayo,Nephew,Consanguinity,1st degree
+147,"Reynaldo Sucayan TAMAYO, Jr.",Rebb Amoroso Tamayo,Name,Unknown,Unknown
+147,"Reynaldo Sucayan TAMAYO, Jr.",Chad Rodriguez Tamayo,Name,Unknown,Unknown
+147,Erve Tamayo Tutor,"Reynaldo Sucayan TAMAYO, Jr.",Name,Unknown,Unknown
+147,"Arthur Yusay PINGOY, Jr.",Anabelle Garcia Pingoy,Spouses,Affinity,Unknown
+147,Dibu Sno TUAN,Keo Dayle Tanco Tuan,Name,Unknown,Unknown
+147,Dibu Sno TUAN,Kirk Tanco Tuan,Name,Unknown,Unknown
+147,Shirlyn Legario Bañas-Nograles,"Cesar Legario Bañas, Jr.",Sister,Consanguinity,1st degree
+147,Isidro Dabandan LUMAYAG,John Edward Lacbay Lumayag,Name,Unknown,Unknown
+147,Leonard Tabaco ESCOBILLO,Michael Tabaco Escobillo,Name,Unknown,Unknown
+147,Leonard Tabaco ESCOBILLO,Noel Jalandoni Escobillo,Name,Unknown,Unknown
+147,Leonard Tabaco ESCOBILLO,Catherine Pedrajas Tabaco,Name,Unknown,Unknown
+148,Pax Mangudadatu,Datu Pax Ali Sangki Mangudadatu,Father -> Son,Consanguinity,1st degree
+148,Pax Mangudadatu,Prince Raden Mangudadatu Sakaluran,Father -> Son,Consanguinity,1st degree
+148,Pax Mangudadatu,Rihan Mangudadatu Sakaluran,Father -> Daughter,Consanguinity,1st degree
+148,Pax Mangudadatu,Yahyhjun Kasim Mangudadatu,Father -> Son,Consanguinity,1st degree
+148,Pax Mangudadatu,Yassin Sangki Mangudadatu,Father -> Son,Consanguinity,1st degree
+148,Pax Mangudadatu,Jose Ramos Pabilona Segura,Father -> Son,Consanguinity,1st degree
+148,Pax Mangudadatu,"Elias Solidanio Segura, Jr.",Father -> Son,Consanguinity,1st degree
+148,Pax Mangudadatu,Jenalyn Cajandig Segura,Father -> Daughter,Consanguinity,1st degree
+148,Jose Ramos Pabilona Segura,Lina Ortizo Montilla,Father -> Spouse,Affinity,Unknown
+148,"Elias Solidanio Segura, Jr.",Ma. Cora Sebastian Montilla,Father -> Spouse,Affinity,Unknown
+148,"Elias Solidanio Segura, Jr.",Lalaine Jarrell Montilla,Father -> Spouse,Affinity,Unknown
+151,Dale Bokingo Corvera,Enrico “Rico” Corvera,Brother,Consanguinity,1st degree
+151,Dale Bokingo Corvera,Leo Dale Ayo Corvera,Father -> Son,Consanguinity,1st degree
+151,Edelmiro Amante,Angelica Rosedell “Angel” Amante-Matba,Father -> Daughter,Consanguinity,1st degree
+151,Edelmiro Amante,Erlpe John Amante,Father -> Son,Consanguinity,1st degree
+151,Erlpe John Amante,Judy Chin Amante,Spouses,Affinity,Unknown
+151,Erlpe John Amante,Inez Rosario Antipuesto-Amante,Father -> Daughter,Consanguinity,1st degree
+151,Dale Bokingo Corvera,Reynante Bokingo Desiata,Uncle -> Niece,Consanguinity,2nd degree
+151,Ramon “Monching” Mendezona Calo,Jovitte Cabrera Calo,Spouses,Affinity,Unknown
+151,Ramon “Monching” Mendezona Calo,Carmina Rasha Guilot Calo,Father -> Daughter,Consanguinity,1st degree
+151,Ramon “Monching” Mendezona Calo,"Jesus Tranquilino Ramirez Calo, Jr.",Father -> Son,Consanguinity,1st degree
+151,Karen Saligumba Rosales,Avelina Saligumba Rosales,Mother -> Daughter,Consanguinity,1st degree
+151,Alberto Rosales Japitana,Karen Saligumba Rosales,Father -> Daughter,Consanguinity,1st degree
+151,Junjun Rosales Estoque,Karen Saligumba Rosales,Brother -> Sister,Consanguinity,1st degree
+151,Alberto Rosales Japitana,Avelina Saligumba Rosales,Father -> Mother,Consanguinity,1st degree
+151,Avelina Saligumba Rosales,Marlon Rosales Labis,Mother -> Son,Consanguinity,1st degree
+151,Avelina Saligumba Rosales,Pamela Rosales Bermudez,Mother -> Daughter,Consanguinity,1st degree
+151,Franklin Deiparine Lim,Zenaida Corro Lim,Spouses,Affinity,Unknown
+151,Franklin Deiparine Lim,Ryan Jade Deparine Lim,Father -> Son,Consanguinity,1st degree
+151,Benjie Lim Montes,Franklin Deiparine Lim,Uncle -> Nephew,Consanguinity,2nd degree
+152,Democrito O. Plaza,Valentina Plaza,Spouses,Consanguinity,1st degree
+152,Democrito O. Plaza,Adolph Edward Galido Plaza,Father -> son,Consanguinity,1st degree
+152,Valentina Plaza,Adolph Edward Galido Plaza,Mother -> son,Consanguinity,1st degree
+152,Adolph Edward Galido Plaza,Frederick Mark Plaza Mellana,Father -> son,Consanguinity,2nd degree
+152,Adolph Edward Galido Plaza,Joseph Dingle Plaza,Father -> son,Consanguinity,2nd degree
+152,Adolph Edward Galido Plaza,Eric Prochina Plaza,Father -> son,Consanguinity,2nd degree
+152,Adolph Edward Galido Plaza,Hector Tanda Plaza,Father -> son,Consanguinity,2nd degree
+152,Adolph Edward Galido Plaza,Richard Mondejar Plaza,Father -> son,Consanguinity,2nd degree
+152,Adolph Edward Galido Plaza,"Carpin Mondejar Plaza, Jr.",Father -> son,Consanguinity,2nd degree
+152,Patricia Anne Borja Plaza,Adolph Edward Galido Plaza,Niece -> uncle,Affinity,2nd degree
+152,Randolph Borja Plaza,Patricia Anne Borja Plaza,Brother -> sister,Consanguinity,2nd degree
+152,Roscoe Democrito Borja Plaza,Patricia Anne Borja Plaza,Brother -> sister,Consanguinity,2nd degree
+152,Salimar Torralba Mondejar,Joseph Dingle Plaza,Uncle -> nephew,Consanguinity,2nd degree
+152,Sahlee Myr Salazar Mondejar,Salimar Torralba Mondejar,Daughter -> father,Consanguinity,2nd degree
+152,Jonito Torralba Mondejar,Salimar Torralba Mondejar,Son -> father,Consanguinity,2nd degree
+152,Allan Havana Mondejar,Salimar Torralba Mondejar,Son -> father,Consanguinity,2nd degree
+152,George Mondejar Villanueva,Salimar Torralba Mondejar,Son -> father,Consanguinity,2nd degree
+152,Richard Mondejar Plaza,Joseph Dingle Plaza,Uncle -> nephew,Consanguinity,2nd degree
+152,"Carpin Mondejar Plaza, Jr.",Joseph Dingle Plaza,Uncle -> nephew,Consanguinity,2nd degree
+152,Magdalena Aniñon Asis,Kim Lope Asis,Mother -> son,Consanguinity,1st degree
+152,Magdalena Aniñon Asis,Kirk Asis,Mother -> son,Consanguinity,1st degree
+152,Magdalena Aniñon Asis,Kim Lope Asis,Mother -> son,Consanguinity,1st degree
+152,Gilbert Granada Elorde,Sylvia Barrios Elorde,Spouses,Consanguinity,1st degree
+152,Ednard Gil Barrios Elorde,Sylvia Barrios Elorde,Son -> mother,Consanguinity,2nd degree
+152,Edwin Granada Elorde,Sylvia Barrios Elorde,Son -> mother,Consanguinity,2nd degree
+152,Edwin Granada Elorde,Gilbert Granada Elorde,Son -> father,Consanguinity,2nd degree
+152,Samuel Elorde Tortor,Sylvia Barrios Elorde,Son -> mother,Consanguinity,2nd degree
+153,Geraldine “Jade” Buray Ecleo,Benglen Ecleo,Defeated in election,Unknown,Unknown
+153,Geraldine “Jade” Buray Ecleo,Ozzy Reuben,Aunt -> Nephew,Consanguinity,1st degree
+153,Geraldine “Jade” Buray Ecleo,Allan I (Alan Uno),Aunt -> Uncle,Consanguinity,1st degree
+153,Allan I (Alan Uno),Ludwig Ecleo,Parent -> Child,Consanguinity,1st degree
+153,Allan I (Alan Uno),Reubenne Ecleo,Parent -> Child,Consanguinity,1st degree
+153,Allan I (Alan Uno),Bruce Allan Ecleo,Parent -> Child,Consanguinity,1st degree
+153,Nilo Pepito Demerey Jr.,Nilo Marco Miranda Demerey,Father -> Son,Consanguinity,1st degree
+153,Adolfo Edillor Longos,Marc Adelson Dumdumaya Longos,Father -> Son,Consanguinity,1st degree
+153,Adolfo Edillor Longos,Jonathan Mangmang Edillor,Father -> Son,Unknown,Unknown
+153,Marc Adelson Dumdumaya Longos,Jonathan Mangmang Edillor,Uncle -> Nephew,Consanguinity,2nd degree
+154,Robert Lyndon Smith Barbers,Robert Ace Smith Barbers,Brother,Consanguinity,1st degree
+154,Robert Ace Smith Barbers,Bernadette Sison Barbers,Spouses,Affinity,Unknown
+154,Jennifer Barbers Bonite,Chandru Tumulak Bonite,Spouses,Affinity,Unknown
+154,Francisco Matugas,Elizabeth Tinio Matugas,Brother,Consanguinity,1st degree
+154,Francisco Matugas,Marlon Matugas Coro,Uncle,Consanguinity,2nd degree
+154,Francisco Matugas,Alfredo Matugas Coro II,Uncle,Consanguinity,2nd degree
+155,Vicente Pimentel Sr.,Felicidad Ty Pimentel,Spouses,Consanguinity,Unknown
+155,Johnny Ty Pimentel,Alexander Ty Pimentel,Sibling,Consanguinity,Unknown
+155,Alexander Ty Pimentel,Roxanne Cabrera Pimentel,Spouse,Affinity,Unknown
+155,Johnny Ty Pimentel,John Paul Cruz Pimentel,Son,Consanguinity,1st degree
+155,Vicente Hotchkiss Pimentel III,Keith Vincent Pimentel,Sibling,Consanguinity,Unknown
+155,Vicente Hotchkiss Pimentel III,Ira Minette Pimentel,Spouse,Affinity,Unknown
+155,Manuel Osorio Alameda,Nicolas Osorio Alameda,Brother,Consanguinity,Unknown
+155,Romeo Momo Sr.,Eleanor Darvin Momo,Spouse,Affinity,Unknown
+155,Romeo Momo Sr.,Ruel Momo,Son,Consanguinity,1st degree
+155,Romeo Momo Sr.,Romeo Momo Jr.,Son,Consanguinity,1st degree
+155,Romeo Momo Sr.,Maria Lourdes Kharin Cammayo Momo,Daughter,Consanguinity,1st degree
+155,Johnny Ty Pimentel,Vicente Hotchkiss Pimentel III,Uncle -> Nephew,Consanguinity,2nd degree
+159,Mujiv Sabbihi Hataman,Jim Salliman Hataman,Brothers,Consanguinity,1st degree
+159,Gulam “Boy” Hataman,Mujiv Sabbihi Hataman,Brother,Consanguinity,1st degree
+159,Jul-Adnan Hataman,Mujiv Sabbihi Hataman,Son,Consanguinity,1st degree
+159,Sitti Djahlia Turabin,Mujiv Sabbihi Hataman,Wife,Affinity,Unknown
+159,Ahmed Djaliv Turabin Hataman,Mujiv Sabbihi Hataman,Son,Consanguinity,1st degree
+159,Juhan Sabbihi Hataman,Mujiv Sabbihi Hataman,Brother,Consanguinity,1st degree
+159,Kaiser Hataman,Mujiv Sabbihi Hataman,Uncle,Consanguinity,2nd degree
+159,Omar Hataman,Mujiv Sabbihi Hataman,Cousin,Consanguinity,2nd degree
+159,Mun-in Hataman,Mujiv Sabbihi Hataman,Cousin,Consanguinity,2nd degree
+159,Yusop Tanduh Alano,Muruwa Pawaki Alano,Uncle,Consanguinity,2nd degree
+160,Mamintal A. Adiong Jr.,Mohammad Khalid R. Adiong,Father -> son,Consanguinity,1st degree
+160,Ziaur-Rahman ‘Zia’ Alonto Adiong,Mamintal A. Adiong Jr.,Brother,Consanguinity,1st degree
+160,Yasser Alonto Balindong,Ali Pangalian Balindong,Son,Consanguinity,1st degree
+160,Ali Pangalian Balindong,Yasser Alonto Balindong,Father -> son,Consanguinity,1st degree
+160,Mesron Dimaporo Balindong,Yasser Alonto Balindong,Father -> son,Consanguinity,1st degree
+160,Yacob Dimaporo Balindong,Yasser Alonto Balindong,Brother,Consanguinity,1st degree
+160,Shariff Zain Gandamra,Majul Gandamra,Son,Consanguinity,1st degree
+160,Majul Gandamra,Shariff Zain Gandamra,Father -> son,Consanguinity,1st degree
+160,Muhammad Gandamra,Majul Gandamra,Son,Consanguinity,1st degree
+160,Majul Gandamra,Muhammad Gandamra,Father -> son,Consanguinity,1st degree
+160,Abdul Hakim Aguam Benito,Misangcad Magondacan Capal,Uncle -> nephew,Consanguinity,2nd degree
+160,Misangcad Magondacan Capal,Abdul Hakim Aguam Benito,Nephew -> uncle,Consanguinity,2nd degree
+160,Macapado Aguam Benito Jr.,Abdul Hakim Aguam Benito,Son,Consanguinity,1st degree
+160,Abdul Hakim Aguam Benito,Macapado Aguam Benito Jr.,Father -> son,Consanguinity,1st degree
+160,Misangcad Magondacan Capal,Cosain Laundi Capal,Father -> son,Consanguinity,1st degree
+160,Cosain Laundi Capal,Misangcad Magondacan Capal,Son,Consanguinity,1st degree
+160,Jalani Macalbe Mindalano,Amer Huseein Macalbe Mindalano,Brother,Consanguinity,1st degree
+160,Amer Huseein Macalbe Mindalano,Jalani Macalbe Mindalano,Brother,Consanguinity,1st degree
+161,Datu Tucao Ong Mastura,Datu Armando Mastura,Brother,Consanguinity,1st degree
+161,Datu Tucao Ong Mastura,Datu Michael Mastura,Brother,Consanguinity,1st degree
+161,Bai Dimple Mastura,Sultan Kudarat Mayor Shameem Mastura,Wife,Affinity,Unknown
+161,Vice Governor Datu Marshall Sinsuat,Bai Ainee Limbona-Sinsuat,Cousin’s wife,Consanguinity,Unknown
+161,Vice Mayor Bobsteel Ibrahim Sinsuat,Datu Marshall Sinsuat,Uncle,Consanguinity,2nd degree
+161,Datu Uga Abas Sinsuat,Datu Odin Sinsuat,Mayor,Consanguinity,1st degree
+161,Datu Mohammad Yasser Seismundo Sinsuat,Datu Odin Sinsuat,Mayor,Consanguinity,1st degree
+161,Datu Michael Cueto Sinsuat,Datu Odin Sinsuat,Mayor,Consanguinity,1st degree
+161,Mayor Abdulmain Pasagui Abas,Datu Odin Sinsuat,Mayor,Consanguinity,1st degree
+161,Councilor Datu Uga Abas Sinsuat,Datu Odin Sinsuat,Mayor,Consanguinity,1st degree
+161,Sophia Maliga Abas,Datu Odin Sinsuat,Mayor,Consanguinity,1st degree
+161,Norodin Maliga Abas,Datu Odin Sinsuat,Mayor,Consanguinity,1st degree
+161,Michael Abas Kida,Datu Odin Sinsuat,Mayor,Consanguinity,1st degree
+162,Andal Ampatuan Jr.,Datu Andal Santiago Ampatuan V,Father -> son,Consanguinity,1st degree
+162,Esmael 'Toto' Gaguil Mangudadatu,King Jhazzer Tiamson Mangudadatu,Father -> son,Consanguinity,1st degree
+162,Esmael 'Toto' Gaguil Mangudadatu,Princess Grace Tiamson Mangudadatu,Father -> daughter,Consanguinity,1st degree
+162,Ibrahim Gaguil Mangudadatu,Esmael 'Toto' Gaguil Mangudadatu,Brother,Consanguinity,2nd degree
+162,Datu Wali Mangudadatu,Esmael 'Toto' Gaguil Mangudadatu,Nephew,Consanguinity,3rd degree
+162,Ali Musali Midtimbang,Hisham Nando,Uncle -> cousin,Consanguinity,3rd degree
+162,Ali Musali Midtimbang,Redwan Nando,Uncle -> cousin,Consanguinity,3rd degree
+163,Yshmael Sali,Al-Syed Sali,Father -> son,Consanguinity,1st degree
+163,Yshmael Sali,Dimszar Matba Sali,Uncle -> nephew,Consanguinity,2nd degree
+163,Hadzri Halun Matba,Rofaida Alpha Matba,Spouses,Affinity,Unknown
+163,Abu Bashar Sali Matba,Abdel-Marzsid Matba Sali,Spouses,Affinity,Unknown
+163,Jay Sayang Lonzaga Jamalul,Mohammad Faizal Hajani Jamalul,Spouses,Affinity,Unknown
+163,Jasper Shia Que,Jimuel Shia Que,Brothers,Consanguinity,2nd degree
+163,Allan Kingking Ahaja,Serbin Canon Ahaja,Brothers,Consanguinity,2nd degree
+163,Nurbert Masquiso Sahali,Dayang Iman Masquiso Sahali,Spouses,Affinity,Unknown
+163,Al-Sahid Asdala Salih,Rahiema Asdala Salih,Spouses,Affinity,Unknown

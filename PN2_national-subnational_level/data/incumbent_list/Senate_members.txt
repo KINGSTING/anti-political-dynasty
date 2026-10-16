@@ -1,0 +1,25 @@
+Name,Position,Location
+Bam Aquino,Senator,Quezon City
+Alan Peter Cayetano,Senator,Taguig
+Pia Cayetano,Senator,Taguig
+Ronald dela Rosa,Senator,Davao City
+JV Ejercito,Senator,San Juan City
+Francis Escudero,Senator,Sorsogon
+Jinggoy Estrada,Senator,San Juan City
+Win Gatchalian,Senator,Valenzuela City
+Bong Go,Senator,Davao City
+Risa Hontiveros,Senator,Quezon City
+Panfilo Lacson,Senator,Cavite
+Lito Lapid,Senator,Pampanga
+Loren Legarda,Senator,Antique
+Rodante Marcoleta,Senator,Quezon City
+Imee Marcos,Senator,Ilocos Norte
+Robin Padilla,Senator,Nueva Ecija
+Kiko Pangilinan,Senator,Quezon City
+Tito Sotto,Senator,Quezon City
+Erwin Tulfo,Senator,Quezon City
+Raffy Tulfo,Senator,Quezon City
+Joel Villanueva,Senator,"Bocaue, Bulacan"
+Camille Villar,Senator,Las Piñas City
+Mark Villar,Senator,Las Piñas City
+Juan Miguel Zubiri,Senator,Bukidnon

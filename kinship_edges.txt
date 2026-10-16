@@ -1,0 +1,411 @@
+Alan Peter Cayetano : Pia Cayetano -> Sister : 2nd degree : Consanguinity
+Pia Cayetano : Alan Peter Cayetano -> Brother : 2nd degree : Consanguinity
+Jinggoy Estrada : JV Ejercito -> Half-Brother : 2nd degree : Consanguinity
+JV Ejercito : Jinggoy Estrada -> Half-Brother : 2nd degree : Consanguinity
+Mark Villar : Camille Villar -> Sister : 2nd degree : Consanguinity
+Camille Villar : Mark Villar -> Brother : 2nd degree : Consanguinity
+Raffy Tulfo : Erwin Tulfo -> Brother : 2nd degree : Consanguinity
+Erwin Tulfo : Raffy Tulfo -> Brother : 2nd degree : Consanguinity
+Imee Marcos : Ferdinand Alexander A. Marcos -> Nephew : 3rd degree : Consanguinity
+Ferdinand Alexander A. Marcos : Imee Marcos -> Aunt : 3rd degree : Consanguinity
+Imee Marcos : Angelo Marcos Barba -> First Cousin : 4th degree : Consanguinity
+Angelo Marcos Barba : Imee Marcos -> First Cousin : 4th degree : Consanguinity
+Imee Marcos : Ferdinand Martin G. Romualdez -> First Cousin : 4th degree : Consanguinity
+Ferdinand Martin G. Romualdez : Imee Marcos -> First Cousin : 4th degree : Consanguinity
+Loren Legarda : Leandro Legarda Leviste -> Son : 1st degree : Consanguinity
+Leandro Legarda Leviste : Loren Legarda -> Mother : 1st degree : Consanguinity
+Loren Legarda : Antonio Jr. B. Legarda -> Brother : 2nd degree : Consanguinity
+Antonio Jr. B. Legarda : Loren Legarda -> Sister : 2nd degree : Consanguinity
+Sherwin Gatchalian : Kenneth T. Gatchalian -> Brother : 2nd degree : Consanguinity
+Kenneth T. Gatchalian : Sherwin Gatchalian -> Brother : 2nd degree : Consanguinity
+Francis Escudero : Bernadette G. Escudero -> Sister : 2nd degree : Consanguinity
+Bernadette G. Escudero : Francis Escudero -> Brother : 2nd degree : Consanguinity
+Joel Villanueva : Eduardo "Bro. Eddie" C. Villanueva -> Father : 1st degree : Consanguinity
+Eduardo "Bro. Eddie" C. Villanueva : Joel Villanueva -> Son : 1st degree : Consanguinity
+Raffy Tulfo : Jocelyn P. Tulfo -> Wife : 1st degree : Affinity
+Jocelyn P. Tulfo : Raffy Tulfo -> Husband : 1st degree : Affinity
+Raffy Tulfo : Ralph Wendel P. Tulfo -> Son : 1st degree : Consanguinity
+Ralph Wendel P. Tulfo : Raffy Tulfo -> Father : 1st degree : Consanguinity
+Erwin Tulfo : Jocelyn P. Tulfo -> Sister-in-law : 2nd degree : Affinity
+Jocelyn P. Tulfo : Erwin Tulfo -> Brother-in-law : 2nd degree : Affinity
+Erwin Tulfo : Ralph Wendel P. Tulfo -> Nephew : 3rd degree : Consanguinity
+Ralph Wendel P. Tulfo : Erwin Tulfo -> Uncle : 3rd degree : Consanguinity
+Juan Miguel Zubiri : Audrey Kay T. Zubiri -> Wife : 1st degree : Affinity
+Audrey Kay T. Zubiri : Juan Miguel Zubiri -> Husband : 1st degree : Affinity
+Ferdinand Martin G. Romualdez : Andrew Julian K. Romualdez -> Son : 1st degree : Consanguinity
+Andrew Julian K. Romualdez : Ferdinand Martin G. Romualdez -> Father : 1st degree : Consanguinity
+Ferdinand Martin G. Romualdez : Yedda Marie K. Romualdez -> Wife : 1st degree : Affinity
+Yedda Marie K. Romualdez : Ferdinand Martin G. Romualdez -> Husband : 1st degree : Affinity
+Andrew Julian K. Romualdez : Yedda Marie K. Romualdez -> Mother : 1st degree : Consanguinity
+Yedda Marie K. Romualdez : Andrew Julian K. Romualdez -> Son : 1st degree : Consanguinity
+Paolo Z. Duterte : Omar Vincent Sangkola Duterte -> Son : 1st degree : Consanguinity
+Omar Vincent Sangkola Duterte : Paolo Z. Duterte -> Father : 1st degree : Consanguinity
+Harold James T. Duterte : Paolo Z. Duterte -> Cousin : 4th degree : Consanguinity
+Paolo Z. Duterte : Harold James T. Duterte -> Cousin : 4th degree : Consanguinity
+Lani Mercado-Revilla : Ramon Jolo Revilla III -> Son : 1st degree : Consanguinity
+Ramon Jolo Revilla III : Lani Mercado-Revilla -> Mother : 1st degree : Consanguinity
+Lani Mercado-Revilla : Bryan B. Revilla -> Son : 1st degree : Consanguinity
+Bryan B. Revilla : Lani Mercado-Revilla -> Mother : 1st degree : Consanguinity
+Ramon Jolo Revilla III : Bryan B. Revilla -> Brother : 2nd degree : Consanguinity
+Bryan B. Revilla : Ramon Jolo Revilla III -> Brother : 2nd degree : Consanguinity
+Alfredo "Albee" B. Benitez : Javier Miguel Lopez Benitez -> Son : 1st degree : Consanguinity
+Javier Miguel Lopez Benitez : Alfredo "Albee" B. Benitez -> Father : 1st degree : Consanguinity
+Jose Francisco Benitez : Alfredo "Albee" B. Benitez -> Brother : 2nd degree : Consanguinity
+Alfredo "Albee" B. Benitez : Jose Francisco Benitez -> Brother : 2nd degree : Consanguinity
+Jose Francisco Benitez : Javier Miguel Lopez Benitez -> Nephew : 3rd degree : Consanguinity
+Javier Miguel Lopez Benitez : Jose Francisco Benitez -> Uncle : 3rd degree : Consanguinity
+Miguel Luis R. Villafuerte : Vincenzo Renato Luigi R. Villafuerte -> Brother : 2nd degree : Consanguinity
+Vincenzo Renato Luigi R. Villafuerte : Miguel Luis R. Villafuerte -> Brother : 2nd degree : Consanguinity
+Antonio T. Kho : Elisa "Olga" T. Kho -> Wife : 1st degree : Affinity
+Elisa "Olga" T. Kho : Antonio T. Kho -> Husband : 1st degree : Affinity
+Antonio T. Kho : Wilton "Tonton" T. Kho -> Son : 1st degree : Consanguinity
+Wilton "Tonton" T. Kho : Antonio T. Kho -> Father : 1st degree : Consanguinity
+Elisa "Olga" T. Kho : Wilton "Tonton" T. Kho -> Son : 1st degree : Consanguinity
+Wilton "Tonton" T. Kho : Elisa "Olga" T. Kho -> Mother : 1st degree : Consanguinity
+Imelda Quibranza Dimaporo : Sittie Aminah Q. Dimaporo -> Daughter : 1st degree : Consanguinity
+Sittie Aminah Q. Dimaporo : Imelda Quibranza Dimaporo -> Mother : 1st degree : Consanguinity
+Ferdinand "Bongbong" Marcos Jr. : Imee Marcos -> Sister : 2nd degree : Consanguinity
+Imee Marcos : Ferdinand "Bongbong" Marcos Jr. -> Brother : 2nd degree : Consanguinity
+Ferdinand "Bongbong" Marcos Jr. : Ferdinand Alexander A. Marcos -> Son : 1st degree : Consanguinity
+Ferdinand Alexander A. Marcos : Ferdinand "Bongbong" Marcos Jr. -> Father : 1st degree : Consanguinity
+Ferdinand "Bongbong" Marcos Jr. : Angelo Marcos Barba -> First Cousin : 4th degree : Consanguinity
+Angelo Marcos Barba : Ferdinand "Bongbong" Marcos Jr. -> First Cousin : 4th degree : Consanguinity
+Ferdinand "Bongbong" Marcos Jr. : Ferdinand Martin G. Romualdez -> First Cousin : 4th degree : Consanguinity
+Ferdinand Martin G. Romualdez : Ferdinand "Bongbong" Marcos Jr. -> First Cousin : 4th degree : Consanguinity
+Ferdinand "Bongbong" Marcos Jr. : Yedda Marie K. Romualdez -> First Cousin-in-law : 4th degree : Affinity
+Yedda Marie K. Romualdez : Ferdinand "Bongbong" Marcos Jr. -> First Cousin-in-law : 4th degree : Affinity
+Sara Zimmerman Duterte-Carpio : Paolo Z. Duterte -> Brother : 2nd degree : Consanguinity
+Paolo Z. Duterte : Sara Zimmerman Duterte-Carpio -> Sister : 2nd degree : Consanguinity
+Sara Zimmerman Duterte-Carpio : Omar Vincent Sangkola Duterte -> Nephew : 3rd degree : Consanguinity
+Omar Vincent Sangkola Duterte : Sara Zimmerman Duterte-Carpio -> Aunt : 3rd degree : Consanguinity
+Sara Zimmerman Duterte-Carpio : Harold James T. Duterte -> First Cousin : 4th degree : Consanguinity
+Harold James T. Duterte : Sara Zimmerman Duterte-Carpio -> First Cousin : 4th degree : Consanguinity
+Cecilia Marcos : Ferdinand "Bongbong" Marcos Jr. -> Cousin-in-law : 4th degree : Affinity
+Cecilia Marcos : Ferdinand Alexander A. Marcos -> Aunt : 3rd degree : Affinity
+Cecilia Marcos : Imee Marcos -> Cousin-in-law : 4th degree : Affinity
+Abeng Remulla : Crispin Diego D. Remulla -> Brother : 2nd degree : Consanguinity
+Vilma Santos : Ryan S. Recto -> Son : 1st degree : Consanguinity
+Sharee Ann Tan : Reynolds Michael Tan -> Brother : 2nd degree : Consanguinity
+Sharee Ann Tan : Stephen James Tan -> Brother : 2nd degree : Consanguinity
+Jericho Petilla : Carl Nicolas Cari -> Uncle : 3rd degree : Consanguinity
+Yvonne Roña Cagas : John Tracy Cagas -> Cousin-in-law : 4th degree : Affinity
+Darel Uy : Roberto "Pinpin" Uy Jr. -> Son : 1st degree : Consanguinity
+Divina Grace Yu : Joseph Kim Yu -> Mother : 1st degree : Consanguinity
+Divina Grace Yu : Jeyzel Victoria Yu -> Mother : 1st degree : Consanguinity
+Divina Grace Yu : Maria Kristina Jihan B. Glepa -> Aunt : 3rd degree : Consanguinity
+Miguel Luis R. Villafuerte : Luis Raymund Villafuerte -> Father : 1st degree : Consanguinity
+Vincenzo Renato Luigi R. Villafuerte : Luis Raymund Villafuerte -> Father : 1st degree : Consanguinity
+Arthur Defensor Jr. : Lorenz R. Defensor -> Father : 1st degree : Consanguinity
+Rodolfo Albano III : Antonio "Tonypet" T. Albano -> Brother : 2nd degree : Consanguinity
+Mamintal Adiong Jr. : Ziaur-Rahman "Zia" Alonto Adiong -> Brother : 2nd degree : Consanguinity
+Henry Oaminal : Sancho Fernando "Ando" F. Oaminal -> Father : 1st degree : Consanguinity
+Damian Mercado : Roger Gaviola Mercado -> Brother : 2nd degree : Consanguinity
+Johnny Pimentel : Alexander Ty Pimentel -> Brother : 2nd degree : Consanguinity
+Dulce Ann Hofer : Marlesa "Doc Marly" Hofer-Hasim -> Cousin : 4th degree : Consanguinity
+Jerry Singson : Ronald V. Singson -> Uncle : 3rd degree : Consanguinity
+Jerry Singson : Kristine Singson-Meehan -> Uncle : 3rd degree : Consanguinity
+Mohamad Khalid Dimaporo : Imelda Quibranza Dimaporo -> Mother : 1st degree : Consanguinity
+Imelda Quibranza Dimaporo : Mohamad Khalid Dimaporo -> Son : 1st degree : Consanguinity
+Mohamad Khalid Dimaporo : Sittie Aminah Q. Dimaporo -> Sister : 2nd degree : Consanguinity
+Sittie Aminah Q. Dimaporo : Mohamad Khalid Dimaporo -> Brother : 2nd degree : Consanguinity
+Emmylou Mendoza : Raymond Democrito C. Mendoza -> Husband : 1st degree : Affinity
+Raymond Democrito C. Mendoza : Emmylou Mendoza -> Wife : 1st degree : Affinity
+Nina Ynares : Rebecca Maria Alcantara Ynares -> Sister : 2nd degree : Consanguinity
+Rebecca Maria Alcantara Ynares : Nina Ynares -> Sister : 2nd degree : Consanguinity
+Ma. Isabel L. Sagarbarria : Chaco Sagarbarria -> Son : 1st degree : Consanguinity
+Chaco Sagarbarria : Ma. Isabel L. Sagarbarria -> Mother : 1st degree : Consanguinity
+Angelina Tan : Keith Micah "Atty. Mike" D.L. Tan -> Son : 1st degree : Consanguinity
+Ferdinand "Bongbong" Marcos Jr. : Matthew Manotoc -> Nephew : 3rd degree : Consanguinity
+Matthew Manotoc : Ferdinand "Bongbong" Marcos Jr. -> Uncle : 3rd degree : Consanguinity
+Imee Marcos : Matthew Manotoc -> Son : 1st degree : Consanguinity
+Matthew Manotoc : Imee Marcos -> Mother : 1st degree : Consanguinity
+Ferdinand Alexander A. Marcos : Matthew Manotoc -> Cousin : 4th degree : Consanguinity
+Matthew Manotoc : Ferdinand Alexander A. Marcos -> Cousin : 4th degree : Consanguinity
+Takit Bersamin : Anne Bersamin -> Niece : 3rd degree : Consanguinity
+Anne Bersamin : Takit Bersamin -> Uncle : 3rd degree : Consanguinity
+Jerry Singson : Ryan Luis Singson -> Nephew : 3rd degree : Consanguinity
+Ryan Luis Singson : Jerry Singson -> Uncle : 3rd degree : Consanguinity
+Lilia Pineda : Dennis Pineda -> Son : 1st degree : Consanguinity
+Dennis Pineda : Lilia Pineda -> Mother : 1st degree : Consanguinity
+Mamintal Adiong Jr. : Mujam Adiong -> Son : 1st degree : Consanguinity
+Mujam Adiong : Mamintal Adiong Jr. -> Father : 1st degree : Consanguinity
+Ziaur-Rahman "Zia" Alonto Adiong : Mujam Adiong -> Brother : 2nd degree : Consanguinity
+Mujam Adiong : Ziaur-Rahman "Zia" Alonto Adiong -> Brother : 2nd degree : Consanguinity
+Damian Mercado : Milai Mercado -> Sister : 2nd degree : Consanguinity
+Milai Mercado : Damian Mercado -> Brother : 2nd degree : Consanguinity
+Francis Escudero : Jun Escudero -> Cousin : 4th degree : Consanguinity
+Jun Escudero : Francis Escudero -> Cousin : 4th degree : Consanguinity
+Bernadette G. Escudero : Jun Escudero -> Cousin : 4th degree : Consanguinity
+Jun Escudero : Bernadette G. Escudero -> Cousin : 4th degree : Consanguinity
+Elias Bulut Jr. : Kyle Bulut -> Daughter : 1st degree : Consanguinity
+Kyle Bulut : Elias Bulut Jr. -> Father : 1st degree : Consanguinity
+Eleanor Bulut-Begtang : Kyle Bulut -> Niece : 3rd degree : Consanguinity
+Kyle Bulut : Eleanor Bulut-Begtang -> Aunt : 3rd degree : Consanguinity
+Lani Mercado-Revilla : Ram Revilla Bautista -> Son : 1st degree : Consanguinity
+Ram Revilla Bautista : Lani Mercado-Revilla -> Mother : 1st degree : Consanguinity
+Ramon Jolo Revilla III : Ram Revilla Bautista -> Brother : 2nd degree : Consanguinity
+Ram Revilla Bautista : Ramon Jolo Revilla III -> Brother : 2nd degree : Consanguinity
+Elias Bulut Jr. : Eleanor Bulut-Begtang -> Sister : 2nd degree : Consanguinity
+Eleanor Bulut-Begtang : Elias Bulut Jr. -> Brother : 2nd degree : Consanguinity
+Jerry Singson : Richelle Singson-Michael -> Niece : 3rd degree : Consanguinity
+Richelle Singson-Michael : Jerry Singson -> Uncle : 3rd degree : Consanguinity
+Ryan Luis Singson : Richelle Singson-Michael -> Sister : 2nd degree : Consanguinity
+Richelle Singson-Michael : Ryan Luis Singson -> Brother : 2nd degree : Consanguinity
+Ronald Singson : Richelle Singson-Michael -> Sister : 2nd degree : Consanguinity
+Richelle Singson-Michael : Ronald Singson -> Brother : 2nd degree : Consanguinity
+Kristine Singson-Meehan : Richelle Singson-Michael -> Second Cousin : 4th degree : Consanguinity
+Richelle Singson-Michael : Kristine Singson-Meehan -> Second Cousin : 4th degree : Consanguinity
+Ruth Mangudadatu Sakaluran : Pax Ali Mangudadatu -> Nephew : 3rd degree : Consanguinity
+Pax Ali Mangudadatu : Ruth Mangudadatu Sakaluran -> Aunt : 3rd degree : Consanguinity
+Ruth Mangudadatu Sakaluran : Prince Raden Sakaluran -> Son : 1st degree : Consanguinity
+Prince Raden Sakaluran : Ruth Mangudadatu Sakaluran -> Mother : 1st degree : Consanguinity
+Pax Ali Mangudadatu : Prince Raden Sakaluran -> First Cousin : 4th degree : Consanguinity
+Prince Raden Sakaluran : Pax Ali Mangudadatu -> First Cousin : 4th degree : Consanguinity
+Esmael "Toto" Mangudadatu : Ruth Mangudadatu Sakaluran -> First Cousin : 4th degree : Consanguinity
+Ruth Mangudadatu Sakaluran : Esmael "Toto" Mangudadatu -> First Cousin : 4th degree : Consanguinity
+AHMED IBN DJALIV TURABIN HATAMAN : JUHAN SABBIHIN HATAMAN -> Nephew : 3rd degree : Consanguinity
+JUHAN SABBIHIN HATAMAN : AHMED IBN DJALIV TURABIN HATAMAN -> Uncle : 3rd degree : Consanguinity
+RAMIL LAO GENTUGAYA : JOANNA AILEEN ANG GENTUGAYA -> Husband : 1st degree : Affinity
+JOANNA AILEEN ANG GENTUGAYA : RAMIL LAO GENTUGAYA -> Wife : 1st degree : Affinity
+ARISTON DELA TORRE ARZAGA : WINSTON GABUAT ARZAGA -> Brother : 2nd degree : Consanguinity
+WINSTON GABUAT ARZAGA : ARISTON DELA TORRE ARZAGA -> Brother : 2nd degree : Consanguinity
+BOBBY JAY BALDESPIÑOSA DINLAYAN : MARLON BRANDO BANDOLA DINLAYAN -> First Cousin : 4th degree : Consanguinity
+MARLON BRANDO BANDOLA DINLAYAN : BOBBY JAY BALDESPIÑOSA DINLAYAN -> First Cousin : 4th degree : Consanguinity
+SYREMAE NERI EMANO : PRINCESS NACIONAL EMANO -> First Cousin : 4th degree : Consanguinity
+PRINCESS NACIONAL EMANO : SYREMAE NERI EMANO -> First Cousin : 4th degree : Consanguinity
+IRVING ROY ASOK VIOS : HEDDAH VIOS LARGO -> Brother : 2nd degree : Consanguinity
+HEDDAH VIOS LARGO : IRVING ROY ASOK VIOS -> Sister : 2nd degree : Consanguinity
+JOSE REMOS PABILONA SEGURA : ELIAS SOLIDANIO SEGURA JR -> First Cousin : 4th degree : Consanguinity
+ELIAS SOLIDANIO SEGURA JR : JOSE REMOS PABILONA SEGURA -> First Cousin : 4th degree : Consanguinity
+HADJIMAN HATAMAN SALLIMAN : AHMED IBN DJALIV TURABIN HATAMAN -> Uncle : 3rd degree : Consanguinity
+AHMED IBN DJALIV TURABIN HATAMAN : HADJIMAN HATAMAN SALLIMAN -> Nephew : 3rd degree : Consanguinity
+HADJIMAN HATAMAN SALLIMAN : JUHAN SABBIHIN HATAMAN -> Brother : 2nd degree : Consanguinity
+JUHAN SABBIHIN HATAMAN : HADJIMAN HATAMAN SALLIMAN -> Brother : 2nd degree : Consanguinity
+ARTHUR PINGOY JR. : ANNABELLE GARCIA PINGOY -> Husband : 1st degree : Affinity
+ANNABELLE GARCIA PINGOY : ARTHUR PINGOY JR. -> Wife : 1st degree : Affinity
+ERIC SIBUMA : ALYSSA KRISTINE BERNAL SIBUMA -> Father : 1st degree : Consanguinity
+ALYSSA KRISTINE BERNAL SIBUMA : ERIC SIBUMA -> Daughter : 1st degree : Consanguinity
+ANNE BERSAMIN : FRANCIS CESAR BERSAMIN BRINGAS -> First Cousin : 4th degree : Consanguinity
+FRANCIS CESAR BERSAMIN BRINGAS : ANNE BERSAMIN -> First Cousin : 4th degree : Consanguinity
+ANNE BERSAMIN : LUIS BERNARDEZ BERSAMIN IV -> First Cousin : 4th degree : Consanguinity
+LUIS BERNARDEZ BERSAMIN IV : ANNE BERSAMIN -> First Cousin : 4th degree : Consanguinity
+PAT PLAZA : JOSEPH DINGLE PLAZA -> First Cousin : 4th degree : Consanguinity
+JOSEPH DINGLE PLAZA : PAT PLAZA -> First Cousin : 4th degree : Consanguinity
+RYAN LUIS SINGSON : ERICSON GACULA SINGSON -> Uncle / Cousin : Consanguinity
+ERICSON GACULA SINGSON : RYAN LUIS SINGSON -> Nephew / Cousin : Consanguinity
+KIKO DY : MANUEL FAUSTINO UYTIEPO DY -> First Cousin : 4th degree : Consanguinity
+MANUEL FAUSTINO UYTIEPO DY : KIKO DY -> First Cousin : 4th degree : Consanguinity
+MARSHALL SINSUAT : DATU MICHAEL CUETO SINSUAT I -> Cousin / Brother : Consanguinity
+DATU MICHAEL CUETO SINSUAT I : MARSHALL SINSUAT -> Cousin / Brother : Consanguinity
+MUJIV HATAMAN : AHMED IBN DJALIV TURABIN HATAMAN -> Father : 1st degree : Consanguinity
+AHMED IBN DJALIV TURABIN HATAMAN : MUJIV HATAMAN -> Son : 1st degree : Consanguinity
+MUJIV HATAMAN : JUHAN SABBIHIN HATAMAN -> Brother : 2nd degree : Consanguinity
+JUHAN SABBIHIN HATAMAN : MUJIV HATAMAN -> Brother : 2nd degree : Consanguinity
+HERMOGENES EBDANE JR. : JUN RUNDSTEDT CABANAYAN EBDANE -> Father : 1st degree : Consanguinity
+JUN RUNDSTEDT CABANAYAN EBDANE : HERMOGENES EBDANE JR. -> Son : 1st degree : Consanguinity
+NILO DEMEREY JR. : NILO MARCO MIRANDA DEMEREY -> Father : 1st degree : Consanguinity
+NILO MARCO MIRANDA DEMEREY : NILO DEMEREY JR. -> Son : 1st degree : Consanguinity
+ERICO ARISTOTLE AUMENTADO : JISELLE RAE AUMENTADO VILLAMOR -> Brother : 2nd degree : Consanguinity
+JISELLE RAE AUMENTADO VILLAMOR : ERICO ARISTOTLE AUMENTADO -> Sister : 2nd degree : Consanguinity
+EUGENIO JOSE LACSON : ANDREW GERARD LACSON MONTELIBANO -> First Cousin : 4th degree : Consanguinity
+ANDREW GERARD LACSON MONTELIBANO : EUGENIO JOSE LACSON -> First Cousin : 4th degree : Consanguinity
+LEOPOLDO DOMINICO PETILLA : CARLO PETILLA LORETO -> First Cousin : 4th degree : Consanguinity
+CARLO PETILLA LORETO : LEOPOLDO DOMINICO PETILLA -> First Cousin : 4th degree : Consanguinity
+RALPH VINCENT EVARDONE : PHILIP CHUA EVARDONE JR. -> First Cousin : 4th degree : Consanguinity
+PHILIP CHUA EVARDONE JR. : RALPH VINCENT EVARDONE -> First Cousin : 4th degree : Consanguinity
+EUSTAQUIO BERSAMIN : LUIS BERNARDEZ BERSAMIN IV -> Uncle : 3rd degree : Consanguinity
+LUIS BERNARDEZ BERSAMIN IV : EUSTAQUIO BERSAMIN -> Nephew : 3rd degree : Consanguinity
+JEREMIAS SINGSON : ERICSON GACULA SINGSON -> Uncle : 3rd degree : Consanguinity
+ERICSON GACULA SINGSON : JEREMIAS SINGSON -> Nephew : 3rd degree : Consanguinity
+DULCE ANN HOFER : GEORGE PAVLO SUGUITAN HOFER -> Aunt : 3rd degree : Consanguinity
+GEORGE PAVLO SUGUITAN HOFER : DULCE ANN HOFER -> Nephew : 3rd degree : Consanguinity
+JOEL VILLANUEVA : ERLENE LUZ VILLANUEVA DELA CRUZ -> First Cousin : 4th degree : Consanguinity
+ERLENE LUZ VILLANUEVA DELA CRUZ : JOEL VILLANUEVA -> First Cousin : 4th degree : Consanguinity
+BENJAMIN AGARAO JR. : MARIA JAMINA KATHERINE AGARAO -> Father : 1st degree : Consanguinity
+MARIA JAMINA KATHERINE AGARAO : BENJAMIN AGARAO JR. -> Daughter : 1st degree : Consanguinity
+CARL NICOLAS CARI : MICHAEL LORETO CARI -> Son : 1st degree : Consanguinity
+MICHAEL LORETO CARI : CARL NICOLAS CARI -> Father : 1st degree : Consanguinity
+JANICE DEGAMO : NYRTH CHRISTIAN RESO DEGAMO -> Mother : 1st degree : Consanguinity
+NYRTH CHRISTIAN RESO DEGAMO : JANICE DEGAMO -> Son : 1st degree : Consanguinity
+DAPHNE LAGON : DASON LARENZ ARIAS LAGON -> Mother : 1st degree : Consanguinity
+DASON LARENZ ARIAS LAGON : DAPHNE LAGON -> Son : 1st degree : Consanguinity
+DAPHNE LAGON : DASON LORENZ ARIAS LAGON -> Mother : 1st degree : Consanguinity
+DASON LORENZ ARIAS LAGON : DAPHNE LAGON -> Son : 1st degree : Consanguinity
+LINABELLE RUTH VILLARICA : WILLIAM RESURRECCION VILLARICA -> Mother : 1st degree : Consanguinity
+WILLIAM RESURRECCION VILLARICA : LINABELLE RUTH VILLARICA -> Son : 1st degree : Consanguinity
+SUN SHIMURA : KERRIE KEANE GAUDAN SHIMURA -> Husband : 1st degree : Affinity
+KERRIE KEANE GAUDAN SHIMURA : SUN SHIMURA -> Wife : 1st degree : Affinity
+BINKY APRIL TUPAS : NIELITO CAUSING TUPAS -> Sister-in-law : 2nd degree : Affinity
+NIELITO CAUSING TUPAS : BINKY APRIL TUPAS -> Brother-in-law : 2nd degree : Affinity
+MARIA VANESSA AUMENTADO : JISELLE RAE AUMENTADO VILLAMOR -> Sister-in-law : 2nd degree : Affinity
+JISELLE RAE AUMENTADO VILLAMOR : MARIA VANESSA AUMENTADO -> Sister-in-law : 2nd degree : Affinity
+MARIA CARMEN ZAMORA : HERV MARTELLE ZAMORA APSAY -> Aunt : 3rd degree : Consanguinity
+HERV MARTELLE ZAMORA APSAY : MARIA CARMEN ZAMORA -> Nephew : 3rd degree : Consanguinity
+EDDIEBONG PLAZA : JOSEPH DINGLE PLAZA -> Brother : 2nd degree : Consanguinity
+JOSEPH DINGLE PLAZA : EDDIEBONG PLAZA -> Brother : 2nd degree : Consanguinity
+RONALD SINGSON : ERICSON GACULA SINGSON -> First Cousin : 4th degree : Consanguinity
+ERICSON GACULA SINGSON : RONALD SINGSON -> First Cousin : 4th degree : Consanguinity
+ARNIE FUENTEBELLA : EMMANUEL FUENTEBELLA LLAGUNO -> First Cousin : 4th degree : Consanguinity
+EMMANUEL FUENTEBELLA LLAGUNO : ARNIE FUENTEBELLA -> First Cousin : 4th degree : Consanguinity
+EMILIO BERNARDINO YULO : NICHOLAS MIRAFLORES YULO -> First Cousin : 4th degree : Consanguinity
+NICHOLAS MIRAFLORES YULO : EMILIO BERNARDINO YULO -> First Cousin : 4th degree : Consanguinity
+SARA DUTERTE-CARPIO : ANDREI DUTERTE -> Second Cousin : 6th degree : Consanguinity
+ANDREI DUTERTE : SARA DUTERTE-CARPIO -> Second Cousin : 6th degree : Consanguinity
+FERDINAND MARCOS JR. : ERNESTO MIGUEL ARANETA LOPEZ -> In-law / Extended Lineage : Affinity
+ERNESTO MIGUEL ARANETA LOPEZ : FERDINAND MARCOS JR. -> In-law / Extended Lineage : Affinity
+FERDINAND MARCOS JR. : PRIMO PERCIVAL JOSE MARCOS -> Extended Family / Clan : Consanguinity
+PRIMO PERCIVAL JOSE MARCOS : FERDINAND MARCOS JR. -> Extended Family / Clan : Consanguinity
+CARMELO LAZATIN II : CARMELO LAZATIN JR. -> Brother : 2nd degree : Consanguinity
+CARMELO LAZATIN JR. : CARMELO LAZATIN II -> Brother : 2nd degree : Consanguinity
+ALONG MALAPITAN : OSCAR MALAPITAN -> Son : 1st degree : Consanguinity
+OSCAR MALAPITAN : ALONG MALAPITAN -> Father : 1st degree : Consanguinity
+SEBASTIAN DUTERTE : SARA DUTERTE-CARPIO -> Brother : 2nd degree : Consanguinity
+SARA DUTERTE-CARPIO : SEBASTIAN DUTERTE -> Sister : 2nd degree : Consanguinity
+SEBASTIAN DUTERTE : PAOLO DUTERTE -> Brother : 2nd degree : Consanguinity
+PAOLO DUTERTE : SEBASTIAN DUTERTE -> Brother : 2nd degree : Consanguinity
+LORELIE PACQUIAO : ROGELIO PACQUIAO -> Sister-in-law : 2nd degree : Affinity
+ROGELIO PACQUIAO : LORELIE PACQUIAO -> Brother-in-law : 2nd degree : Affinity
+CYNTHIA CHAN : JUNARD CHAN -> Wife : 1st degree : Affinity
+JUNARD CHAN : CYNTHIA CHAN -> Husband : 1st degree : Affinity
+MARK ALCALA : ANACLETO ALCALA III -> First Cousin : 4th degree : Consanguinity
+ANACLETO ALCALA III : MARK ALCALA -> First Cousin : 4th degree : Consanguinity
+CARMELITA ABALOS : JC ABALOS -> Mother : 1st degree : Consanguinity
+JC ABALOS : CARMELITA ABALOS -> Son : 1st degree : Consanguinity
+JONKIE OUANO : EMMARIE OUANO-DIZON -> Brother : 2nd degree : Consanguinity
+EMMARIE OUANO-DIZON : JONKIE OUANO -> Sister : 2nd degree : Consanguinity
+MAAN TEODORO : MARCELINO TEODORO -> Wife : 1st degree : Affinity
+MARCELINO TEODORO : MAAN TEODORO -> Husband : 1st degree : Affinity
+JOHN REY TIANGCO : TOBIAS TIANGCO -> Brother : 2nd degree : Consanguinity
+TOBIAS TIANGCO : JOHN REY TIANGCO -> Brother : 2nd degree : Consanguinity
+EDWIN OLIVAREZ : ERIC OLIVAREZ -> Brother : 2nd degree : Consanguinity
+ERIC OLIVAREZ : EDWIN OLIVAREZ -> Brother : 2nd degree : Consanguinity
+EMI RUBIANO : ANTONINO CALIXTO -> Sister : 2nd degree : Consanguinity
+ANTONINO CALIXTO : EMI RUBIANO -> Brother : 2nd degree : Consanguinity
+VICO SOTTO : TITO SOTTO -> Nephew : 3rd degree : Consanguinity
+TITO SOTTO : VICO SOTTO -> Uncle : 3rd degree : Consanguinity
+FRANCIS ZAMORA : YSABEL MARIA ZAMORA -> Brother : 2nd degree : Consanguinity
+YSABEL MARIA ZAMORA : FRANCIS ZAMORA -> Sister : 2nd degree : Consanguinity
+ALYSSA SHEENA DY : FAUSTINO DY III -> Daughter : 1st degree : Consanguinity
+FAUSTINO DY III : ALYSSA SHEENA DY -> Father : 1st degree : Consanguinity
+ALFRED ROMUALDEZ : FERDINAND MARTIN ROMUALDEZ -> First Cousin : 4th degree : Consanguinity
+FERDINAND MARTIN ROMUALDEZ : ALFRED ROMUALDEZ -> First Cousin : 4th degree : Consanguinity
+LANI CAYETANO : ALAN PETER CAYETANO -> Wife : 1st degree : Affinity
+ALAN PETER CAYETANO : LANI CAYETANO -> Husband : 1st degree : Affinity
+LANI CAYETANO : PIA CAYETANO -> Sister-in-law : 2nd degree : Affinity
+PIA CAYETANO : LANI CAYETANO -> Sister-in-law : 2nd degree : Affinity
+WES GATCHALIAN : WIN GATCHALIAN -> Brother : 2nd degree : Consanguinity
+WIN GATCHALIAN : WES GATCHALIAN -> Brother : 2nd degree : Consanguinity
+WES GATCHALIAN : KENNETH GATCHALIAN -> Brother : 2nd degree : Consanguinity
+KENNETH GATCHALIAN : WES GATCHALIAN -> Brother : 2nd degree : Consanguinity
+RIGO DUTERTE : PAOLO DUTERTE -> Son : 1st degree : Consanguinity
+PAOLO DUTERTE : RIGO DUTERTE -> Father : 1st degree : Consanguinity
+RIGO DUTERTE : OMAR DUTERTE -> Brother : 2nd degree : Consanguinity
+OMAR DUTERTE : RIGO DUTERTE -> Brother : 2nd degree : Consanguinity
+RIGO DUTERTE : SEBASTIAN DUTERTE -> Nephew : 3rd degree : Consanguinity
+SEBASTIAN DUTERTE : RIGO DUTERTE -> Uncle : 3rd degree : Consanguinity
+RIGO DUTERTE : SARA DUTERTE-CARPIO -> Nephew : 3rd degree : Consanguinity
+SARA DUTERTE-CARPIO : RIGO DUTERTE -> Aunt : 3rd degree : Consanguinity
+RIGO DUTERTE : ANDREI DUTERTE -> Second Cousin : 6th degree : Consanguinity
+ANDREI DUTERTE : RIGO DUTERTE -> Second Cousin : 6th degree : Consanguinity
+LOVE BARONDA : JULIENNE BARONDA -> Sister : 2nd degree : Consanguinity
+JULIENNE BARONDA : LOVE BARONDA -> Sister : 2nd degree : Consanguinity
+IMELDA AGUILAR : APRIL AGUILAR -> Mother : 1st degree : Consanguinity
+APRIL AGUILAR : IMELDA AGUILAR -> Daughter : 1st degree : Consanguinity
+RODERICK ALCALA : MARK ALCALA -> Father : 1st degree : Consanguinity
+MARK ALCALA : RODERICK ALCALA -> Son : 1st degree : Consanguinity
+RODERICK ALCALA : ANACLETO ALCALA III -> First Cousin : 4th degree : Consanguinity
+ANACLETO ALCALA III : RODERICK ALCALA -> First Cousin : 4th degree : Consanguinity
+MARK CALIXTO : ANTONINO CALIXTO -> Son : 1st degree : Consanguinity
+ANTONINO CALIXTO : MARK CALIXTO -> Father : 1st degree : Consanguinity
+MARK CALIXTO : EMI RUBIANO -> Nephew : 3rd degree : Consanguinity
+EMI RUBIANO : MARK CALIXTO -> Aunt : 3rd degree : Consanguinity
+GIAN SOTTO : TITO SOTTO -> Son : 1st degree : Consanguinity
+TITO SOTTO : GIAN SOTTO -> Father : 1st degree : Consanguinity
+GIAN SOTTO : VICO SOTTO -> First Cousin : 4th degree : Consanguinity
+VICO SOTTO : GIAN SOTTO -> First Cousin : 4th degree : Consanguinity
+RAYMUND ROMUALDEZ : ALFRED ROMUALDEZ -> Son : 1st degree : Consanguinity
+ALFRED ROMUALDEZ : RAYMUND ROMUALDEZ -> Father : 1st degree : Consanguinity
+RAYMUND ROMUALDEZ : FERDINAND MARTIN ROMUALDEZ -> First Cousin once removed : 5th degree : Consanguinity
+FERDINAND MARTIN ROMUALDEZ : RAYMUND ROMUALDEZ -> First Cousin once removed : 5th degree : Consanguinity
+JOCELYN RODRIGUEZ : RUFUS RODRIGUEZ -> Sister : 2nd degree : Consanguinity
+RUFUS RODRIGUEZ : JOCELYN RODRIGUEZ -> Brother : 2nd degree : Consanguinity
+RAYMUND ROMUALDEZ : ALFRED ROMUALDEZ -> Son : 1st degree : Consanguinity
+ALFRED ROMUALDEZ : RAYMUND ROMUALDEZ -> Father : 1st degree : Consanguinity
+RAYMUND ROMUALDEZ : FERDINAND MARTIN G. ROMUALDEZ -> First Cousin Once Removed : 5th degree : Consanguinity
+FERDINAND MARTIN G. ROMUALDEZ : RAYMUND ROMUALDEZ -> First Cousin Once Removed : 5th degree : Consanguinity
+RAYMUND ROMUALDEZ : FERDINAND "BONGBONG" MARCOS JR. -> First Cousin Once Removed : 5th degree : Consanguinity
+FERDINAND "BONGBONG" MARCOS JR. : RAYMUND ROMUALDEZ -> First Cousin Once Removed : 5th degree : Consanguinity
+RAYMUND ROMUALDEZ : IMEE MARCOS -> First Cousin Once Removed : 5th degree : Consanguinity
+IMEE MARCOS : RAYMUND ROMUALDEZ -> First Cousin Once Removed : 5th degree : Consanguinity
+RAYMUND ROMUALDEZ : IMELDA ROMUALDEZ-MARCOS -> Great-Nephew : 4th degree : Consanguinity
+IMELDA ROMUALDEZ-MARCOS : RAYMUND ROMUALDEZ -> Great-Aunt : 4th degree : Consanguinity
+FERDINAND MARTIN KITTILSTVEDT ROMUALDEZ JR. : FERDINAND MARTIN G. ROMUALDEZ -> Son : 1st degree : Consanguinity
+FERDINAND MARTIN G. ROMUALDEZ : FERDINAND MARTIN KITTILSTVEDT ROMUALDEZ JR. -> Father : 1st degree : Consanguinity
+FERDINAND MARTIN KITTILSTVEDT ROMUALDEZ JR. : YEDDA MARIE K. ROMUALDEZ -> Son : 1st degree : Consanguinity
+YEDDA MARIE K. ROMUALDEZ : FERDINAND MARTIN KITTILSTVEDT ROMUALDEZ JR. -> Mother : 1st degree : Consanguinity
+FERDINAND MARTIN KITTILSTVEDT ROMUALDEZ JR. : ALFRED ROMUALDEZ -> Nephew : 3rd degree : Consanguinity
+ALFRED ROMUALDEZ : FERDINAND MARTIN KITTILSTVEDT ROMUALDEZ JR. -> Uncle : 3rd degree : Consanguinity
+FERDINAND MARTIN KITTILSTVEDT ROMUALDEZ JR. : RAYMUND ROMUALDEZ -> First Cousin : 4th degree : Consanguinity
+RAYMUND ROMUALDEZ : FERDINAND MARTIN KITTILSTVEDT ROMUALDEZ JR. -> First Cousin : 4th degree : Consanguinity
+RODRIGO SANGKOLA DUTERTE II : PAOLO Z. DUTERTE -> Son : 1st degree : Consanguinity
+PAOLO Z. DUTERTE : RODRIGO SANGKOLA DUTERTE II -> Father : 1st degree : Consanguinity
+RODRIGO SANGKOLA DUTERTE II : OMAR VINCENT SANGKOLA DUTERTE -> Brother : 2nd degree : Consanguinity
+OMAR VINCENT SANGKOLA DUTERTE : RODRIGO SANGKOLA DUTERTE II -> Brother : 2nd degree : Consanguinity
+RODRIGO SANGKOLA DUTERTE II : SEBASTIAN DUTERTE -> Nephew : 3rd degree : Consanguinity
+SEBASTIAN DUTERTE : RODRIGO SANGKOLA DUTERTE II -> Uncle : 3rd degree : Consanguinity
+RODRIGO SANGKOLA DUTERTE II : SARA ZIMMERMAN DUTERTE-CARPIO -> Nephew : 3rd degree : Consanguinity
+SARA ZIMMERMAN DUTERTE-CARPIO : RODRIGO SANGKOLA DUTERTE II -> Aunt : 3rd degree : Consanguinity
+BENJAMIN AGUILAR ABALOS III : CARMELITA ABALOS -> Son : 1st degree : Consanguinity
+CARMELITA ABALOS : BENJAMIN AGUILAR ABALOS III -> Mother : 1st degree : Consanguinity
+CHARISSE MARIE ABALOS-VARGAS : CARMELITA ABALOS -> Daughter : 1st degree : Consanguinity
+CARMELITA ABALOS : CHARISSE MARIE ABALOS-VARGAS -> Mother : 1st degree : Consanguinity
+BENJAMIN AGUILAR ABALOS III : JC M. ABALOS -> Brother : 2nd degree : Consanguinity
+JC M. ABALOS : BENJAMIN AGUILAR ABALOS III -> Brother : 2nd degree : Consanguinity
+CHARISSE MARIE ABALOS-VARGAS : JC M. ABALOS -> Sister : 2nd degree : Consanguinity
+JC M. ABALOS : CHARISSE MARIE ABALOS-VARGAS -> Brother : 2nd degree : Consanguinity
+BENJAMIN AGUILAR ABALOS III : CHARISSE MARIE ABALOS-VARGAS -> Brother : 2nd degree : Consanguinity
+CHARISSE MARIE ABALOS-VARGAS : BENJAMIN AGUILAR ABALOS III -> Sister : 2nd degree : Consanguinity
+RYAN CAESAR EDAÑO ALCALA : RODERICK ALCALA -> Son : 1st degree : Consanguinity
+RODERICK ALCALA : RYAN CAESAR EDAÑO ALCALA -> Father : 1st degree : Consanguinity
+RYAN CAESAR EDAÑO ALCALA : MARK ALCALA -> Brother : 2nd degree : Consanguinity
+MARK ALCALA : RYAN CAESAR EDAÑO ALCALA -> Brother : 2nd degree : Consanguinity
+LUIGI CALIXTO RUBIANO : EMI RUBIANO -> Son : 1st degree : Consanguinity
+EMI RUBIANO : LUIGI CALIXTO RUBIANO -> Mother : 1st degree : Consanguinity
+LUIGI CALIXTO RUBIANO : ANTONINO CALIXTO -> Nephew : 3rd degree : Consanguinity
+ANTONINO CALIXTO : LUIGI CALIXTO RUBIANO -> Uncle : 3rd degree : Consanguinity
+LUIGI CALIXTO RUBIANO : MARK CALIXTO -> First Cousin : 4th degree : Consanguinity
+MARK CALIXTO : LUIGI CALIXTO RUBIANO -> First Cousin : 4th degree : Consanguinity
+PABLO ANGELES OLIVAREZ II : EDWIN OLIVAREZ -> Son : 1st degree : Consanguinity
+EDWIN OLIVAREZ : PABLO ANGELES OLIVAREZ II -> Father : 1st degree : Consanguinity
+PABLO ANGELES OLIVAREZ II : ERIC OLIVAREZ -> Nephew : 3rd degree : Consanguinity
+ERIC OLIVAREZ : PABLO ANGELES OLIVAREZ II -> Uncle : 3rd degree : Consanguinity
+VIKTOR ERIKO MARCO SOTTO : TITO SOTTO -> Nephew : 3rd degree : Consanguinity
+TITO SOTTO : VIKTOR ERIKO MARCO SOTTO -> Uncle : 3rd degree : Consanguinity
+VIKTOR ERIKO MARCO SOTTO : GIAN SOTTO -> First Cousin : 4th degree : Consanguinity
+GIAN SOTTO : VIKTOR ERIKO MARCO SOTTO -> First Cousin : 4th degree : Consanguinity
+VIKTOR ERIKO MARCO SOTTO : VICO SOTTO -> First Cousin : 4th degree : Consanguinity
+VICO SOTTO : VIKTOR ERIKO MARCO SOTTO -> First Cousin : 4th degree : Consanguinity
+ALELEE AGUILAR-ANDANAR : IMELDA AGUILAR -> Daughter : 1st degree : Consanguinity
+IMELDA AGUILAR : ALELEE AGUILAR-ANDANAR -> Mother : 1st degree : Consanguinity
+ALELEE AGUILAR-ANDANAR : APRIL AGUILAR -> Sister : 2nd degree : Consanguinity
+APRIL AGUILAR : ALELEE AGUILAR-ANDANAR -> Sister : 2nd degree : Sister
+MIGUEL NAVARETTE BAUTISTA : STRIKE REVILLA -> Son : 1st degree : Consanguinity
+STRIKE REVILLA : MIGUEL NAVARETTE BAUTISTA -> Father : 1st degree : Consanguinity
+MIGUEL NAVARETTE BAUTISTA : ROWENA BAUTISTA-MENDIOLA -> Nephew : 3rd degree : Consanguinity
+ROWENA BAUTISTA-MENDIOLA : MIGUEL NAVARETTE BAUTISTA -> Aunt : 3rd degree : Consanguinity
+HENRY LESTER RAMOS VILLARICA : LINABELLE RUTH VILLARICA -> Son : 1st degree : Consanguinity
+LINABELLE RUTH VILLARICA : HENRY LESTER RAMOS VILLARICA -> Mother : 1st degree : Consanguinity
+HENRY LESTER RAMOS VILLARICA : WILLIAM RESURRECCION VILLARICA -> Brother : 2nd degree : Consanguinity
+WILLIAM RESURRECCION VILLARICA : HENRY LESTER RAMOS VILLARICA -> Brother : 2nd degree : Consanguinity
+JAIME MAGLANOC SINGSON : JERRY SINGSON -> Son : 1st degree : Consanguinity
+JERRY SINGSON : JAIME MAGLANOC SINGSON -> Father : 1st degree : Consanguinity
+JAIME MAGLANOC SINGSON : RONALD V. SINGSON -> Brother : 2nd degree : Consanguinity
+RONALD V. SINGSON : JAIME MAGLANOC SINGSON -> Brother : 2nd degree : Consanguinity
+ERIC GACULA SINGSON JR. : ERICSON GACULA SINGSON -> Brother : 2nd degree : Consanguinity
+ERICSON GACULA SINGSON : ERIC GACULA SINGSON JR. -> Brother : 2nd degree : Consanguinity
+CARMEN LORETO CARI : CARL NICOLAS CARI -> Mother : 1st degree : Consanguinity
+CARL NICOLAS CARI : CARMEN LORETO CARI -> Son : 1st degree : Consanguinity
+KIM LOPE ANIÑON ASIS : KIRK ANIÑON ASIS -> Brother : 2nd degree : Consanguinity
+KIRK ANIÑON ASIS : KIM LOPE ANIÑON ASIS -> Brother : 2nd degree : Consanguinity
+KIM LOPE ANIÑON ASIS : KIM ANIÑON ASIS -> Brother : 2nd degree : Consanguinity
+KIM ANIÑON ASIS : KIM LOPE ANIÑON ASIS -> Brother : 2nd degree : Consanguinity

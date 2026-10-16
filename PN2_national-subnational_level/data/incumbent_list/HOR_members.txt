@@ -1,0 +1,318 @@
+Name,District,Province
+Abalos, JC M.,Party-list,4Ps
+Abante, Bienvenido Jr. M.,6th District,Manila
+Acidre, Jude A.,Party-list,TINGOG
+Acop, Philip Conrad "Dok Bong" M.,2nd District,Antipolo City
+Acosta, Gil "KabarangayJr",3rd District,Palawan
+Adiong, Ziaur-Rahman "Zia" Alonto,1st District,Lanao del Sur
+Advincula, Adrian Jay C.,3rd District,Cavite
+Agarao, Benjamin Jr. C.,4th District,Laguna
+Agyao, Caroline B., M.D.,Lone,Kalinga
+Alano, Ustadz Yusop T.,Lone,Basilan
+Alba, Jose Manuel F.,1st District,Bukidnon
+Albano, Antonio "Tonypet" T.,1st District,Isabela
+Almario, Cheeno Miguel D.,2nd District,Davao Oriental
+Almario, Dennis "Alden" B.,2nd District,Makati City
+Almonte, Jason P.,1st District,Misamis Occidental
+Alvarez, Jose C.,2nd District,Palawan
+Alvarez, Mercedes K.,6th District,Negros Occidental
+Amante, Loreto S.,3rd District,Laguna
+Amatong, Adrian Michael A.,3rd District,Zamboanga del Norte
+Ang, James "Jojo" Jr.,Party-list,USWAG ILONGGO
+Angara, Rommel Rico T.,Lone,Aurora
+Angeles, Maria Cristina C.,2nd District,Tarlac
+Aquino, Jose "Joboy" II S.,Lone,Butuan
+Aquino-Magsaysay, Milagros,Party-list,UNITED SENIOR CITIZENS
+Arbison, Munir Jr. N.,Party-list,KAPUSO PM
+Arbison, Munir M.,2nd District,Sulu
+Arenas, Maria Rachel J.,3rd District,Pangasinan
+Arrogancia, Reynante U.,3rd District,Quezon
+Asistio, Dean,3rd District,Caloocan City
+Atayde, Juan Carlos "Arjo" C.,1st District,Quezon City
+Aumentado, Maria Vanessa "Van-Van" C., RN,2nd District,Bohol
+Austria-Barzaga, Jennifer,4th District,Cavite
+Ayon, Arlyn P.,Party-list,SWERTE
+Bag-ao, Kaka J.,Lone,Dinagat Islands
+Balindong, Yasser Alonto,2nd District,Lanao del Sur
+Bañas-Nograles, Shirlyn L.,Lone,General Santos City
+Bancoro, Marlo C.,1st District,Zamboanga Sibugay
+Barba, Angelo Marcos,2nd District,Ilocos Norte
+Barbers, Bernadette S.,2nd District,Surigao del Norte
+Baronda, Julienne "Jam" L.,Lone,Iloilo City
+Bascug, Alfelito "Alfel" M.,1st District,Agusan del Sur
+Bautista, Claude P.,Lone,Davao Occidental
+Bautista, Johanne Monich G.,Party-list,TRABAHO
+Bautista-Lim, Claudine Diana D.,Party-list,DUMPER PTDA
+Beltran, Ferdinand "B1" L.,Party-list,MAGBUBUKID
+Benitez, Alfredo "Albee" B.,Lone,Bacolod City
+Benitez, Javier Miguel Lopez,3rd District,Negros Occidental
+Bernos, Ching B.,Party-list,SOLID NORTH PARTY
+Bernos, JB,Lone,Abra
+Biron, Ferjenel G., M.D.,4th District,Iloilo
+Bocobo, Jorge Daniel S.,2nd District,Taguig City
+Bolilia, Amado Carlos IV A.,4th District,Batangas
+Bondoc, Anna York P., M.D.,4th District,Pampanga
+Briones, Nicanor M.,Party-list,AGAP
+Bulut-Begtang, Eleanor C.,Lone,Apayao
+Cagas, John Tracy F.,Lone,Davao del Sur
+Calderon, Patricia C.,7th District,Cebu
+Calixto, Antonino G.,Lone,Pasay City
+Caoagdan, Rudy S., DPA,2nd District,Cotabato
+Cari, Carl Nicolas C.,5th District,Leyte
+Castro, Jane T.,2nd District,Capiz
+Catulpos, Elmer V.,Party-list,1TAHANAN
+Cayton, Timothy Joseph E.,Lone,Nueva Vizcaya
+Celeste, Arthur F.,1st District,Pangasinan
+Cendaña, Percival "Perci",Party-list,AKBAYAN
+Ceniza, Leonel "Jhong" D.,2nd District,Davao de Oro
+Chan, Atty. Jan Almario,Party-list,AKO BIKOL
+Chan, Junard "Ahong" Q.,Lone,Lapu-Lapu City
+Chua, Joel R.,3rd District,Manila
+Chua-Tai, Katrina Reiko,1st District,Zamboanga City
+Chungalao, Solomon R.,Lone,Ifugao
+Co, Renee Louise M.,Party-list,KABATAAN
+Co-Pilar, Ma. Victoria,6th District,Quezon City
+Cojuangco, Jaime Eduardo Marc D.,1st District,Tarlac
+Cojuangco, Mark O.,2nd District,Pangasinan
+Collantes, King,3rd District,Batangas
+Corvera, Dale B.,Lone,Agusan del Norte
+Cruz, Agatha "Agay",5th District,Bulacan
+Cruz, Ricardo Jr. S.,Lone,Taguig City-Pateros
+Cruzado, Edwin L., M.D.,1st District,Cotabato
+Cua, Midy N.,Lone,Quirino
+Dagooc, Sergio C.,Party-list,APEC
+Dalog, Maximo Jr. Y.,Lone,Mountain Province
+Dayanghirang, Nelson "JR",1st District,Davao Oriental
+Daza, Niko Raul S.J.,1st District,Northern Samar
+De Jesus, Presley C.,Party-list,PHILRECA
+De Lima, Leila M.,Party-list,ML
+de Venecia, Ma. Georgina P.,4th District,Pangasinan
+Defensor, Lorenz R.,3rd District,Iloilo
+Degamo, Janice,3rd District,Negros Oriental
+Del Mar, Rachel Marguerite B.,1st District,Cebu City
+Delos Santos, Alfred C.,Party-list,ANG PROBINSYANO
+Dimacuha, Beverley Rose A.,5th District,Batangas
+Dimaguila, Walfredo "Arman" Jr. R.,Lone,Biñan City
+Dimaporo, Imelda Quibranza,1st District,Lanao del Norte
+Dimaporo, Sittie Aminah Q.,2nd District,Lanao del Norte
+Diokno, Jose Manuel Tadeo "Chel" I.,Party-list,AKBAYAN
+Dionisio, Ernesto Jr. M.,1st District,Manila
+Domingo, Danilo "Danny" A.,1st District,Bulacan
+Domogan, Mauricio G.,Lone,Baguio City
+Duterte, Harold James T.,Party-list,PPP
+Duterte, Omar Vincent Sangkola,2nd District,Davao City
+Duterte, Paolo Z.,1st District,Davao City
+Dy, Faustino "Bojie" III G.,6th District,Isabela
+Dy, Faustino Michael Carlos III T.,5th District,Isabela
+Dy, Ian Paul L.,3rd District,Isabela
+Elago, Sarah Jane I.,Party-list,GABRIELA
+Emano, Yevgeny Vincente B.,2nd District,Misamis Oriental
+Enverga, Wilfrido Mark M.,1st District,Quezon
+Erice, Edgar R.,2nd District,Caloocan City
+Escudero, Bernadette G.,1st District,Sorsogon
+Espares, Felimon M.,Party-list,COOP-NATCCO
+Espina, Gerardo "Gerryboy" Jr. J.,Lone,Biliran
+Estrella, Robert Raymund "Eskimo" M.,Party-list,ABONO
+Ferrer, Antonio A.,6th District,Cavite
+Ferrer, Jeffrey P.,4th District,Negros Occidental
+Flores, Jonathan Keith T.,2nd District,Bukidnon
+Fortes, Manuel "Wowo" Jr. L.,2nd District,Sorsogon
+Frasco, Vincent Franco "Duke" D.,5th District,Cebu
+Fresnedi, Jaime R.,Lone,Muntinlupa City
+Fuentebella, Arnie B.,4th District,Camarines Sur
+Galang, Gerald Cloyd Alexis V.,2nd District,Valenzuela City
+Galeos, Edsel A.,2nd District,Cebu
+Garbin, Alfredo Jr. A.,Party-list,AKO BIKOL
+Garcia, Albert S.,2nd District,Bataan
+Garcia, Dante S.,2nd District,La Union
+Garcia, Jose Arturo Jr. S.,3rd District,Rizal
+Garcia, Karen Hope F.,3rd District,Cebu
+Garcia, Maria Angela S.,3rd District,Bataan
+Gardiola, Edwin L.,Party-list,CWS
+Garin, Janette L.,1st District,Iloilo
+Gatchalian, Kenneth T.,1st District,Valenzuela City
+Glepa, Maria Kristina Jihan B.,Party-list,ONE COOP
+Go, Ed Christopher S.,2nd District,Isabela
+Gomez, Richard I., DPA,4th District,Leyte
+Gonzales, Alexandria "Queenie",Lone,Mandaluyong City
+Gonzales, Alyssa Michaela "Mica" M.,3rd District,Pampanga
+Gonzales, Christopher Sheen P.,Lone,Eastern Samar
+Gonzales, Roy M.,Lone,Santa Rosa City
+Gorriceta, Kathryn Joyce F., MD,2nd District,Iloilo City
+Guico, Ramon Jr. N.,5th District,Pangasinan
+Guintu, Howard A.,1st District,Capiz
+Gullas, Rhea Mae A.,1st District,Cebu
+Gutierrez, Ramon Rodrigo L.,Party-list,1-RIDER PARTYLIST
+Hernandez, Charisse Anne C.,Lone,Calamba City
+Hernandez, Dennis "Tom" L.,4th District,Rizal
+Hernandez, Ferdinand L.,2nd District,South Cotabato
+Hernandez, Ramil L.,2nd District,Laguna
+Hofer-Hasim, Marlesa "Doc Marly",2nd District,Zamboanga Sibugay
+Horibata, Tsuyoshi Anthony "Hori" G.,1st District,Camarines Sur
+Ismula, Dadah Kiram,Party-list,AKBAYAN
+Iway, Emmanuel L.,1st District,Negros Oriental
+Javier, Lolita T.,2nd District,Leyte
+Kho, Antonio T.,1st District,Masbate
+Kho, Elisa "Olga" T.,2nd District,Masbate
+Kho, Wilton "Tonton" T.,3rd District,Masbate
+Khonghun, Jefferson F.,1st District,Zambales
+Ko, Manuel "ManMan" O.,Party-list,ABANG LINGKOD
+Labadlabad, Irene G.,2nd District,Zamboanga del Norte
+Lacson, Ma. Nina Francesca P.,Party-list,MANILA TEACHERS
+Lagbas, Atty. Jennifer "Karen" A.,1st District,Misamis Oriental
+Lagdameo, Jose Manuel "JM" F.,2nd District,Davao del Norte
+Lagdameo, Monique Yazmin Maria Q.,1st District,Makati City
+Lagman, Cielo Krisel,1st District,Albay
+Lagon, Daphne A.,6th District,Cebu
+Lagon, Sonny "SL" L.,Party-list,AKO BISAYA
+Lara, Joseph "Jojo" L.,3rd District,Cagayan
+Lazatin, Carmelo Jr. G.,1st District,Pampanga
+Ledesma, Julio IV A.,1st District,Negros Occidental
+Legacion, Nelson S.,3rd District,Camarines Sur
+Legarda, Antonio Jr. B.,Lone,Antique
+Legazpi, Karl Fernandez,Party-list,PINOY WORKERS
+Leviste, Leandro Legarda,1st District,Batangas
+Libanan, Marcelino C.,Party-list,4Ps
+Lopez, Ma. Cristina Talavera,Party-list,ALONA
+Loria, Carlos Andes,2nd District,Albay
+Loyola, Roy M.,5th District,Cavite
+Luistro, Atty. Gerville "Jinky Bitrics" R.,2nd District,Batangas
+Lumayag, Isidro D.,1st District,South Cotabato
+Macapagal-Arroyo, Gloria,2nd District,Pampanga
+Macasaet, Rolando Ledesma,Party-list,SSS-GSIS PENSYONADO
+Maceda, Giselle Mary L.,4th District,Manila
+Madrona, Eleandro Jesus F.,Lone,Romblon
+Malapitan, Oscar G.,1st District,Caloocan City
+Mangudadatu, Esmael G.,Lone,Maguindanao del Sur
+Maniquiz, Doris "Nanay Bing" E.,2nd District,Zambales
+Marañon, Alfredo III D.,2nd District,Negros Occidental
+Marcoleta, Paolo Henry M.,Party-list,SAGIP
+Marcos, Ferdinand Alexander A.,1st District,Ilocos Norte
+Marquez, Jesus "Jess" R.,1st District,Aklan
+Mastura, Sittie Shahara "Bai Dimple" I.,Lone,Maguindanao del Norte
+Matibag, Ann,1st District,Laguna
+Matugas, Francisco "Lalo" T.,1st District,Surigao del Norte
+Mendoza, Raymond Democrito C.,Party-list,TUCP
+Mercado, Roger Gaviola,1st District,Southern Leyte
+Mercado-Revilla, Lani,2nd District,Cavite
+Miraflores, Florencio T.,2nd District,Aklan
+Momo, Romeo Sr. S.,1st District,Surigao del Sur
+Montes, Iris Marie Demesa,Party-list,4K
+Nava, JC Rahman A., MD.,Lone,Guimaras
+Nazal, Robert,Party-list,BH
+Nisay, Jernie Jett V.,Party-list,PUSONG PINOY
+Nolasco, Ramon C.,1st District,Cagayan
+Oaminal, Henry "Indy" Jr. F.,Party-list,ASENSO PINOY
+Oaminal, Sancho Fernando "Ando" F.,2nd District,Misamis Occidental
+Olivarez, Eric L.,1st District,Parañaque City
+Ongchuan, Edwin,2nd District,Northern Samar
+Ordanes, Rodolfo "Ompong" M.,Party-list,SENIOR CITIZENS
+Oreta, Antolin III A.,Lone,Malabon City
+Ortega, Francisco Paolo V P.,1st District,La Union
+Ouano-Dizon, Emmarie "Lolypop",Lone,Mandaue City
+Padiernos, Jan "Atty. JP",Party-list,GP (GALING SA PUSO)
+Panaligan, Arnan C.,1st District,Oriental Mindoro
+Pancho, Augustina Dominique "Ditse Tina" C.,2nd District,Bulacan
+Panotes, Rosemarie Conejos,2nd District,Camarines Norte
+Pascual, Emerson D.,4th District,Nueva Ecija
+Perez, Jerry Evangelista,2nd District,Zamboanga City
+Pimentel, Alexander Ty,2nd District,Surigao del Sur
+Plaza, Eddiebong G.,2nd District,Agusan del Sur
+Pleyto, Salvador A.,6th District,Bulacan
+Poe, Brian,Party-list,FPJ PANDAY BAYANIHAN
+Primicias-Agabas, Marlyn L.,6th District,Pangasinan
+Pumaren, Franz S.,3rd District,Quezon City
+Puno, Ronaldo V.,1st District,Antipolo City
+Quimbo, Atty. Miro S.,2nd District,Marikina City
+Rama, Eduardo Jr. R.,2nd District,Cebu City
+Recto, Ryan S.,6th District,Batangas
+Regencia, Celso G.,Lone,Iligan City
+Remulla, Crispin Diego D.,7th District,Cavite
+Revilla, Bryan B.,Party-list,AGIMAT
+Revilla, Ramon Jolo III B.,1st District,Cavite
+Ridon, Terry L.,Party-list,BICOL SARO
+Rivera, Noel "Bong" N.,3rd District,Tarlac
+Robes, Arturo B.,Lone,San Jose Del Monte City
+Rodriguez, Eulogio "Leo" R.,Lone,Catanduanes
+Rodriguez, Maximo Jr. B.,Party-list,ABAMIN
+Rodriguez, Rufus B.,2nd District,Cagayan de Oro City
+Roman, Antonino III B.,1st District,Bataan
+Romualdez, Andrew Julian K.,Party-list,TINGOG
+Romualdez, Ferdinand Martin G.,1st District,Leyte
+Romualdez, Yedda Marie K.,Party-list,TINGOG
+Romualdo, Jurdin Jesus M.,Lone,Camiguin
+Romulo, Roman T.,Lone,Pasig City
+Roque, Laarni Lavin,4th District,Bukidnon
+Sagarbarria, Ma. Isabel L.,2nd District,Negros Oriental
+Sakaluran, Ruth M.,1st District,Sultan Kudarat
+Salceda, Adrian E.,3rd District,Albay
+Sali, Dimszar M.,Lone,Tawi-Tawi
+Salvacion, Reynaldo P.,Lone,Marinduque
+Salvador, Mario "Kokoy" O.,2nd District,Nueva Ecija
+Salvame, Rosalie Ang,1st District,Palawan
+San Fernando, Elijah Rumbaoa,Party-list,KAMANGGAGAWA
+Santos, Ma. Alana Samantha Taliño,3rd District,Cotabato
+Santos, Mark Anthony G.,Lone,Las Piñas City
+Shimura, Sun J.,4th District,Cebu
+Singson, Richelle,Party-list,AKO ILOCANO AKO
+Singson, Ronald V.,1st District,Ilocos Sur
+Singson-Meehan, Kristine,2nd District,Ilocos Sur
+Solon, Steve Chiongbian,Lone,Sarangani
+Soriano, Jeffrey,Party-list,ACT-CIS
+Suan, Lordan G.,1st District,Cagayan de Oro City
+Suansing, Bella Vanessa B.,2nd District,Sultan Kudarat
+Suansing, Mikaela Angela B.,1st District,Nueva Ecija
+Suarez, David "Jay-Jay" C.,2nd District,Quezon
+Suntay, Jesus "Bong" C.,4th District,Quezon City
+Tallado, Josefina B.,1st District,Camarines Norte
+Tan, Aiman T.,Party-list,KUSUG TAUSUG
+Tan, Joseph S.,4th District,Isabela
+Tan, Keith Micah "Atty. Mike" D.L.,4th District,Quezon
+Tan, Reynolds Michael T.,2nd District,Samar
+Tan, Samier A.,1st District,Sulu
+Tan, Stephen James T.,1st District,Samar
+Tanchay, Caroline L.,Party-list,KAMALAYAN
+Tanjuatco, Emigdio III P.,2nd District,Rizal
+Tarriela, Leody "Odie" F.,Lone,Occidental Mindoro
+Teodoro, Marcelino "Marcy" R.,1st District,Marikina City
+Tereng, Kenneth Paolo,Party-list,KM NGAYON NA
+Teves, Jose "Bong" Jr. J.,Party-list,TGP
+Tiangco, Tobias "Toby" M.,Lone,Navotas City
+Tieng, Irwin C.,5th District,Manila
+Tinio, Antonio L.,Party-list,ACT TEACHERS
+Tolentino, Aniela Bianca D.,8th District,Cavite
+Tuan, Dibu S.,3rd District,South Cotabato
+Tulfo, Jocelyn P.,Party-list,ACT-CIS
+Tulfo, Ralph Wendel P.,2nd District,Quezon City
+Tupas, Binky April M.,5th District,Iloilo
+Tutor, Kristine Alexie B.,3rd District,Bohol
+Ty, Allan U.,Party-list,LPGMA
+Umali, Alfonso Jr. V.,2nd District,Oriental Mindoro
+Ungab, Isidro T.,3rd District,Davao City
+Uy, De Carlo L.,1st District,Davao del Norte
+Uy, Roberto "Pinpin" Jr. T.,1st District,Zamboanga del Norte
+Valeriano, Rolando M.,2nd District,Manila
+Vargas, Patrick Michael D.,5th District,Quezon City
+Vargas-Alfonso, Baby Aline,2nd District,Cagayan
+Veloso, Girlie E.,Party-list,MALASAKIT@BAYANIHAN
+Veloso-Tuazon, Anna Victoria,3rd District,Leyte
+Vergara, Julius Cesar "Jay" V.,3rd District,Nueva Ecija
+Villa, Zaldy S.,Lone,Siquijor
+Villafuerte, Miguel Luis R.,5th District,Camarines Sur
+Villafuerte, Vincenzo Renato Luigi R.,2nd District,Camarines Sur
+Villanueva, Eduardo "Bro. Eddie" C.,Party-list,CIBAC
+Villarica, Linabelle Ruth R.,4th District,Bulacan
+Violago, Mark Cholo I.,3rd District,Bulacan
+Yamsuan, Brian Raymund S.,2nd District,Parañaque City
+Yap, Arthur C.,Party-list,MURANG KURYENTE
+Yap, Christopherson "Coco" M.,2nd District,Southern Leyte
+Yap, Eric Go,Lone,Benguet
+Yap, John Geesnell "Baba",1st District,Bohol
+Yatco, Florabel C.,Party-list,NANAY
+Ynares, Rebecca Maria Alcantara,1st District,Rizal
+Yu, Jeyzel Victoria C.,2nd District,Zamboanga del Sur
+Yu, Joseph Kim C.,1st District,Zamboanga del Sur
+Yulo, Emilio Bernardino L.,5th District,Negros Occidental
+Zamora, Maria Carmen S.,1st District,Davao de Oro
+Zamora, Ysabel Maria J.,Lone,San Juan City
+Zubiri, Audrey Kay T.,3rd District,Bukidnon
