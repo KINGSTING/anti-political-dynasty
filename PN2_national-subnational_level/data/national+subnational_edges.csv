@@ -278,12 +278,10 @@ EDGE-000275,POL-PH-000545,POL-PH-000010,Brother,2,Consanguinity,https://pcij.org
 EDGE-000276,POL-PH-000010,POL-PH-000545,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
 EDGE-000277,POL-PH-000545,POL-PH-000158,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
 EDGE-000278,POL-PH-000158,POL-PH-000545,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
-edge_id,person_a_id,person_b_id,relation_label,civil_degree,kinship_type,source_document
 EDGE-000279,POL-PH-000551,POL-PH-000263,Sister,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
 EDGE-000280,POL-PH-000263,POL-PH-000551,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
 EDGE-000281,POL-PH-000551,POL-PH-000262,Sister,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
 EDGE-000282,POL-PH-000262,POL-PH-000551,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
-edge_id,person_a_id,person_b_id,relation_label,civil_degree,kinship_type,source_document
 EDGE-000283,POL-PH-000556,POL-PH-000517,Nephew,3,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
 EDGE-000284,POL-PH-000517,POL-PH-000556,Uncle,3,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
 EDGE-000285,POL-PH-000556,POL-PH-000129,Son,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
@@ -320,3 +318,4 @@ EDGE-000315,POL-PH-000582,POL-PH-000266,First Cousin,4,Consanguinity,https://pci
 EDGE-000316,POL-PH-000266,POL-PH-000582,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
 EDGE-000317,POL-PH-000582,POL-PH-000017,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
 EDGE-000318,POL-PH-000017,POL-PH-000582,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/
+
