@@ -1,0 +1,16 @@
+=== PN2 FUZZY VALIDATION & EXPANSION REPORT ===
+Input nodes: 3550
+Input edges: 2504
+
+Part A — Validation:
+  Kept               : 1634
+  Boosted            : 12
+  Demoted            : 858
+  Dropped            : 0
+  Dynastic exceptions: 0
+
+Part B — Expansion:
+  New edges discovered      : 3
+  Skipped (variant_likely, no mid match): 5
+    variant_confirmed: 1
+    variant_likely: 2

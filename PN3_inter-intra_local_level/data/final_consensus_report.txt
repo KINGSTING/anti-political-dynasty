@@ -1,0 +1,88 @@
+======================================================================
+=== PN3 FINAL CONSENSUS REPORT ===
+======================================================================
+Total edges               : 2543
+Confirmed duplicate pairs : 8
+Ground truth edges        : 458 (18.0%)
+
+=== Distribution by consensus_level ===
+  ✅ GT  Verified_Pulitiklan   :    99 (  3.9%)
+  ✅ GT  Rule_Based_GT         :   359 ( 14.1%)
+      Baseline_Mindanao     :   844 ( 33.2%)
+      Consensus_High        :    33 (  1.3%)
+      Single_Method         :   505 ( 19.9%)
+      Low_Confidence        :   696 ( 27.4%)
+      Contradicted          :     3 (  0.1%)
+      Duplicate_Record      :     4 (  0.2%)
+
+=== Consensus × relation_label ===
+consensus_level       Baseline_Mindanao  Consensus_High  Contradicted  Duplicate_Record  Low_Confidence  Rule_Based_GT  Single_Method  Verified_Pulitiklan
+relation_label                                                                                                                                            
+Distant_Kin                         606               0             0                 0             482              0            341                   45
+Fuzzy_Variant_Kin                     7               5             0                 1               0              0             13                    0
+Parent_Child                          0               0             0                 1               0             21              0                    2
+Shared_Maternal_Line                126               0             0                 0             214              0             57                    1
+Sibling                             105              28             3                 2               0            338             94                   51
+
+=== Consensus × signal_count ===
+consensus_level  Baseline_Mindanao  Consensus_High  Contradicted  Duplicate_Record  Low_Confidence  Rule_Based_GT  Single_Method  Verified_Pulitiklan
+signal_count                                                                                                                                         
+0                              302               0             0                 0             696              0              0                    0
+1                              506               0             0                 2               0            208            505                   24
+2                               36              33             3                 2               0            151              0                   54
+3                                0               0             0                 0               0              0              0                   21
+
+=== Sample edges per consensus level ===
+
+  [Verified_Pulitiklan] (99 edges)
+    P=1.0   sig=3/4  Sibling               Crescente Narciso Garcia ↔ Russell Jenald Narciso Garcia
+    P=1.0   sig=3/4  Sibling               Crescente Narciso Garcia ↔ Vincent Narciso Garcia
+    P=1.0   sig=3/4  Sibling               Russell Jenald Narciso Garcia ↔ Vincent Narciso Garcia
+    P=1.0   sig=2/4  Distant_Kin           Jeremias Crisologo Singson ↔ Ryan Luis Verzosa Singson
+    P=1.0   sig=2/4  Distant_Kin           Jeremias Crisologo Singson ↔ Ericson Gacula Singson
+
+  [Rule_Based_GT] (359 edges)
+    P=1.0   sig=1/4  Sibling               Elmer Claustro Faylogna ↔ Marino Claustro Faylogna
+    P=1.0   sig=2/4  Sibling               Robella Gajonera Gaspar ↔ Sherwin Gajonera Gaspar
+    P=1.0   sig=2/4  Sibling               Fraincess Kwyn Garvida Espiritu ↔ Justine Francis King Garvida Espiritu
+    P=1.0   sig=2/4  Sibling               Rafael Ralph Las Marias Benemerito II ↔ Rajiv Constantine Las Marias Benemerito
+    P=1.0   sig=1/4  Sibling               Richard Agregado Degala ↔ Randy Agregado Degala
+
+  [Baseline_Mindanao] (844 edges)
+    P=0.6   sig=1/4  Distant_Kin           Al-makram Napii Arbison ↔ Marijhun Gonzales Arbison
+    P=0.6   sig=1/4  Distant_Kin           Al-makram Napii Arbison ↔ Alhamar Samla Arbison
+    P=0.6   sig=1/4  Distant_Kin           Al-makram Napii Arbison ↔ Dalma Alay Arbison
+    P=0.6   sig=1/4  Distant_Kin           Marijhun Gonzales Arbison ↔ Alhamar Samla Arbison
+    P=0.6   sig=1/4  Distant_Kin           Marijhun Gonzales Arbison ↔ Dalma Alay Arbison
+
+  [Consensus_High] (33 edges)
+    P=0.95  sig=2/4  Sibling               Eric Ong Sibuma ↔ Benjamin Ong Sibuma
+    P=0.95  sig=2/4  Sibling               Eric Ong Sibuma ↔ Frank Ong Sibuma
+    P=0.95  sig=2/4  Sibling               Benjamin Ong Sibuma ↔ Frank Ong Sibuma
+    P=0.95  sig=2/4  Sibling               Manuel Noveno Mamba ↔ William Noveno Mamba
+    P=0.95  sig=2/4  Sibling               Manuel Noveno Mamba ↔ Francisco Noveno Mamba JR
+
+  [Single_Method] (505 edges)
+    P=0.6   sig=1/4  Distant_Kin           Glennd George Go Cajigal ↔ Glenn Novan Mendoza Cajigal
+    P=0.6   sig=1/4  Distant_Kin           Glennd George Go Cajigal ↔ Michael Tolentino Cajigal
+    P=0.6   sig=1/4  Distant_Kin           Glenn Novan Mendoza Cajigal ↔ Michael Tolentino Cajigal
+    P=0.6   sig=1/4  Distant_Kin           Robella Gajonera Gaspar ↔ Ma. Aleli Tamanu Gaspar
+    P=0.6   sig=1/4  Distant_Kin           Ma. Aleli Tamanu Gaspar ↔ Sherwin Gajonera Gaspar
+
+  [Low_Confidence] (696 edges)
+    P=0.6   sig=0/4  Distant_Kin           Rodolfo Christian Gerodias Fariñas III ↔ Roger John Cabellero Fariñas II
+    P=0.6   sig=0/4  Distant_Kin           Romnick James Maguslog Torralba ↔ Tom Kristoffer Monje Torralba
+    P=0.6   sig=0/4  Distant_Kin           Denton Lawrence Go Garvida ↔ Myrna Cascayan Garvida
+    P=0.6   sig=0/4  Distant_Kin           Janet Gonzales Aglipay ↔ Mark Louie Soria Aglipay
+    P=0.6   sig=0/4  Distant_Kin           Jay Lord Galan Fernando ↔ Gemma Niño Fernando
+
+  [Contradicted] (3 edges)
+    P=0.1   sig=2/4  Sibling               Dason Larenz Arias Lagon ↔ Dason Lorenz Arias Lagon
+    P=0.1   sig=2/4  Sibling               Dason Larenz Arias Lagon ↔ Dason Patric Arias Lagon
+    P=0.1   sig=2/4  Sibling               Dason Lorenz Arias Lagon ↔ Dason Patric Arias Lagon
+
+  [Duplicate_Record] (4 edges)
+    P=0.1   sig=2/4  Sibling               Bryan Nile Adlawon Gertos ↔ Ryan Nile Adlawon Gertos
+    P=0.1   sig=1/4  Parent_Child          Leandro Pasco Panganiban JR. ↔ Leandro Pasco Panganiban III
+    P=0.1   sig=2/4  Sibling               Datu Sharif Durado Diocolano ↔ Datu Rahaf Durado Diocolano
+    P=0.1   sig=1/4  Fuzzy_Variant_Kin     Carmelo Marilla De Los Cientos V ↔ Carmelo Marilla Delos Cientos IV

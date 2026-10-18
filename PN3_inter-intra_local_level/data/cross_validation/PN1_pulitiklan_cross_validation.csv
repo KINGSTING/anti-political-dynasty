@@ -1,0 +1,117 @@
+﻿edge_id,person_a_id,person_b_id,relation_label,civil_degree,kinship_type,source_document,pulitiklan_verdict
+EDGE-000001,POL-PH-000001,POL-PH-000017,Sister,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000002,POL-PH-000017,POL-PH-000001,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000003,POL-PH-000001,POL-PH-000215,Son,1,Consanguinity,https://newsinfo.inquirer.net/2153920/house-minority-says-anti-dynasty-bill-is-inadequate-misleading,verified_explicit
+EDGE-000004,POL-PH-000215,POL-PH-000001,Father,1,Consanguinity,https://newsinfo.inquirer.net/2153920/house-minority-says-anti-dynasty-bill-is-inadequate-misleading,verified_explicit
+EDGE-000005,POL-PH-000017,POL-PH-000215,Nephew,3,Consanguinity,https://newsinfo.inquirer.net/2153920/house-minority-says-anti-dynasty-bill-is-inadequate-misleading,verified_explicit
+EDGE-000006,POL-PH-000215,POL-PH-000017,Aunt,3,Consanguinity,https://newsinfo.inquirer.net/2153920/house-minority-says-anti-dynasty-bill-is-inadequate-misleading,verified_explicit
+EDGE-000007,POL-PH-000001,POL-PH-000266,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000008,POL-PH-000266,POL-PH-000001,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000009,POL-PH-000017,POL-PH-000266,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000010,POL-PH-000266,POL-PH-000017,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000011,POL-PH-000266,POL-PH-000267,Wife,1,Affinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000012,POL-PH-000267,POL-PH-000266,Husband,1,Affinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000013,POL-PH-000266,POL-PH-000265,Son,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000014,POL-PH-000265,POL-PH-000266,Father,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000015,POL-PH-000267,POL-PH-000265,Son,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000016,POL-PH-000265,POL-PH-000267,Mother,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000017,POL-PH-000001,POL-PH-000064,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000018,POL-PH-000064,POL-PH-000001,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000019,POL-PH-000017,POL-PH-000064,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000020,POL-PH-000064,POL-PH-000017,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000021,POL-PH-000002,POL-PH-000129,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000022,POL-PH-000129,POL-PH-000002,Sister,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000023,POL-PH-000129,POL-PH-000128,Son,1,Consanguinity,https://www.inquirer.net/416493/ex-president-rodrigo-duterte-runs-again-for-davao-mayor/,unverifiable
+EDGE-000024,POL-PH-000128,POL-PH-000129,Father,1,Consanguinity,https://www.inquirer.net/416493/ex-president-rodrigo-duterte-runs-again-for-davao-mayor/,unverifiable
+EDGE-000025,POL-PH-000002,POL-PH-000128,Nephew,3,Consanguinity,https://www.inquirer.net/416493/ex-president-rodrigo-duterte-runs-again-for-davao-mayor/,unverifiable
+EDGE-000026,POL-PH-000128,POL-PH-000002,Aunt,3,Consanguinity,https://www.inquirer.net/416493/ex-president-rodrigo-duterte-runs-again-for-davao-mayor/,unverifiable
+EDGE-000027,POL-PH-000002,POL-PH-000127,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000028,POL-PH-000127,POL-PH-000002,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000029,POL-PH-000129,POL-PH-000127,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000030,POL-PH-000127,POL-PH-000129,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000031,POL-PH-000004,POL-PH-000005,Sister,2,Consanguinity,https://newsinfo.inquirer.net/1081463/comelec-hears-petition-to-cancel-cocs-of-cayetanos,verified_mentioned
+EDGE-000032,POL-PH-000005,POL-PH-000004,Brother,2,Consanguinity,https://newsinfo.inquirer.net/1081463/comelec-hears-petition-to-cancel-cocs-of-cayetanos,verified_mentioned
+EDGE-000033,POL-PH-000007,POL-PH-000009,Half-Brother,2,Consanguinity,https://newsinfo.inquirer.net/1085885/after-campaign-handshake-jv-says-relationship-with-jinggoy-still-same,unverifiable
+EDGE-000034,POL-PH-000009,POL-PH-000007,Half-Brother,2,Consanguinity,https://newsinfo.inquirer.net/1085885/after-campaign-handshake-jv-says-relationship-with-jinggoy-still-same,unverifiable
+EDGE-000035,POL-PH-000008,POL-PH-000137,Sister,2,Consanguinity,https://philstarlife.com/news-and-views/670371-list-senators-who-have-made-their-salns-public,verified_mentioned
+EDGE-000036,POL-PH-000137,POL-PH-000008,Brother,2,Consanguinity,https://philstarlife.com/news-and-views/670371-list-senators-who-have-made-their-salns-public,verified_mentioned
+EDGE-000037,POL-PH-000010,POL-PH-000158,Brother,2,Consanguinity,https://newsinfo.inquirer.net/1769697/complaints-vs-gatchalian-raised-at-ca-hearing,verified_mentioned
+EDGE-000038,POL-PH-000158,POL-PH-000010,Brother,2,Consanguinity,https://newsinfo.inquirer.net/1769697/complaints-vs-gatchalian-raised-at-ca-hearing,verified_mentioned
+EDGE-000039,POL-PH-000021,POL-PH-000022,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000040,POL-PH-000022,POL-PH-000021,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000041,POL-PH-000022,POL-PH-000310,Wife,1,Affinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000042,POL-PH-000310,POL-PH-000022,Husband,1,Affinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000043,POL-PH-000022,POL-PH-000311,Son,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000044,POL-PH-000311,POL-PH-000022,Father,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000045,POL-PH-000310,POL-PH-000311,Son,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000046,POL-PH-000311,POL-PH-000310,Mother,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000047,POL-PH-000021,POL-PH-000310,Sister-in-law,2,Affinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000048,POL-PH-000310,POL-PH-000021,Brother-in-law,2,Affinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000049,POL-PH-000021,POL-PH-000311,Nephew,3,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000050,POL-PH-000311,POL-PH-000021,Uncle,3,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000051,POL-PH-000023,POL-PH-000328,Father,1,Consanguinity,https://www.philstar.com/headlines/2025/08/06/2461860/list-house-committee-chairmanships-20th-congress,verified_explicit
+EDGE-000052,POL-PH-000328,POL-PH-000023,Son,1,Consanguinity,https://www.philstar.com/headlines/2025/08/06/2461860/list-house-committee-chairmanships-20th-congress,verified_explicit
+EDGE-000053,POL-PH-000024,POL-PH-000025,Brother,2,Consanguinity,https://www.rappler.com/philippines/elections/villar-family-everything-business/,verified_mentioned
+EDGE-000054,POL-PH-000025,POL-PH-000024,Sister,2,Consanguinity,https://www.rappler.com/philippines/elections/villar-family-everything-business/,verified_mentioned
+EDGE-000055,POL-PH-000026,POL-PH-000343,Wife,1,Affinity,https://www.philstar.com/entertainment/2011/03/31/671168/migz-audrey-happily-together,unverifiable
+EDGE-000056,POL-PH-000343,POL-PH-000026,Husband,1,Affinity,https://www.philstar.com/entertainment/2011/03/31/671168/migz-audrey-happily-together,unverifiable
+EDGE-000057,POL-PH-000051,POL-PH-000052,Father,1,Consanguinity,https://www.philstar.com/headlines/2025/07/29/2461694/list-house-majority-blocs-leaders-20th-congress,unverifiable
+EDGE-000058,POL-PH-000052,POL-PH-000051,Son,1,Consanguinity,https://www.philstar.com/headlines/2025/07/29/2461694/list-house-majority-blocs-leaders-20th-congress,unverifiable
+EDGE-000059,POL-PH-000072,POL-PH-000073,Son,1,Consanguinity,https://www.philstar.com/entertainment/2019/07/27/1938107/javi-benitez-action-genre-born,verified_mentioned
+EDGE-000060,POL-PH-000073,POL-PH-000072,Father,1,Consanguinity,https://www.philstar.com/entertainment/2019/07/27/1938107/javi-benitez-action-genre-born,verified_mentioned
+EDGE-000061,POL-PH-000074,POL-PH-000075,Husband,1,Affinity,https://www.philstar.com/sports/2025/12/21/2495888/preparation-pays-abra-solid-north-weavers-owner-after-mpbl-title-conquest,verified_mentioned
+EDGE-000062,POL-PH-000075,POL-PH-000074,Wife,1,Affinity,https://www.philstar.com/sports/2025/12/21/2495888/preparation-pays-abra-solid-north-weavers-owner-after-mpbl-title-conquest,verified_mentioned
+EDGE-000063,POL-PH-000121,POL-PH-000122,Daughter,1,Consanguinity,https://pcij.org/2025/05/22/same-old-names-win-in-northern-mindanao-dimaporo-oaminal-romualdo-and-others/,unverifiable
+EDGE-000064,POL-PH-000122,POL-PH-000121,Mother,1,Consanguinity,https://pcij.org/2025/05/22/same-old-names-win-in-northern-mindanao-dimaporo-oaminal-romualdo-and-others/,unverifiable
+EDGE-000065,POL-PH-000130,POL-PH-000131,Son,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000066,POL-PH-000131,POL-PH-000130,Father,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000067,POL-PH-000130,POL-PH-000132,Son,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000068,POL-PH-000132,POL-PH-000130,Father,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000069,POL-PH-000131,POL-PH-000132,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000070,POL-PH-000132,POL-PH-000131,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000071,POL-PH-000151,POL-PH-000155,Sister,2,Consanguinity,https://www.philstar.com/headlines/2025/08/06/2461860/list-house-committee-chairmanships-20th-congress,verified_explicit
+EDGE-000072,POL-PH-000155,POL-PH-000151,Brother,2,Consanguinity,https://www.philstar.com/headlines/2025/08/06/2461860/list-house-committee-chairmanships-20th-congress,verified_explicit
+EDGE-000073,POL-PH-000180,POL-PH-000181,Wife,1,Affinity,https://newsinfo.inquirer.net/1596333/masbates-khos-win-reelections-secure-3-congressional-seats,verified_explicit
+EDGE-000074,POL-PH-000181,POL-PH-000180,Husband,1,Affinity,https://newsinfo.inquirer.net/1596333/masbates-khos-win-reelections-secure-3-congressional-seats,verified_explicit
+EDGE-000075,POL-PH-000180,POL-PH-000182,Son,1,Consanguinity,https://newsinfo.inquirer.net/1596333/masbates-khos-win-reelections-secure-3-congressional-seats,verified_explicit
+EDGE-000076,POL-PH-000182,POL-PH-000180,Father,1,Consanguinity,https://newsinfo.inquirer.net/1596333/masbates-khos-win-reelections-secure-3-congressional-seats,verified_explicit
+EDGE-000077,POL-PH-000181,POL-PH-000182,Son,1,Consanguinity,https://newsinfo.inquirer.net/1596333/masbates-khos-win-reelections-secure-3-congressional-seats,verified_explicit
+EDGE-000078,POL-PH-000182,POL-PH-000181,Mother,1,Consanguinity,https://newsinfo.inquirer.net/1596333/masbates-khos-win-reelections-secure-3-congressional-seats,verified_explicit
+EDGE-000079,POL-PH-000188,POL-PH-000189,Wife,1,Affinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000080,POL-PH-000189,POL-PH-000188,Husband,1,Affinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000081,POL-PH-000191,POL-PH-000192,Husband,1,Affinity,https://www.philstar.com/the-freeman/cebu-news/2024/05/12/2354480/rep-lagon-opens-office-cordova,contradicted
+EDGE-000082,POL-PH-000192,POL-PH-000191,Wife,1,Affinity,https://www.philstar.com/the-freeman/cebu-news/2024/05/12/2354480/rep-lagon-opens-office-cordova,contradicted
+EDGE-000083,POL-PH-000015,POL-PH-000199,Son,1,Consanguinity,https://newsinfo.inquirer.net/2167584/from-energy-wonderkid-to-controversy-magnet,verified_mentioned
+EDGE-000084,POL-PH-000199,POL-PH-000015,Mother,1,Consanguinity,https://newsinfo.inquirer.net/2167584/from-energy-wonderkid-to-controversy-magnet,verified_mentioned
+EDGE-000085,POL-PH-000015,POL-PH-000197,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000086,POL-PH-000197,POL-PH-000015,Sister,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000087,POL-PH-000197,POL-PH-000199,Nephew,3,Consanguinity,https://newsinfo.inquirer.net/2167584/from-energy-wonderkid-to-controversy-magnet,verified_mentioned
+EDGE-000088,POL-PH-000199,POL-PH-000197,Uncle,3,Consanguinity,https://newsinfo.inquirer.net/2167584/from-energy-wonderkid-to-controversy-magnet,verified_mentioned
+EDGE-000089,POL-PH-000222,POL-PH-000257,Son,1,Consanguinity,https://newsinfo.inquirer.net/1298018/cavite-mourns-death-of-ramon-revilla-sr-says-governor,verified_mentioned
+EDGE-000090,POL-PH-000257,POL-PH-000222,Mother,1,Consanguinity,https://newsinfo.inquirer.net/1298018/cavite-mourns-death-of-ramon-revilla-sr-says-governor,verified_mentioned
+EDGE-000091,POL-PH-000222,POL-PH-000256,Son,1,Consanguinity,https://newsinfo.inquirer.net/1298018/cavite-mourns-death-of-ramon-revilla-sr-says-governor,verified_mentioned
+EDGE-000092,POL-PH-000256,POL-PH-000222,Mother,1,Consanguinity,https://newsinfo.inquirer.net/1298018/cavite-mourns-death-of-ramon-revilla-sr-says-governor,verified_mentioned
+EDGE-000093,POL-PH-000257,POL-PH-000256,Brother,2,Consanguinity,https://newsinfo.inquirer.net/1298018/cavite-mourns-death-of-ramon-revilla-sr-says-governor,verified_mentioned
+EDGE-000094,POL-PH-000256,POL-PH-000257,Brother,2,Consanguinity,https://newsinfo.inquirer.net/1298018/cavite-mourns-death-of-ramon-revilla-sr-says-governor,verified_mentioned
+EDGE-000095,POL-PH-000230,POL-PH-000231,Brother,2,Consanguinity,https://pcij.org/2025/05/22/same-old-names-win-in-northern-mindanao-dimaporo-oaminal-romualdo-and-others/,unverifiable
+EDGE-000096,POL-PH-000231,POL-PH-000230,Brother,2,Consanguinity,https://pcij.org/2025/05/22/same-old-names-win-in-northern-mindanao-dimaporo-oaminal-romualdo-and-others/,unverifiable
+EDGE-000097,POL-PH-000262,POL-PH-000263,Brother,2,Consanguinity,https://newsinfo.inquirer.net/758359/house-probe-of-tower-bombings-sought,verified_mentioned
+EDGE-000098,POL-PH-000263,POL-PH-000262,Brother,2,Consanguinity,https://newsinfo.inquirer.net/758359/house-probe-of-tower-bombings-sought,verified_mentioned
+EDGE-000099,POL-PH-000282,POL-PH-000283,Brother,2,Consanguinity,https://newsinfo.inquirer.net/2235386/house-approves-more-changes-in-committee-leadership,verified_explicit
+EDGE-000100,POL-PH-000283,POL-PH-000282,Sister,2,Consanguinity,https://newsinfo.inquirer.net/2235386/house-approves-more-changes-in-committee-leadership,verified_explicit
+EDGE-000101,POL-PH-000282,POL-PH-000284,Second Cousin,4,Consanguinity,https://newsinfo.inquirer.net/2235386/house-approves-more-changes-in-committee-leadership,unverifiable
+EDGE-000102,POL-PH-000284,POL-PH-000282,Second Cousin,4,Consanguinity,https://newsinfo.inquirer.net/2235386/house-approves-more-changes-in-committee-leadership,unverifiable
+EDGE-000103,POL-PH-000283,POL-PH-000284,First Cousin,4,Consanguinity,https://newsinfo.inquirer.net/2235386/house-approves-more-changes-in-committee-leadership,unverifiable
+EDGE-000104,POL-PH-000284,POL-PH-000283,First Cousin,4,Consanguinity,https://newsinfo.inquirer.net/2235386/house-approves-more-changes-in-committee-leadership,unverifiable
+EDGE-000105,POL-PH-000288,POL-PH-000289,Sister,2,Consanguinity,https://www.philstar.com/headlines/2025/08/06/2461860/list-house-committee-chairmanships-20th-congress,verified_mentioned
+EDGE-000106,POL-PH-000289,POL-PH-000288,Sister,2,Consanguinity,https://www.philstar.com/headlines/2025/08/06/2461860/list-house-committee-chairmanships-20th-congress,verified_mentioned
+EDGE-000107,POL-PH-000296,POL-PH-000298,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000108,POL-PH-000298,POL-PH-000296,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_explicit
+EDGE-000109,POL-PH-000326,POL-PH-000327,Brother,2,Consanguinity,https://newsinfo.inquirer.net/1499646/another-villafuerte-joins-gubernatorial-race-in-camsur-faces-imelda-papin,verified_explicit
+EDGE-000110,POL-PH-000327,POL-PH-000326,Brother,2,Consanguinity,https://newsinfo.inquirer.net/1499646/another-villafuerte-joins-gubernatorial-race-in-camsur-faces-imelda-papin,verified_explicit
+EDGE-000111,POL-PH-000338,POL-PH-000339,Brother,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000112,POL-PH-000339,POL-PH-000338,Sister,2,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000113,POL-PH-000032,POL-PH-000061,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000114,POL-PH-000061,POL-PH-000032,First Cousin,4,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,unverifiable
+EDGE-000115,POL-PH-000171,POL-PH-000174,Daughter,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned
+EDGE-000116,POL-PH-000174,POL-PH-000171,Father,1,Consanguinity,https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/,verified_mentioned

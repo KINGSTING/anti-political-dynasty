@@ -1,4 +1,4 @@
-﻿person_id,full_name_clean,first_name,middle_name,last_name,maternal_maiden_name,gender,home_psgc,aliases
+person_id,full_name_clean,first_name,middle_name,last_name,maternal_maiden_name,gender,home_psgc,aliases
 POL-PH-000001,Ferdinand Romualdez Marcos Jr.,Ferdinand,Romualdez,Marcos,Romualdez,M,012800000,"Bongbong Marcos, BBM"
 POL-PH-000002,Sara Zimmerman Duterte,Sara,Zimmerman,Duterte,Zimmerman,F,118602000,Inday Sara
 POL-PH-000003,Paolo Benigno Aguirre Aquino IV,Paolo Benigno,Aguirre,Aquino,Aguirre,M,137404000,Bam Aquino
@@ -25,7 +25,6 @@ POL-PH-000023,Emmanuel Joel Jose Villanueva,Emmanuel Joel,Jose,Villanueva,Jose,M
 POL-PH-000024,Camille Aguilar Villar,Camille,Aguilar,Villar,Aguilar,F,137601000,Camille Villar
 POL-PH-000025,Mark Aguilar Villar,Mark,Aguilar,Villar,Aguilar,M,137601000,Mark Villar
 POL-PH-000026,Juan Miguel Fernandez Zubiri,Juan Miguel,Fernandez,Zubiri,Fernandez,M,101300000,"Migz Zubiri, Migz"
-person_id,full_name_clean,first_name,middle_name,last_name,maternal_maiden_name,gender,home_psgc,aliases
 POL-PH-000027,JC M. Abalos,JC,M.,Abalos,M.,M,130000000,JC Abalos
 POL-PH-000028,Bienvenido Jr. M. Abante,Bienvenido,M.,Abante,M.,M,133900000,"Bienvenido Abante Jr., Benny Abante"
 POL-PH-000029,Jude A. Acidre,Jude,A.,Acidre,A.,M,130000000,Jude Acidre
@@ -425,7 +424,6 @@ POL-PH-000422,Hermogenes E. Ebdane Jr.,Hermogenes,E.,Ebdane,E.,M,037100000,Jun E
 POL-PH-000423,Darel Dexter T. Uy,Darel Dexter,T.,Uy,T.,M,097200000,Darel Uy
 POL-PH-000424,Divina Grace C. Yu,Divina Grace,C.,Yu,C.,F,097300000,Divina Grace Yu
 POL-PH-000425,Ann K. Hofer,Ann,K.,Hofer,K.,F,098300000,Dulce Ann Hofer
-person_id,full_name_clean,first_name,middle_name,last_name,maternal_maiden_name,gender,home_psgc,aliases
 POL-PH-000426,Anne Valera Bersamin,Anne,Valera,Bersamin,Valera,F,140100000,Anne Bersamin
 POL-PH-000427,Enrico R. Corvera,Enrico,R.,Corvera,R.,M,160200000,Rico Corvera
 POL-PH-000428,Patpet S. Plaza,Patpet,S.,Plaza,S.,M,160300000,Pat Plaza

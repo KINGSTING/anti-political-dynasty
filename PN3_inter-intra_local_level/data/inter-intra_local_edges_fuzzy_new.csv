@@ -1,0 +1,27 @@
+﻿edge_id,person_a_id,person_b_id,relation_label,civil_degree,kinship_type,source_document,is_ground_truth,probability,fuzzy_verdict,fuzzy_score,fuzzy_detail
+,POL-PH-004585,POL-PH-005208,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.95,JW=0.950
+,POL-PH-004599,POL-PH-005006,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.938,JW=0.938
+,POL-PH-004599,POL-PH-005012,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.938,JW=0.938
+,POL-PH-007087,POL-PH-016031,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.925,JW=0.925
+,POL-PH-007383,POL-PH-014345,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.922,JW=0.922
+,POL-PH-014326,POL-PH-014345,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.922,JW=0.922
+,POL-PH-014345,POL-PH-014494,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.922,JW=0.922
+,POL-PH-014345,POL-PH-014495,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.922,JW=0.922
+,POL-PH-007827,POL-PH-019900,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,1.0,"same letters, different spacing"
+,POL-PH-013076,POL-PH-013102,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.92,JW=0.920
+,POL-PH-013076,POL-PH-013157,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.92,JW=0.920
+,POL-PH-008541,POL-PH-020184,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.8,variant_confirmed,1.0,"same letters, different spacing"
+,POL-PH-008557,POL-PH-013802,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.931,JW=0.931
+,POL-PH-009888,POL-PH-009992,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.938,JW=0.938
+,POL-PH-011383,POL-PH-011427,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.971,JW=0.971
+,POL-PH-012718,POL-PH-012937,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.943,JW=0.943
+,POL-PH-012976,POL-PH-013829,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.938,JW=0.938
+,POL-PH-013024,POL-PH-013273,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.92,JW=0.920
+,POL-PH-013859,POL-PH-013894,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.925,JW=0.925
+,POL-PH-016178,POL-PH-016191,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.922,JW=0.922
+,POL-PH-016623,POL-PH-016652,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.978,JW=0.978
+,POL-PH-018832,POL-PH-018940,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.978,JW=0.978
+,POL-PH-020077,POL-PH-020911,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.922,JW=0.922
+,POL-PH-020635,POL-PH-020638,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.933,JW=0.933
+,POL-PH-020801,POL-PH-020807,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.925,JW=0.925
+,POL-PH-020872,POL-PH-020890,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.943,JW=0.943

@@ -1,0 +1,12 @@
+=== PN2 FINAL CONSENSUS REPORT ===
+Total edges: 1252
+Ground truth: 227 (18.1%)
+
+  Verified_Pulitiklan   :   108 (  8.6%)
+  Rule_Based_GT         :   119 (  9.5%)
+  Baseline_Mindanao     :   393 ( 31.4%)
+  Consensus_High        :   120 (  9.6%)
+  Single_Method         :   309 ( 24.7%)
+  Low_Confidence        :   198 ( 15.8%)
+  Contradicted          :     1 (  0.1%)
+  Duplicate_Record      :     4 (  0.3%)

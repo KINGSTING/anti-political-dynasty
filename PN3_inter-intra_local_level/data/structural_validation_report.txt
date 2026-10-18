@@ -1,0 +1,68 @@
+=== PN3 Structural Metrics Validation (Method 2 replacement) ===
+Input edges : 2543
+Graph       : 3610 nodes, 2543 edges
+Components  : 1559
+Bridges     : 1437
+Triangles   : 689
+
+=== Structural verdict distribution ===
+  strong_cluster      :   466 ( 18.3%)
+  cluster_confirmed   :   630 ( 24.8%)
+  weak_cluster        :    10 (  0.4%)
+  chain               :     0 (  0.0%)
+  bridge              :   197 (  7.7%)
+  isolated            :  1240 ( 48.8%)
+
+=== Verdict × relation_label ===
+structural_verdict    bridge  cluster_confirmed  isolated  strong_cluster  weak_cluster
+relation_label                                                                         
+Distant_Kin               80                371       641             379             3
+Fuzzy_Variant_Kin          0                  5        17               4             0
+Parent_Child               2                  7        12               3             0
+Shared_Maternal_Line      57                 82       235              18             6
+Sibling                   58                165       335              62             1
+
+=== Verdict × fuzzy_verdict ===
+structural_verdict  bridge  cluster_confirmed  isolated  strong_cluster  weak_cluster
+fuzzy_verdict                                                                        
+exact                  197                625      1223             462            10
+variant_confirmed        0                  5        17               4             0
+
+=== Sample edges per verdict ===
+
+  [STRONG_CLUSTER]
+    cn=2  jac=0.5   conf=0.958  Robert Dancel Aguinaldo <-> Harry Kitt Valdez Aguinaldo
+    cn=2  jac=0.5   conf=0.958  Robert Dancel Aguinaldo <-> Chino Earl Visco Aguinaldo
+    cn=2  jac=0.5   conf=0.958  Robert Dancel Aguinaldo <-> Pedro Rex Ruiz Aguinaldo
+    cn=2  jac=0.5   conf=0.958  Harry Kitt Valdez Aguinaldo <-> Chino Earl Visco Aguinaldo
+    cn=2  jac=0.5   conf=0.958  Harry Kitt Valdez Aguinaldo <-> Pedro Rex Ruiz Aguinaldo
+
+  [CLUSTER_CONFIRMED]
+    cn=1  jac=0.333 conf=0.785  Glennd George Go Cajigal <-> Glenn Novan Mendoza Cajigal
+    cn=1  jac=0.333 conf=0.785  Glennd George Go Cajigal <-> Michael Tolentino Cajigal
+    cn=1  jac=0.333 conf=0.785  Glenn Novan Mendoza Cajigal <-> Michael Tolentino Cajigal
+    cn=1  jac=0.333 conf=0.785  Crescente Narciso Garcia <-> Russell Jenald Narciso Garcia
+    cn=1  jac=0.333 conf=0.785  Crescente Narciso Garcia <-> Vincent Narciso Garcia
+
+  [BRIDGE]
+    cn=0  jac=0.0   conf=0.15   Aldrin Ragonjan Garvida <-> Caroline Arzadon Garvida
+    cn=0  jac=0.0   conf=0.15   Mariecel Ragonjan Garvida <-> Lovella Samiano Garvida
+    cn=0  jac=0.0   conf=0.15   Gilbees Jhon Argel Valle <-> Marian Jepesano Valle
+    cn=0  jac=0.0   conf=0.15   Eric Ong Sibuma <-> Alyssa Kristine Bernal Sibuma
+    cn=0  jac=0.0   conf=0.15   Astaire Vance Iedritz Pacquingan Pinzon <-> Karl Matthew Mangaoang Pinzon
+
+  [ISOLATED]
+    cn=0  jac=0.0   conf=0.0    Rodolfo Christian Gerodias Fariñas III <-> Roger John Cabellero Fariñas II
+    cn=0  jac=0.0   conf=0.0    Romnick James Maguslog Torralba <-> Tom Kristoffer Monje Torralba
+    cn=0  jac=0.0   conf=0.0    Elmer Claustro Faylogna <-> Marino Claustro Faylogna
+    cn=0  jac=0.0   conf=0.0    Denton Lawrence Go Garvida <-> Myrna Cascayan Garvida
+    cn=0  jac=0.0   conf=0.0    Janet Gonzales Aglipay <-> Mark Louie Soria Aglipay
+
+=== How to use in Method 4 consensus ===
+Positive structural evidence BOOSTS; absence does NOT penalize.
+  strong_cluster (conf 0.90) → +0.05 boost
+  cluster_confirmed (0.75)   → +0.02 boost
+  weak_cluster (0.50)        → no change
+  chain (0.30) / bridge (0.15) → no change, flag for manual review
+  isolated (0.00)            → no change — dyads are legitimate,
+                                just structurally unverifiable

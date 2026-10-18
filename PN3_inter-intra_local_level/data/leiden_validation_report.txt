@@ -1,0 +1,45 @@
+=== PN3 Leiden Structural Validation Report (v2) ===
+Input edges        : 2543
+Original graph     : 3610 nodes, 2543 edges
+Augmented graph    : 3610 nodes, 2807 edges (+264 2-hop)
+Leiden runs        : 9 on augmented graph (real Leiden)
+
+=== Component-size distribution ===
+  dyad           : 1240
+  small_cluster  : 301
+  medium_cluster : 16
+  large_cluster  : 2
+
+=== Edge-level structural consensus ===
+  strong    :  2543 (100.0%)
+  moderate  :     0 (  0.0%)
+  weak      :     0 (  0.0%)
+
+=== Consensus × component_bucket ===
+leiden_consensus  strong
+component_bucket        
+dyad                1240
+large_cluster         62
+medium_cluster       213
+small_cluster       1028
+
+=== Consensus × relation_label ===
+leiden_consensus      strong
+relation_label              
+Distant_Kin             1474
+Fuzzy_Variant_Kin         26
+Parent_Child              24
+Shared_Maternal_Line     398
+Sibling                  621
+
+=== Top 10 Leiden communities (augmented graph) ===
+  Community    0:  13 members | AMPATUAN(12), AGUAK(1)
+  Community    1:  11 members | SANGKI(11)
+  Community    2:  10 members | HATAMAN(10)
+  Community    3:  10 members | MIDTIMBANG(10)
+  Community    4:   9 members | AMPATUAN(9)
+  Community    8:   7 members | SINGSON(7)
+  Community    6:   7 members | ROBLES(5), LLAGAS(2)
+  Community    9:   7 members | CAPAL(6), MANSO(1)
+  Community    5:   7 members | AMPATUAN(6), AMPATUAN SAMAMA(1)
+  Community    7:   7 members | ANGAS(4), MAMALO(2), MAULANA(1)

@@ -1,0 +1,4 @@
+person_a_id,person_b_id,relation_label,civil_degree,kinship_type,source_document,is_ground_truth,probability,fuzzy_verdict,fuzzy_score,fuzzy_detail
+POL-PH-000069,POL-PH-000070,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.65,variant_confirmed,0.933,JW=0.933
+POL-PH-001794,POL-PH-003286,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.75,variant_likely,0.917,JW=0.917
+POL-PH-001903,POL-PH-003396,Fuzzy_Variant_Kin,6,Consanguinity,Fuzzy_Name_Match,False,0.75,variant_likely,0.858,JW=0.858

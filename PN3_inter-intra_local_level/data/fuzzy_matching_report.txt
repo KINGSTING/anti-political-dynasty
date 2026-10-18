@@ -1,0 +1,32 @@
+=== PN3 Fuzzy Name Matching Report (v2) ===
+Input edges: 2699
+
+Part A — Validation:
+  Kept                 : 2517
+  Boosted              : 0
+  Demoted              : 0
+  Dropped              : 182
+  Dynastic exceptions  : 0
+
+Part B — Expansion:
+  New edges discovered      : 26
+  Skipped (variant_likely, no mid match): 47
+  Verdict breakdown:
+    variant_confirmed: 26
+
+=== Summary ===
+Original edges       : 2699
+After validation     : 2517
+New fuzzy edges      : 26
+Final combined edges : 2543
+
+Verdict distribution (combined):
+  exact: 2517
+  variant_confirmed: 26
+
+Relation labels after fuzzy (combined):
+  Distant_Kin: 1474
+  Sibling: 621
+  Shared_Maternal_Line: 398
+  Fuzzy_Variant_Kin: 26
+  Parent_Child: 24
