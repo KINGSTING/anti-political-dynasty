@@ -32,7 +32,6 @@ OUT_NEW_EDGES_CSV  = os.path.join(BASE, "inter-intra_local_edges_fuzzy_new.csv")
 OUT_REPORT_TXT     = os.path.join(BASE, "fuzzy_matching_report.txt")
 
 # ==================== CONFIG ====================
-# Top national common Filipino surnames — used to demote surname-only evidence
 COMMON_SURNAMES = {
     "DELA CRUZ", "DELACRUZ", "REYES", "SANTOS", "GARCIA", "RAMOS", "MENDOZA",
     "BAUTISTA", "CASTILLO", "VILLANUEVA", "AQUINO", "CRUZ", "SANTIAGO",
@@ -42,9 +41,6 @@ COMMON_SURNAMES = {
     "TAN", "SY", "CHUA", "GO", "ONG",
 }
 
-# Province/HUC PSGC prefixes where a "common" surname is actually a documented
-# dynasty. Restores those edges from the common-surname noise filter.
-# Format: surname -> set of PSGC prefixes (4-digit province or 4-digit HUC)
 DYNASTIC_EXCEPTIONS = {
     "FERRIOL":   {"1374"},                # Quezon City
     "TAN":       {"0722", "0730"},        # Cebu province, Cebu City (HUC)
@@ -52,15 +48,14 @@ DYNASTIC_EXCEPTIONS = {
     "MARCOS":    {"0128"},                # Ilocos Norte
     "AMPATUAN":  {"1500", "1501"},        # Maguindanao del Norte, del Sur
     "HATAMAN":   {"1500", "1507"},        # Maguindanao, Basilan
-    "LIM":       {"1339"},                # Manila (specific Lim clan)
+    "LIM":       {"1339"},                # Manila
     "GO":        {"1374"},                # Quezon City
     "SY":        {"1374"},                # Quezon City
 }
 
-# Thresholds (tuned for Philippine surnames)
-JW_STRONG = 0.92   # variant_confirmed
-JW_MEDIUM = 0.85   # variant_likely
-JW_WEAK   = 0.75   # phonetic threshold (Part A only)
+JW_STRONG = 0.92
+JW_MEDIUM = 0.85
+JW_WEAK   = 0.75
 
 OUTPUT_COLUMNS = [
     "edge_id", "person_a_id", "person_b_id",
@@ -71,16 +66,21 @@ OUTPUT_COLUMNS = [
 
 
 # ==================== HELPERS ====================
-def norm(s):
+def normalize(s):
+    """Standardize a name string: uppercase, strip diacritics, strip suffixes."""
     if pd.isna(s):
         return ""
     s = str(s).upper().strip()
-    s = unicodedata.normalize("NFD", s)              # ✅ ñ → n + combining mark
+    s = unicodedata.normalize("NFD", s)              # ñ → n + combining mark
     s = "".join(c for c in s if unicodedata.category(c) != "Mn")
     s = re.sub(r"[^A-Z\s]", " ", s)
     s = " ".join(s.split())
     s = re.sub(r"\s+(JR|SR|II|III|IV|V|VI)$", "", s).strip()
     return s
+
+
+# Alias for backward-compat with callers that use `norm()`
+norm = normalize
 
 
 def collapse(s):
@@ -167,7 +167,7 @@ def validate_existing_edges(edges_df, id_to_node, report):
         prob = float(e["probability"])
         is_gt = str(e.get("is_ground_truth", "False")).lower() == "true"
 
-        # ✅ FIX: province-aware dynasty exception overrides "common" classification
+        # Province-aware dynasty exception overrides "common" classification
         is_common = confirm_name in COMMON_SURNAMES
         if is_common and is_dynastic_exception(confirm_name, p_a.get("home_psgc", "")):
             is_common = False
@@ -191,12 +191,12 @@ def validate_existing_edges(edges_df, id_to_node, report):
                 action = "demoted"
 
         elif confirm_verdict == "variant_confirmed":
-            # ✅ FIX: genuine variant spelling — always strengthen
+            # Genuine variant spelling — always strengthen
             adjusted = min(0.99, prob + 0.05)
             action = "boosted"
 
         elif confirm_verdict == "variant_likely":
-            # ✅ FIX: only boost if middle name also confirms structure
+            # Only boost if middle name also confirms structure
             mid_a = normalize(p_a.get("middle_name", ""))
             mid_b = normalize(p_b.get("middle_name", ""))
             if mid_a and mid_a == mid_b:
@@ -229,9 +229,9 @@ def validate_existing_edges(edges_df, id_to_node, report):
 def expand_with_variants(nodes_df, existing_edges_df, report):
     """
     Discover new edges via variant-spelled surnames inside the same LGU.
-    ✅ Only variant_confirmed passes automatically.
-    ✅ variant_likely requires a middle-name match (structural confirmation).
-    ❌ phonetic_match disabled — too noisy on Filipino surnames.
+    Only variant_confirmed passes automatically.
+    variant_likely requires a middle-name match (structural confirmation).
+    phonetic_match disabled — too noisy on Filipino surnames.
     """
     existing_pairs = set()
     for _, e in existing_edges_df.iterrows():
@@ -265,7 +265,6 @@ def expand_with_variants(nodes_df, existing_edges_df, report):
 
                 score, verdict, detail = fuzzy_score(last_a, last_b)
 
-                # ✅ FIX: only variant_confirmed and variant_likely
                 if verdict not in ("variant_confirmed", "variant_likely"):
                     continue
 
@@ -273,12 +272,10 @@ def expand_with_variants(nodes_df, existing_edges_df, report):
                 mid_b = normalize(b.get("middle_name", ""))
                 mid_match = bool(mid_a and mid_a == mid_b)
 
-                # ✅ FIX: variant_likely requires mid confirmation
                 if verdict == "variant_likely" and not mid_match:
                     skipped_no_mid += 1
                     continue
 
-                # Score composition
                 base = 0.50  # same LGU
                 if verdict == "variant_confirmed":
                     base += 0.30 if mid_match else 0.15
@@ -332,7 +329,6 @@ def main():
     report = ["=== PN3 Fuzzy Name Matching Report (v2) ===",
               f"Input edges: {len(edges)}", ""]
 
-    # ---- Part A: Validation ----
     print("\n=== Part A: Validating existing edges ===")
     df_validated, stats_a = validate_existing_edges(edges, id_to_node, report)
     print(f"  {len(df_validated)} edges survive validation")
@@ -340,12 +336,10 @@ def main():
           f"demoted={stats_a['demoted']} dropped={stats_a['dropped']} "
           f"exceptions={stats_a['exceptions_applied']}")
 
-    # ---- Part B: Expansion ----
     print("\n=== Part B: Discovering new edges via variant spellings ===")
     df_new = expand_with_variants(nodes, edges, report)
     print(f"  {len(df_new)} new edges discovered")
 
-    # ---- Combine + dedupe ----
     df_validated["edge_id"] = ""
     df_new["edge_id"] = ""
 
@@ -364,7 +358,6 @@ def main():
     if len(df_new):
         df_new[OUTPUT_COLUMNS].to_csv(OUT_NEW_EDGES_CSV, index=False, encoding="utf-8-sig")
 
-    # ---- Final report ----
     report += [
         "",
         "=== Summary ===",
