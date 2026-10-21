@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anti-Political Dynasty Law Simulator</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <button class="menu-btn" id="open-menu-btn">☰</button>
+    
+    <!-- Added Logo Here -->
+    <img src="GRITlabs-logo.png" alt="GRIT Labs Logo" class="logo-img">
+    
+    <h1>Anti-Political Dynasty <span>Law Simulator</span></h1>
+  </div>
+  
+  <div class="header-right">
+    <!-- Changed Sources button to GitHub Repo link -->
+    <a href="https://github.com/KINGSTING/anti-political-dynasty" target="_blank" class="btn-secondary" style="text-decoration: none; display: inline-block;">
+      GitHub Repo
+    </a>
+  </div>
+</header>
+
+<main>
+  <!-- Central Graph Area -->
+  <div id="graph-container">
+    <div id="graph"></div>
+    <div id="loading" class="hidden">Loading dataset...</div>
+    <div id="legend" class="legend"></div>
+  </div>
+
+  <!-- Right Side Info Box -->
+  <aside id="info-box">
+    <div class="info-placeholder">
+      <h3>Simulation Info</h3>
+      <p>Open the menu (☰) to configure policy axes and run a simulation.</p>
+    </div>
+  </aside>
+</main>
+
+<!-- Hamburger Menu Modal -->
+<div id="menu-modal" class="modal hidden">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h2>Simulation Settings</h2>
+      <button class="close-btn" id="close-menu-btn">&times;</button>
+    </div>
+    
+    <div class="modal-body">
+       <!-- ADD THIS NEW SECTION -->
+      <h3>Dataset Scope</h3>
+      <div class="dataset-scope">
+        <label><input type="radio" name="dataset-scope" value="PN1" checked> National Only (PN1)</label>
+        <label><input type="radio" name="dataset-scope" value="PN2"> National + Local (PN2)</label>
+        <label><input type="radio" name="dataset-scope" value="PN3"> Local Only (PN3)</label>
+      </div>
+
+      <h3 style="margin-top: 20px;">Select Scenario</h3>
+      <div class="scenario-grid" id="scenario-grid"></div>
+
+      <h3>Select Scenario</h3>
+      <div class="scenario-grid" id="scenario-grid">
+        <!-- S1-S8 buttons injected by JS -->
+      </div>
+
+      <h3 style="margin-top: 20px;">Custom Axes</h3>
+      <div class="toggles-grid">
+        <label><input type="checkbox" id="axis-simultaneous" checked> Simultaneous Ban</label>
+        <label><input type="checkbox" id="axis-succession" checked> Succession Ban</label>
+        <label><input type="checkbox" id="axis-partylist" checked> Include Party-List</label>
+        
+        <div class="degree-select">
+          <span>Civil Degree (k):</span>
+          <select id="axis-degree">
+            <option value="2">2nd</option>
+            <option value="3">3rd</option>
+            <option value="4" selected>4th</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-top: 20px; text-align: right;">
+        <button class="btn-primary" id="run-btn">Run Simulation</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="config.js"></script>
+<script src="simulator.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>

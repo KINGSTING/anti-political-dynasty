@@ -1,0 +1,17 @@
+﻿simulation_election_year,seat_id,successor_pol_id,successor_name,predecessor_pol_id,predecessor_name,predecessor_election_year,years_since_predecessor,prior_cycles_between,bloodline_relation,civil_degree_distance,confidence_tier,simulation_disqualification_status
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-ABRA,POL-PH-000075,JB Bernos,POL-PH-000074,Ching B. Bernos,2022,3,0,Wife,1,STRONG (immediate predecessor),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-CAMARINES_SUR,POL-PH-000327,Vincenzo Renato Luigi R. Villafuerte,POL-PH-000326,Miguel Luis R. Villafuerte,2022,3,0,Brother,2,STRONG (immediate predecessor),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-CAVITE,POL-PH-000222,Lani Mercado-Revilla,POL-PH-000257,Ramon Jolo III B. Revilla,2022,3,0,Mother,1,STRONG (immediate predecessor),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-CAVITE,POL-PH-000257,Ramon Jolo III B. Revilla,POL-PH-000222,Lani Mercado-Revilla,2022,3,0,Mother,1,STRONG (immediate predecessor),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-DAVAO_DEL_SUR,POL-PH-000128,Omar Vincent Sangkola Duterte,POL-PH-000129,Paolo Z. Duterte,2022,3,0,Father,1,STRONG (immediate predecessor),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-ILOCOS_NORTE,POL-PH-000064,Angelo Marcos Barba,POL-PH-000215,Ferdinand Alexander A. Marcos,2022,3,0,Maternal_Line_Kin,4,STRONG (immediate predecessor),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-ILOCOS_NORTE,POL-PH-000215,Ferdinand Alexander A. Marcos,POL-PH-000064,Angelo Marcos Barba,2022,3,0,Maternal_Line_Kin,4,STRONG (immediate predecessor),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-ILOCOS_SUR,POL-PH-000283,Ronald V. Singson,POL-PH-000284,Kristine Singson-Meehan,2022,3,0,First Cousin,4,STRONG (immediate predecessor),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-ILOCOS_SUR,POL-PH-000284,Kristine Singson-Meehan,POL-PH-000283,Ronald V. Singson,2022,3,0,First Cousin,4,STRONG (immediate predecessor),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-ISABELA,POL-PH-000132,Ian Paul L. Dy,POL-PH-000130,Faustino III G. Dy,2019,6,1,Father,1,MODERATE (one cycle skipped),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-LANAO_DEL_NORTE,POL-PH-000122,Sittie Aminah Q. Dimaporo,POL-PH-000121,Imelda Quibranza Dimaporo,2013,12,3,Mother,1,WEAK (multi-cycle gap),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-LANAO_DEL_SUR,POL-PH-000032,Ziaur-Rahman Alonto Adiong,POL-PH-000061,Yasser Alonto Balindong,2022,3,0,First Cousin,4,STRONG (immediate predecessor),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-LANAO_DEL_SUR,POL-PH-000061,Yasser Alonto Balindong,POL-PH-000032,Ziaur-Rahman Alonto Adiong,2022,3,0,First Cousin,4,STRONG (immediate predecessor),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-LEYTE,POL-PH-000266,Ferdinand Martin G. Romualdez,POL-PH-000267,Yedda Marie K. Romualdez,2016,9,2,Husband,1,WEAK (multi-cycle gap),BANNED
+2025,PH-MEMBER_HOUSE_OF_REPRESENTATIVES-ZAMBOANGA_DEL_SUR,POL-PH-000339,Joseph Kim C. Yu,POL-PH-000338,Jeyzel Victoria C. Yu,2022,3,0,Sister,2,STRONG (immediate predecessor),BANNED
+2025,PH-SENATOR-,POL-PH-000024,Camille Aguilar Villar,POL-PH-000025,Mark Aguilar Villar,2022,3,0,Sister,2,SUSPECT (kin still in office),BANNED
