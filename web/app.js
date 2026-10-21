@@ -192,7 +192,7 @@ function renderGraph() {
         size: isDQ ? posMeta.size + 5 : posMeta.size,
         color: isDQ ? { background: "#7f0000", border: "#e74c3c" } : { background: posMeta.color, border: posMeta.border },
         borderWidth: isDQ ? 3 : 1,
-        font: { color: "#bdc3c7", size: 12 } // Ensures labels are readable
+        font: { color: "#bdc3c7", size: 11 } // Slightly smaller font to fit gaps
       };
     });
 
@@ -209,19 +209,24 @@ function renderGraph() {
   state.nodeDataSet = new vis.DataSet(nodes);
   state.edgeDataSet = new vis.DataSet(edges);
 
-  // Tuned Physics Options to bring nodes closer together
+  // Tuned Physics Options for Breathing Room
   const options = {
-    edges: { width: 1 },
+    edges: { width: 1, smooth: false },
     physics: {
       enabled: state.physicsOn,
       barnesHut: { 
-        gravitationalConstant: -2500, // Reduced from -8000 (pulls nodes closer)
-        centralGravity: 0.4,          // Pulls everything towards the center
-        springLength: 120,            // Length of the edges
-        springConstant: 0.05,         // Stiffness of the edges
-        avoidOverlap: 0.5             // Prevents labels from overlapping too much
+        gravitationalConstant: -5000, // Stronger push so they don't overlap
+        centralGravity: 0.15,         // Gentle pull to center (was 0.8, which crushed them)
+        springLength: 180,            // Longer edges (was 100) so clusters spread out
+        springConstant: 0.04,         
+        damping: 0.25,                // Keeps the swinging stable
+        avoidOverlap: 1.0             // Enforces space between nodes
       },
-      stabilization: { iterations: 200 },
+      stabilization: { 
+        enabled: true,
+        iterations: 1000,             // More time to untangle
+        updateInterval: 25
+      },
     },
     interaction: { hover: true, tooltipDelay: 100, multiselect: false },
   };
@@ -229,12 +234,10 @@ function renderGraph() {
   if (state.network) {
     state.network.setData({ nodes: state.nodeDataSet, edges: state.edgeDataSet });
     state.network.setOptions(options);
-    // Fit the graph to the screen after updating data
-    setTimeout(() => state.network.fit({ animation: true }), 500);
+    setTimeout(() => state.network.fit({ animation: true }), 800);
   } else {
     state.network = new vis.Network(container, { nodes: state.nodeDataSet, edges: state.edgeDataSet }, options);
     
-    // Auto-zoom and center the graph when it finishes stabilizing
     state.network.on("stabilizationIterationsDone", function () {
       state.network.fit({ animation: true });
     });
